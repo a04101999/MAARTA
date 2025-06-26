@@ -36,11 +36,11 @@ Within this repository, we provide python files that utilizes the synthesized pe
 Models are evaluated using zero-shot chain-of-thought (ZS-CoT) prompting across different architectures, including Llama 3.2-Instruct (3B), Llama 3.2 11B-Vision-Instruct,
 Mistral 7B-Instruct-v0.3, and GPT-4o. For this experiment the Mistral and Llama models are accessed using [together.ai's](https://www.together.ai/) API. GPT-4o-Mini is accessed using [OpenAI's](https://openai.com/api/) API.
 
-- These python files are located in the `./single_agent`, `./single_agent_thought_graph` directories of this repository.
-- To run these programs you will need a together.ai API key and OpenAI API key to perform requests to these models.
-- These API keys can be obtained by signing up for an account on the respective platforms and following their instructions for generating API keys.
-- The API keys will need to be inserted into the code in the respective files located near the top of the file.
-- These scripts are designed to be run from the command line and requires Python 3.8 or higher.
+1. These python files are located in the `./single_agent`, `./single_agent_thought_graph` directories of this repository.
+2. To run these programs you will need a together.ai API key and OpenAI API key to perform requests to these models.
+3. These API keys can be obtained by signing up for an account on the respective platforms and following their instructions for generating API keys.
+4. The API keys will need to be inserted into the code in the respective files located near the top of the file.
+5. These scripts are designed to be run from the command line and requires Python 3.8 or higher.
 
 ```bash
 Usage:
