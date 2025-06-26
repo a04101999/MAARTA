@@ -1,0 +1,185 @@
+{
+    "full_text": " sternotomy wires. normal heart size. hyper-inflated lungs with very prominent interstitial markings bilaterally. this could be related to copd although fibrosis is also possible. there is a patchy opacity most pronounced at the right costophrenic angle, probably scarring.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.9,
+            "end_time": 5.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.9,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.8,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.6,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.2,
+            "phrase": "very"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.0,
+            "phrase": "markings"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.1,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.3,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.1,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 16.6,
+            "phrase": "copd"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.9,
+            "phrase": "although"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.5,
+            "phrase": "fibrosis"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.9,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 19.0,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.3,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 21.7,
+            "phrase": "patchy opacity"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.0,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.4,
+            "phrase": "pronounced"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 24.2,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 25.4,
+            "phrase": "angle,"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 27.5,
+            "phrase": "probably scarring."
+        }
+    ]
+}

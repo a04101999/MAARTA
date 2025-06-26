@@ -1,0 +1,55 @@
+{
+    "full_text": " prominent heart. bilateral pleural effusions with atelectasis. prominent pulmonary vessels.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.4,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.7,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.9,
+            "phrase": "vessels."
+        }
+    ]
+}

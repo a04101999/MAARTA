@@ -1,0 +1,145 @@
+{
+    "full_text": " prominent heart. low lung volumes. left basilar opacity difficult to determine due to heart position. there may be small bilateral effusions with suspected patchy opacity of both bases.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 2.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.9,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.3,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 15.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 17.0,
+            "phrase": "determine"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.5,
+            "phrase": "due"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.7,
+            "phrase": "position."
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.1,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.2,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 23.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.4,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 24.3,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 25.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 25.7,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 25.7,
+            "end_time": 26.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.7,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 26.7,
+            "end_time": 27.3,
+            "phrase": "bases."
+        }
+    ]
+}

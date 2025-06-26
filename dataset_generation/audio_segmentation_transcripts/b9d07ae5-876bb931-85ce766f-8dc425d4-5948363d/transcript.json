@@ -1,0 +1,185 @@
+{
+    "full_text": " normal heart. prominent right paratracheal opacity is nonspecific and could be related to mild patient rotation. dense opacity in the right mid and lower lung for which pneumonia and scarring and malignancy are the primary considerations. lung volume loss.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.1,
+            "end_time": 4.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "paratracheal"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.9,
+            "phrase": "nonspecific"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.1,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.3,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.5,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.9,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.5,
+            "phrase": "rotation."
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 24.7,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 24.7,
+            "end_time": 25.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.7,
+            "phrase": "in the right"
+        },
+        {
+            "begin_time": 25.7,
+            "end_time": 26.2,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 26.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 26.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.3,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 28.3,
+            "end_time": 28.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 30.4,
+            "end_time": 31.1,
+            "phrase": "pneumonia"
+        },
+        {
+            "begin_time": 31.1,
+            "end_time": 31.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 34.8,
+            "end_time": 35.8,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 35.8,
+            "end_time": 36.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 38.0,
+            "end_time": 38.7,
+            "phrase": "malignancy"
+        },
+        {
+            "begin_time": 38.7,
+            "end_time": 38.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 38.8,
+            "end_time": 38.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 38.9,
+            "end_time": 39.4,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 39.4,
+            "end_time": 39.6,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 41.5,
+            "end_time": 42.1,
+            "phrase": "lung volume"
+        },
+        {
+            "begin_time": 42.1,
+            "end_time": 42.3,
+            "phrase": "loss."
+        }
+    ]
+}

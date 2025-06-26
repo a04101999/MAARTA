@@ -1,0 +1,165 @@
+{
+    "full_text": " couple vague nodular opacities in the right mid lung. there's also some vague haziness obscuring the right heart border which could represent a right middle lobe pneumonia. no pleural effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.4,
+            "end_time": 3.7,
+            "phrase": "couple"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.3,
+            "phrase": "vague"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.7,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.3,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.4,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.5,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.9,
+            "phrase": "vague"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 13.7,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.2,
+            "phrase": "obscuring"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 19.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "middle"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.7,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.6,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 21.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.7,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 22.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.9,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

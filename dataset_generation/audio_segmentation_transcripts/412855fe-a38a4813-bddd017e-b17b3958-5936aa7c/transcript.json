@@ -1,0 +1,45 @@
+{
+    "full_text": " poorly penetrated film. cardiomegaly. aortic calficiations. at least small bilateral effusions. left greater than right. generalized haziness of the lungs. pulmonary edema is suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "poorly"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.8,
+            "phrase": "penetrated"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.2,
+            "phrase": "film."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 13.5,
+            "phrase": "aortic calficiations. at least small bilateral effusions. left greater than right. generalized haziness of the lungs."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 17.0,
+            "phrase": "is suspected."
+        }
+    ]
+}

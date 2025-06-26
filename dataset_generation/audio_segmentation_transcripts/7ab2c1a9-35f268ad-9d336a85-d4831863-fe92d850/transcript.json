@@ -1,0 +1,90 @@
+{
+    "full_text": " patient's rotated, which limits examination. right lung is clear. questionable left retrocardiac opacity. prominent heart. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.6,
+            "phrase": "patient's"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "rotated,"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.6,
+            "phrase": "limits"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.7,
+            "phrase": "examination."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 6.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.3,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.0,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.5,
+            "phrase": "retrocardiac"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.1,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "calcifications."
+        }
+    ]
+}

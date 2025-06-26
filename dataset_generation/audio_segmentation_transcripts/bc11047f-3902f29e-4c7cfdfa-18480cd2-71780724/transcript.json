@@ -1,0 +1,65 @@
+{
+    "full_text": " cardiomegaly. patchy peri-infrahilar opacity bilaterally. small effusions bilaterally. suspect a background of copd.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 8.6,
+            "phrase": "peri-infrahilar opacity"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.4,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.1,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.1,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "background"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.9,
+            "phrase": "copd."
+        }
+    ]
+}

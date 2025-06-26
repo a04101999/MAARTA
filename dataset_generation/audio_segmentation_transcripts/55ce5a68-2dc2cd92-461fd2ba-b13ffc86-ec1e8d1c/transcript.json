@@ -1,0 +1,80 @@
+{
+    "full_text": " cardiomegaly. generalized haziness of the lungs. prominent pulmonary vessels. increased opacity of the bases. this is probably. edema. small effusion cannot be excluded.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 5.5,
+            "phrase": "generalized haziness of the lungs. prominent pulmonary vessels."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.9,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.0,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "probably."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.9,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.5,
+            "phrase": "cannot be"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.1,
+            "phrase": "excluded."
+        }
+    ]
+}

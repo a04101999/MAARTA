@@ -1,0 +1,70 @@
+{
+    "full_text": " increased interstitial opacity bilaterally could represent edema or atypical infection. normal heart and mediastinum. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 2.6,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.4,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 5.7,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.5,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.8,
+            "phrase": "atypical"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.6,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 14.7,
+            "phrase": "and mediastinum. no pleural effusion or pneumothorax."
+        }
+    ]
+}

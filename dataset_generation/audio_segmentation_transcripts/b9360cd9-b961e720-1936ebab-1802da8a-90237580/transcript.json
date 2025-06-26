@@ -1,0 +1,130 @@
+{
+    "full_text": " rotation limits the examination. dense opacity at the left lung base could represent an old rib fracture otherwise, no focal consolidation, no large effusion or pneumothorax. left-sided cardiac pacer with leads projecing over the right atrium and ventricle.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.3,
+            "phrase": "rotation"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "limits"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 5.3,
+            "phrase": "examination."
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "opacity at"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.9,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 17.2,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "old"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "rib"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.6,
+            "phrase": "fracture"
+        },
+        {
+            "begin_time": 27.2,
+            "end_time": 27.6,
+            "phrase": "otherwise,"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 31.3,
+            "phrase": "no focal consolidation, no large effusion or pneumothorax."
+        },
+        {
+            "begin_time": 33.7,
+            "end_time": 34.2,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 34.2,
+            "end_time": 34.6,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 34.6,
+            "end_time": 36.0,
+            "phrase": "pacer with leads projecing over the"
+        },
+        {
+            "begin_time": 36.0,
+            "end_time": 36.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 36.2,
+            "end_time": 36.6,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 36.6,
+            "end_time": 36.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 36.8,
+            "end_time": 37.4,
+            "phrase": "ventricle."
+        }
+    ]
+}

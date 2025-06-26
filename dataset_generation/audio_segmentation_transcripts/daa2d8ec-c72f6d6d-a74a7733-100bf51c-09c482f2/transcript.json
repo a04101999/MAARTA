@@ -1,0 +1,35 @@
+{
+    "full_text": " normal heart and mediastinum. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.3,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "clear."
+        }
+    ]
+}

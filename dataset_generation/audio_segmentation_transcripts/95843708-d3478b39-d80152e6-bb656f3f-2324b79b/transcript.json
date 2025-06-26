@@ -1,0 +1,125 @@
+{
+    "full_text": " prominent heart. slight tortous aorta. thoracic spinal degeneration. patchy opacities in the right mid and lower lungs, non specific, could represent atelectasis or infection. maybe post-surgical changes.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.9,
+            "phrase": "tortous"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": "7.0",
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.4,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.2,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "lungs,"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 12.0,
+            "phrase": "non"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "specific,"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 15.0,
+            "phrase": "represent atelectasis or infection."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.1,
+            "phrase": "maybe"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.6,
+            "phrase": "post-surgical"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.8,
+            "phrase": "changes."
+        }
+    ]
+}

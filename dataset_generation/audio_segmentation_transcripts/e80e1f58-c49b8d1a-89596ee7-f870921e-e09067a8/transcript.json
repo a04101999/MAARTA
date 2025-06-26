@@ -1,0 +1,45 @@
+{
+    "full_text": " prominent heart. low lung volumes. small effusion suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 8.6,
+            "end_time": 9.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.4,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.9,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.9,
+            "phrase": "suspected."
+        }
+    ]
+}

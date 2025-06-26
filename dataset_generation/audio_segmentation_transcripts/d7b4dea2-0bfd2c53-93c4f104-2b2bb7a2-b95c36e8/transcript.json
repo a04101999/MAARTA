@@ -1,0 +1,55 @@
+{
+    "full_text": " cardiomegaly. moderate left effusion with atelectasis or consolidation. lungs are otherwise clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 2.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 3.7,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.7,
+            "phrase": "atelectasis or consolidation."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.0,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.4,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.9,
+            "phrase": "clear."
+        }
+    ]
+}

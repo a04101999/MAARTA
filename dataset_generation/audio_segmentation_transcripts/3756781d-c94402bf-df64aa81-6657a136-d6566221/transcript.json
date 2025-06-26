@@ -1,0 +1,100 @@
+{
+    "full_text": " enlarged heart. diffuse perihilar and bibasilar opacity. this is probably infectious. early ards is possible. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.4,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 4.4,
+            "phrase": "diffuse"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.0,
+            "phrase": "perihilar and"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.4,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.9,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.8,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 7.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.6,
+            "phrase": "infectious."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.0,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.7,
+            "phrase": "ards"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.6,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.6,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

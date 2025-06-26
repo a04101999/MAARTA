@@ -1,0 +1,225 @@
+{
+    "full_text": " patient is rotated limiting the examination. left costophenic angle is not completely included. prominent heart. questionable irregularity involving the posterior fourth and fifth ribs could represent acute fractures. the second rib may be fractured as well. no pneumothorax is present. no focal pulmonary opacity. no large effusion. degeneration of both glenohumeral joints.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.5,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "rotated"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "limiting"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.5,
+            "phrase": "examination."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.5,
+            "phrase": "left costophenic angle is not completely included."
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 30.8,
+            "end_time": 31.5,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 31.5,
+            "end_time": 32.0,
+            "phrase": "irregularity"
+        },
+        {
+            "begin_time": 32.0,
+            "end_time": 32.5,
+            "phrase": "involving"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 32.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.0,
+            "phrase": "posterior"
+        },
+        {
+            "begin_time": 35.8,
+            "end_time": 36.4,
+            "phrase": "fourth"
+        },
+        {
+            "begin_time": 36.4,
+            "end_time": 36.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 36.6,
+            "end_time": 36.7,
+            "phrase": "fifth"
+        },
+        {
+            "begin_time": 36.7,
+            "end_time": 37.7,
+            "phrase": "ribs"
+        },
+        {
+            "begin_time": 37.7,
+            "end_time": 38.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 38.0,
+            "end_time": 38.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 38.3,
+            "end_time": 39.1,
+            "phrase": "acute"
+        },
+        {
+            "begin_time": 39.1,
+            "end_time": 39.7,
+            "phrase": "fractures."
+        },
+        {
+            "begin_time": 42.7,
+            "end_time": 43.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 43.1,
+            "end_time": 43.6,
+            "phrase": "second"
+        },
+        {
+            "begin_time": 43.6,
+            "end_time": 43.8,
+            "phrase": "rib may be"
+        },
+        {
+            "begin_time": 43.8,
+            "end_time": 44.4,
+            "phrase": "fractured"
+        },
+        {
+            "begin_time": 44.4,
+            "end_time": 44.5,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 44.5,
+            "end_time": 44.8,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 46.6,
+            "end_time": 47.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 47.0,
+            "end_time": 47.3,
+            "phrase": "pneumothorax"
+        },
+        {
+            "begin_time": 47.3,
+            "end_time": 47.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 47.9,
+            "end_time": 48.5,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 49.9,
+            "end_time": 50.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 50.3,
+            "end_time": 50.6,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 50.6,
+            "end_time": 50.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 50.8,
+            "end_time": 51.6,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 51.6,
+            "end_time": 51.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 52.0,
+            "end_time": 52.2,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 52.2,
+            "end_time": 52.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 55.9,
+            "end_time": 56.6,
+            "phrase": "degeneration"
+        },
+        {
+            "begin_time": 56.6,
+            "end_time": 56.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 56.9,
+            "end_time": 57.2,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 59.9,
+            "end_time": 60.6,
+            "phrase": "glenohumeral"
+        },
+        {
+            "begin_time": 60.6,
+            "end_time": 60.9,
+            "phrase": "joints."
+        }
+    ]
+}

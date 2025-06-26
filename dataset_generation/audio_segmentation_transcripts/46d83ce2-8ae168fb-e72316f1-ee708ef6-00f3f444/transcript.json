@@ -1,0 +1,145 @@
+{
+    "full_text": " prominent heart. there is a dense band of opacity in the right mid lung, suspicious for infection. the right pulmonary hilum is also prominent raising the possibility of neoplastic process as well. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.5,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.7,
+            "phrase": "in the right mid lung,"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 8.0,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 11.2,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.2,
+            "phrase": "pulmonary hilum"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.4,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "raising the"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.2,
+            "phrase": "possibility of neoplastic process"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.3,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

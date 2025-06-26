@@ -1,0 +1,95 @@
+{
+    "full_text": " minimal haziness at the left lung base could be related to epicardial fat. prominent heart. tortuous aorta. moderate scoliosis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 7.7,
+            "end_time": 8.3,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.4,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.0,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.6,
+            "phrase": "epicardial"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.7,
+            "phrase": "fat."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.7,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.6,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.8,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "scoliosis."
+        }
+    ]
+}

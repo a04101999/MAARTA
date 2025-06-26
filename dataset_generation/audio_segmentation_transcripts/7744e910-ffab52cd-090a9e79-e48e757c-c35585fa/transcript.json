@@ -1,0 +1,130 @@
+{
+    "full_text": " elevated right lung base. there is likely a moderate right effusion. there is fairly dense opacity in the right midlung probably infectious. possible air bronchograms within the opacity.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.7,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.5,
+            "phrase": "fairly"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.9,
+            "phrase": "dense opacity in the"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "midlung"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.6,
+            "phrase": "infectious."
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.1,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "air"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.9,
+            "phrase": "bronchograms"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.3,
+            "phrase": "within"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.8,
+            "phrase": "opacity."
+        }
+    ]
+}

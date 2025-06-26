@@ -1,0 +1,120 @@
+{
+    "full_text": " prominent heart. patchy right infrahilar opacity. probably atelectasis but infection or aspiration are considerations as well. there is a tiny right effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.8,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.2,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 9.1,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.9,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.7,
+            "phrase": "aspiration are"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.5,
+            "phrase": "considerations"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.6,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.9,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 17.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 18.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. patchy opacity at the right base, for which atelectasis and infection are the primary considerations. there is right chest wall emphysema extending into the neck.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.6,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.5,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.0,
+            "phrase": "for which"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.4,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.8,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 17.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "chest"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "wall"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.9,
+            "phrase": "emphysema"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.6,
+            "phrase": "extending"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.7,
+            "phrase": "into"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 20.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.1,
+            "phrase": "neck."
+        }
+    ]
+}

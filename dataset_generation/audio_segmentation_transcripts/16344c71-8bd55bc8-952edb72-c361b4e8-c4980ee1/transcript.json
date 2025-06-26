@@ -1,0 +1,105 @@
+{
+    "full_text": " enlarged heart. slightly elevated left lung base. normal lungs. no pleural effusion. no pneumothorax. normal bones and soft tissues. mild scoliosis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.9,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.5,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 12.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.5,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 14.6,
+            "phrase": "normal bones"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.1,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.8,
+            "phrase": "tissues."
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.7,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.7,
+            "phrase": "scoliosis."
+        }
+    ]
+}

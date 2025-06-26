@@ -1,0 +1,95 @@
+{
+    "full_text": " right lung is not completely included. lungs appear clear. no large effusion or pneumothorax. normal heart and mediastinum.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.6,
+            "phrase": "appear"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.0,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.9,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 13.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.7,
+            "phrase": "mediastinum."
+        }
+    ]
+}

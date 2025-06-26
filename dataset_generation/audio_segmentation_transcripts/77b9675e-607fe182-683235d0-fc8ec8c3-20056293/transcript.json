@@ -1,0 +1,100 @@
+{
+    "full_text": " cardiomegaly. sternotomy wires. aortic calcifications. prominent pulmonary vessels which could represent pulmonary congestion. tiny effusion is difficult to exclude.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.8,
+            "end_time": 1.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 2.2,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.4,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.4,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.5,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.5,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.5,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.0,
+            "phrase": "exclude."
+        }
+    ]
+}

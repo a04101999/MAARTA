@@ -1,0 +1,150 @@
+{
+    "full_text": " cardiomegaly. prominent mediastinum, which is probably related to the low lung volumes. patchy bibasilar opacity. no large effusion or pneumothorax. edema and infection are the primary considerations. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.1,
+            "phrase": "mediastinum,"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "related to"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.1,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.8,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 11.9,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.8,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.8,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 20.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 20.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.3,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 22.2,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.9,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.2,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.4,
+            "phrase": "degeneration."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "full_text": " sternotomy wires and mediastinal clips. moderate cardiomegaly. patchy bibasilar opacity. small bilateral effusions right greater than left. actually there is no left effusion. edema and infection are the primary considerations for the opacity.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 2.1,
+            "phrase": "wires"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "mediastinal"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.6,
+            "phrase": "moderate cardiomegaly."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.4,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 12.1,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.6,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.8,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.9,
+            "phrase": "actually"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.6,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 23.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 23.7,
+            "end_time": 23.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.2,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 25.2,
+            "phrase": "considerations"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.4,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 25.9,
+            "phrase": "opacity."
+        }
+    ]
+}

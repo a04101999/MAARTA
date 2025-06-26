@@ -1,0 +1,95 @@
+{
+    "full_text": " normal heart and mediastinum. patchy opacity at the left costophrenic angle. probably pneumonia. small effusion cannot be excluded.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.3,
+            "end_time": 4.9,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 7.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.8,
+            "phrase": "angle."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.1,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 12.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.4,
+            "phrase": "cannot"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.4,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "excluded."
+        }
+    ]
+}

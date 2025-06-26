@@ -1,0 +1,130 @@
+{
+    "full_text": " prominent heart. mild haziness at the lung bases bilaterally. no focal consolidation. small right effusion is not excluded. no pneumothorax. this could represent mild edema or pulmonary congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 4.4,
+            "phrase": "mild haziness at"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.1,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.8,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.2,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.8,
+            "phrase": "excluded."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 12.6,
+            "phrase": "no pneumothorax."
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.6,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.7,
+            "phrase": "congestion."
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "full_text": " moderate cardiomegaly. aortic calcifications. increased opacity throughout both lungs, could represent congestion or edema. small right effusion is difficult to exclude. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.9,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.8,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.6,
+            "phrase": "lungs,"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.5,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.4,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 25.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 25.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 26.1,
+            "end_time": 26.5,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.6,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.2,
+            "phrase": "exclude."
+        },
+        {
+            "begin_time": 29.9,
+            "end_time": 30.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 30.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

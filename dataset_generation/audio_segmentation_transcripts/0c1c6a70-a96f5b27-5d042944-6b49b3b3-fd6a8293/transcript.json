@@ -1,0 +1,75 @@
+{
+    "full_text": " prominent heart. cardiomegaly in fact. suspect small left effusion with atelectasis. right lung appears clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.7000000000000002,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.8,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.2,
+            "phrase": "in fact."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.1,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.6,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.6,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.0,
+            "phrase": "clear."
+        }
+    ]
+}

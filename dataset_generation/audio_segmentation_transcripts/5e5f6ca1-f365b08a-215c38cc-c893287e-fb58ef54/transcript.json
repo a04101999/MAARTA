@@ -1,0 +1,45 @@
+{
+    "full_text": " prominent heart. no focal consolidation, pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 1.9,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

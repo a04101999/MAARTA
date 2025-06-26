@@ -1,0 +1,85 @@
+{
+    "full_text": " low lung volumes limit the examination. right lower lobe opacity could represent infection or mass. no pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.9,
+            "phrase": "volumes"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "limit the"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 8.2,
+            "phrase": "examination."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.6,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 15.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 16.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.2,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 19.4,
+            "phrase": "mass."
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.9,
+            "phrase": "effusion."
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "full_text": " left sided cardiac pacemaker defibrillator with leads projecting over the right atrium, ventricle and coronary sinus. small bilateral effusions are suspected. there is generalized haziness at the bases. this probably represents pulmonary edema. infection is not excluded. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 3.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.3,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.7,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.0,
+            "phrase": "pacemaker"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.6,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.6,
+            "phrase": "projecting over"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.5,
+            "phrase": "atrium,"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.3,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.0,
+            "phrase": "coronary"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.9,
+            "phrase": "sinus."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.4,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.3,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.5,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 15.0,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.9,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 17.3,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.0,
+            "phrase": "infection is not"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 19.2,
+            "phrase": "excluded."
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 23.2,
+            "phrase": "calcifications."
+        }
+    ]
+}

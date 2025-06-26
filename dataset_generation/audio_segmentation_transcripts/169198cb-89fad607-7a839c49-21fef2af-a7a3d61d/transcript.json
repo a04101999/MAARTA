@@ -1,0 +1,55 @@
+{
+    "full_text": " right lung is not completely included. prominent heart aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 1.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.2,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.3,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.6,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "calcifications."
+        }
+    ]
+}

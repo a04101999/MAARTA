@@ -1,0 +1,65 @@
+{
+    "full_text": " dense aortic calcifications. sternotomy wires. prosthetic cardiac valve. cardiomegaly. haziness at both bases could represent mild prominent pulmonary congestion. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.8,
+            "phrase": "dense aortic"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.9,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.5,
+            "phrase": "prosthetic"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.2,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.7,
+            "phrase": "valve."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 7.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.8,
+            "phrase": "haziness at"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.1,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.9,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 13.5,
+            "phrase": "could represent mild prominent pulmonary congestion. no large effusion or pneumothorax."
+        }
+    ]
+}

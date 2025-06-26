@@ -1,0 +1,250 @@
+{
+    "full_text": " cardiomegaly. prominent aortic knob. hyperinflated lungs with flattened diaphragms. suspect small amount of pleural fluid or scarring bilaterally. there is increased density at the left lung base, which is not specific. there is also increased density at the right lung base, which is more amorphous and probably represents infection, atelectasis or aspiration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.7,
+            "phrase": "prominent aortic"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "knob."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.2,
+            "phrase": "hyperinflated"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "flattened"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.7,
+            "phrase": "diaphragms."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 12.0,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.4,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.8,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.3,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.9,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 20.8,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.8,
+            "phrase": "which is"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.6,
+            "phrase": "specific."
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.4,
+            "phrase": "there is"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.5,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.8,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 23.9,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 24.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 24.7,
+            "end_time": 24.9,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 26.8,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 26.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 26.9,
+            "end_time": 27.1,
+            "phrase": "more"
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.5,
+            "phrase": "amorphous"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 28.1,
+            "end_time": 28.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 28.6,
+            "end_time": 29.0,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 31.2,
+            "phrase": "infection,"
+        },
+        {
+            "begin_time": 31.2,
+            "end_time": 32.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 32.0,
+            "end_time": 32.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 33.2,
+            "phrase": "aspiration."
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "full_text": " cardiomegaly. diffuse hazy opacity throughout both lungs. at least moderate left pleural effusion. small right effusion cannot be excluded. this is suspicious for moderate pulmonary edema or severe pulmonary edema",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.1,
+            "end_time": 5.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 6.0,
+            "phrase": "diffuse"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.5,
+            "phrase": "hazy"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.2,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.0,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.8,
+            "phrase": "cannot"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 11.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "excluded."
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.3,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.1,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 19.1,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.7,
+            "phrase": "pulmonary edema"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 21.9,
+            "phrase": "severe"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.6,
+            "phrase": "edema"
+        }
+    ]
+}

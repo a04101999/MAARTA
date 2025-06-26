@@ -1,0 +1,55 @@
+{
+    "full_text": " normal heart and mediastinum. possible right infrahilar opacity, which could represent an early infectious process. no pleural effusion or pneumothorax",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.4,
+            "phrase": "heart and mediastinum."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.8,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 15.0,
+            "phrase": "right infrahilar"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 16.1,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.2,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.4,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 19.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.8,
+            "phrase": "an early infectious"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 23.5,
+            "phrase": "process. no pleural effusion or pneumothorax"
+        }
+    ]
+}

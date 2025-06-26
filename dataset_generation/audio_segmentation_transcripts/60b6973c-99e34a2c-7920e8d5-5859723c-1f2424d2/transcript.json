@@ -1,0 +1,175 @@
+{
+    "full_text": " cardiomegaly. prominent hila. increased density of at the bases. there may be a small right and left effusion. small amount of fluid in the right minor fissure probably. no pneumothorax. overall this probably represents mild pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.0,
+            "phrase": "hila."
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.9,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.5,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.4,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "may be"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.5,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.7,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 14.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.6,
+            "phrase": "fissure"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.5,
+            "phrase": "probably."
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.4,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.9,
+            "phrase": "overall"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.9,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.8,
+            "phrase": "pulmonary edema."
+        }
+    ]
+}

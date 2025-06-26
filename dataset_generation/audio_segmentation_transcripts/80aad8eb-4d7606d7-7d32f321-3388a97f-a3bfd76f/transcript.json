@@ -1,0 +1,95 @@
+{
+    "full_text": " normal heart and mediastinum. streaky scarring or atelectasis at the left lung base. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.2,
+            "end_time": 6.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.4,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.9,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 14.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

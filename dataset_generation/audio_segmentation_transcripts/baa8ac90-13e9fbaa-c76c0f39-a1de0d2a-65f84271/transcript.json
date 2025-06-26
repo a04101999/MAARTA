@@ -1,0 +1,175 @@
+{
+    "full_text": " upper lungs not included. the lungs appear hyper-inflated with increased lucency particularly at the right base. small effusions bilaterally, left greater than right. there is fairly extensive parenchymal opacity on the left in the midlung, which could represent scarring or infection or malignancy.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.4,
+            "end_time": 3.9,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.0,
+            "phrase": "appear"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.3,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.5,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.1,
+            "phrase": "lucency"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 14.0,
+            "phrase": "particularly at the right base."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.7,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.3,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.8,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 17.8,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.0,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.5,
+            "phrase": "fairly"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.8,
+            "phrase": "extensive"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 21.7,
+            "phrase": "parenchymal opacity on"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 21.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.3,
+            "phrase": "left in the midlung,"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 25.1,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 26.1,
+            "end_time": 26.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.7,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 27.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 27.8,
+            "end_time": 28.6,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 30.9,
+            "end_time": 31.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 31.3,
+            "end_time": 31.9,
+            "phrase": "malignancy."
+        }
+    ]
+}

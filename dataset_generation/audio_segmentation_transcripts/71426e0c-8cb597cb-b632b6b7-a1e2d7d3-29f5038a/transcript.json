@@ -1,0 +1,115 @@
+{
+    "full_text": " slightly tortuous ascending aorta with calcification. normal heart. scoliosis as well. left lower lung is not completely included. no focal consolidation, large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.5,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 6.1,
+            "phrase": "ascending aorta"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.4,
+            "phrase": "calcification."
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.5,
+            "phrase": "scoliosis"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.2,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.5,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.7,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.3,
+            "phrase": "is not"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.7,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 18.0,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.4,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 19.3,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.7,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.2,
+            "phrase": "effusion or"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.4,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "full_text": " massive cardiomegaly obscuring the lung bases. small effusions bilaterally are difficult to exclude. slight prominence of the pulmonary vessels. this could represent pulmonary congestion or edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "massive"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.9,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.3,
+            "phrase": "obscuring"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.5,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.1,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.6,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.2,
+            "phrase": "exclude."
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "prominence"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.1,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 19.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 20.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.3,
+            "phrase": "edema."
+        }
+    ]
+}

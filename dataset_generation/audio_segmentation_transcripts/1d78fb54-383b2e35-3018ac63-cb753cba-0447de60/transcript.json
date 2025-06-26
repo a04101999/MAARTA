@@ -1,0 +1,220 @@
+{
+    "full_text": " left-sided ij line with its tip in the superior vena cava. elevated right lung base. pretty dense opacity at the right lung base. this could represent atelectasis given the volume loss or infection. left lung appears clear. couple of air fluid levels noted at the upper abdomen, could represent bowel obstruction in the appropriate setting.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.0,
+            "end_time": 5.6,
+            "phrase": "left-sided ij"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "line"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.5,
+            "phrase": "its"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "tip"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 6.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.3,
+            "phrase": "superior"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "vena"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "cava."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 9.4,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 13.5,
+            "phrase": "pretty dense opacity at the right lung base."
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.5,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 20.5,
+            "phrase": "given"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.9,
+            "phrase": "volume"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.0,
+            "phrase": "loss"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.0,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 25.0,
+            "phrase": "left lung"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.3,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 25.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 34.7,
+            "end_time": 35.3,
+            "phrase": "couple of air"
+        },
+        {
+            "begin_time": 35.3,
+            "end_time": 35.6,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 35.6,
+            "end_time": 35.9,
+            "phrase": "levels"
+        },
+        {
+            "begin_time": 35.9,
+            "end_time": 36.4,
+            "phrase": "noted"
+        },
+        {
+            "begin_time": 36.4,
+            "end_time": 36.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 36.5,
+            "end_time": 36.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 36.6,
+            "end_time": 36.8,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 36.8,
+            "end_time": 36.9,
+            "phrase": "abdomen,"
+        },
+        {
+            "begin_time": 36.9,
+            "end_time": 37.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 37.7,
+            "end_time": 38.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 42.3,
+            "end_time": 43.3,
+            "phrase": "bowel obstruction"
+        },
+        {
+            "begin_time": 43.3,
+            "end_time": 43.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 43.6,
+            "end_time": 43.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 43.7,
+            "end_time": 44.0,
+            "phrase": "appropriate"
+        },
+        {
+            "begin_time": 44.0,
+            "end_time": 44.5,
+            "phrase": "setting."
+        }
+    ]
+}

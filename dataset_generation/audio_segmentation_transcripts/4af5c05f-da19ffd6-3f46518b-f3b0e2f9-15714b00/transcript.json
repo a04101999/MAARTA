@@ -1,0 +1,115 @@
+{
+    "full_text": " cardiomegaly. sternotomy wires. cardiac clips. the lung bases are not included bilaterally. small effusions are possible bilaterally. no focal consolidation or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 4.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.6,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "included"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.3,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.5,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.2,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.0,
+            "phrase": "consolidation"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 21.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

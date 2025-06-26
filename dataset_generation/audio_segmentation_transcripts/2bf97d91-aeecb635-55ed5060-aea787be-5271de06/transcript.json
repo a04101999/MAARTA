@@ -1,0 +1,140 @@
+{
+    "full_text": " normal heart and mediastinum. there appears to be right azygous fissure. normal variant. left lung is clear. there is patchy  opacity at the right base, atelectasis versus infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.2,
+            "end_time": 4.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.4,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.5,
+            "phrase": "to be"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.7,
+            "phrase": "azygous"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.0,
+            "phrase": "variant."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 12.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 12.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.2,
+            "phrase": "patchy "
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 13.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.8,
+            "phrase": "versus"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 18.6,
+            "phrase": "infiltrate."
+        }
+    ]
+}

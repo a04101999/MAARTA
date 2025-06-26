@@ -1,0 +1,55 @@
+{
+    "full_text": " normal heart. aortic calcifications. left costophrenic angle not completely included. lung clear as visualized.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.7,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.7,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.8,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.4,
+            "phrase": "completely included."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 14.5,
+            "phrase": "lung clear as visualized."
+        }
+    ]
+}

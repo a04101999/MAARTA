@@ -1,0 +1,185 @@
+{
+    "full_text": " sternotomy wires. prominent heart. aortic calcifications. patchy opacity bilaterally at the bases. right greater than left. there is also right pleural effusion with atelectasis, which elevates the right lung base. infection at the right base is also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.8,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 8.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.7,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.4,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.4,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.4,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.7,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "atelectasis,"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 15.5,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.9,
+            "phrase": "elevates"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 18.2,
+            "phrase": "infection at the"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.6,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.9,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.4,
+            "phrase": "possible."
+        }
+    ]
+}

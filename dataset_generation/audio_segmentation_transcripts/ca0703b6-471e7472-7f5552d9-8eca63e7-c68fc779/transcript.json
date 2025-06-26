@@ -1,0 +1,110 @@
+{
+    "full_text": " prominent. heart. hazy opacity at the right base could represent mild congestion or early infiltrate. tiny left effusion is difficult to exclude. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 1.9,
+            "phrase": "prominent."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.7,
+            "phrase": "hazy opacity"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.0,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.9,
+            "phrase": "early infiltrate."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.5,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.0,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 18.1,
+            "phrase": "exclude."
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.3,
+            "phrase": "no pneumothorax."
+        }
+    ]
+}

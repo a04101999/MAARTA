@@ -1,0 +1,145 @@
+{
+    "full_text": " normal heart and mediastinum. there is a rounded opacity projecting over the right mid lung peripherally, which could represent a mass or loculated fluid. left lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 5.1,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.2,
+            "phrase": "rounded"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.7,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.4,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.4,
+            "phrase": "peripherally,"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.3,
+            "phrase": "mass"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "loculated"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "fluid."
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.7,
+            "phrase": "clear."
+        }
+    ]
+}

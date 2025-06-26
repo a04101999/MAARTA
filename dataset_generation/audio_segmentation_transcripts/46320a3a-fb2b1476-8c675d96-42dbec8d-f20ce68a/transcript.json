@@ -1,0 +1,50 @@
+{
+    "full_text": " low lung volumes. cardiomegaly. no focal consolidation, large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.0,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 4.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.7,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.6,
+            "phrase": "large effusion"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.7,
+            "phrase": "or pneumothorax."
+        }
+    ]
+}

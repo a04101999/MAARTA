@@ -1,0 +1,65 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. sternotomy wires. bilateral effusions left bigger than right, with atelectasis or infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.7,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.9,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.3,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.8,
+            "phrase": "bigger"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 10.8,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "right,"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 14.5,
+            "phrase": "with atelectasis or infiltrate."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "full_text": " normal heart and mediastinum. right lung is not completely included. normal lungs as visualized.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.1,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 9.6,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "normal lungs"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.4,
+            "phrase": "visualized."
+        }
+    ]
+}

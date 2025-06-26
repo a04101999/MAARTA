@@ -1,0 +1,130 @@
+{
+    "full_text": " mild cardiomegaly. moderate right pleural effusion with atelectasis or consolidation. prominent pulmonary vessels bilaterally. a small left effusion may be present as well. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.7000000000000002,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.3,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 7.1,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.4,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.5,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.2,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.4,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.9,
+            "phrase": "present"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.4,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.1,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "full_text": " cardiomegaly. low lung volumes. no large effusion. prominent vessels. this could represent mild congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.0,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 13.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 14.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 16.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.6,
+            "phrase": "congestion."
+        }
+    ]
+}

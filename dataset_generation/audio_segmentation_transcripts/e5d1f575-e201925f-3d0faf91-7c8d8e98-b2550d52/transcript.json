@@ -1,0 +1,80 @@
+{
+    "full_text": " moderate cardiomegaly. generalized haziness of lungs probably representing pulmonary congestion. no definite effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.7,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.1,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.8,
+            "phrase": "representing"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.3,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 12.3,
+            "phrase": "definite"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

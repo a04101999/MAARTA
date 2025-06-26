@@ -1,0 +1,55 @@
+{
+    "full_text": " prominent ascending aorta , probably tortuous. normal heart. the lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.1,
+            "end_time": 5.8,
+            "phrase": "prominent ascending"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "aorta"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": ","
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "tortuous."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.7,
+            "phrase": "the lungs"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.8,
+            "phrase": "clear."
+        }
+    ]
+}

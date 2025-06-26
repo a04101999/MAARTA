@@ -1,0 +1,130 @@
+{
+    "full_text": " cardiomegaly. left-sided moderate to large pleural effusion with atelectasis or consolidation. perihilar generalized density on the right. this has the appearance of edema. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.9,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 5.4,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.4,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.6,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.3,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.9,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.3,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.0,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.5,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "has"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 18.9,
+            "phrase": "appearance"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.8,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 23.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "full_text": " thoracic spinal degeneration. cardiomegaly. aortic calcifications. generalized haziness of lungs. there may be a trace right effusion. mild congestion is suspected. elevated humeral heads bilaterally suggesting large chronic rotator cuff tears. thoracic cervical degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 10.2,
+            "phrase": "generalized haziness"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.8,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.5,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.2,
+            "phrase": "is suspected."
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.6,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.0,
+            "phrase": "humeral"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.3,
+            "phrase": "heads"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.9,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.5,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.2,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.9,
+            "phrase": "chronic"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.1,
+            "phrase": "rotator"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.5,
+            "phrase": "cuff"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.9,
+            "phrase": "tears."
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 26.5,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.8,
+            "phrase": "cervical"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.0,
+            "phrase": "degeneration."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. bibasilar generalized opacity with kerley b-lines. this is compatible with pulmonary edema. no large effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 2.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 4.2,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.1,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.5,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.9,
+            "phrase": "kerley"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.6,
+            "phrase": "b-lines."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.5,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.1,
+            "phrase": "compatible"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.4,
+            "phrase": "pulmonary edema."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.9,
+            "phrase": "no large effusion."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "full_text": " right lung not completely included. normal heart and mediastinum. slight right convexity. thoracic curve.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.3,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.0,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.2,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.2,
+            "phrase": "convexity."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.7,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 12.5,
+            "phrase": "curve."
+        }
+    ]
+}

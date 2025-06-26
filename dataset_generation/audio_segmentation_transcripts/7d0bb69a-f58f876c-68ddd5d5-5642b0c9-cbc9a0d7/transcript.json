@@ -1,0 +1,145 @@
+{
+    "full_text": " prominent heart. aortic calcifications. left sided cardiac pacer with leads projecting over the right atrium and ventricle. small left effusion with some hazinesss of the lung. there's also patchy opacity at the right lower lung. this is suspected to represent pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 8.0,
+            "phrase": "left sided cardiac pacer with leads projecting over the right atrium and ventricle."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.5,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.8,
+            "phrase": "hazinesss of"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.4,
+            "phrase": "the lung."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.2,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.4,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.3,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.7,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.5,
+            "phrase": "edema."
+        }
+    ]
+}

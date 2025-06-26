@@ -1,0 +1,50 @@
+{
+    "full_text": " sternotomy wires. aortic calcifications. bilateral pleural effusions with atelectasis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.8,
+            "end_time": 1.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 2.3,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.2,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.2,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.7,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.8,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.1,
+            "phrase": "atelectasis."
+        }
+    ]
+}

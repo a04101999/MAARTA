@@ -1,0 +1,105 @@
+{
+    "full_text": " cardiomegaly with aortic calcifications. prominent pulmonary vasculature. suspect small left effusion. patchy opacity at the bases. edema is most likely with infection is possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 2.2,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.9,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.4,
+            "phrase": "prominent pulmonary"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.9,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.1,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.1,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.0,
+            "phrase": "edema is"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.3,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.7,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.6,
+            "phrase": "infection is possible."
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "full_text": " slight haziness at the bases bilaterally, right greater than left. could be normal, but could represent early infection or edema. prominent heart. aortic calcifications. small right effusion cannot be excluded.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.4,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "normal,"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.5,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 15.0,
+            "phrase": "represent early infection or edema. prominent heart. aortic calcifications."
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.7,
+            "phrase": "cannot"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 17.8,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.1,
+            "phrase": "excluded."
+        }
+    ]
+}

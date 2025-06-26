@@ -1,0 +1,90 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vessels. prominent peri-hilar opacity. trace effusion is suspected, right greater than left. mild pulmonary edema is suspected. lordotic positioning.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.2,
+            "end_time": 2.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.5,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 5.2,
+            "phrase": "peri-hilar"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.0,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.7,
+            "phrase": "trace effusion"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.6,
+            "phrase": "is suspected,"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "right greater than"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.9,
+            "phrase": "is suspected."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 16.1,
+            "phrase": "lordotic"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.9,
+            "phrase": "positioning."
+        }
+    ]
+}

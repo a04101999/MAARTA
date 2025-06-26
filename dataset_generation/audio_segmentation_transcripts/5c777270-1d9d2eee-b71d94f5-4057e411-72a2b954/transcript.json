@@ -1,0 +1,125 @@
+{
+    "full_text": " triangular opacity at the right lung base. probably atelectasis. slight elevation of the right lung base also suggesting atelectasis. left lung is clear/ normal heart and mediastinum.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.4,
+            "phrase": "triangular opacity"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.4,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 7.0,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.3,
+            "phrase": "elevation"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.5,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.1,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.9,
+            "phrase": "left lung is"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "clear/"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.8,
+            "phrase": "mediastinum."
+        }
+    ]
+}

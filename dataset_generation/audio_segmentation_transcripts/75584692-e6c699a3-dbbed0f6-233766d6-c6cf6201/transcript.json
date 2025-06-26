@@ -1,0 +1,120 @@
+{
+    "full_text": " sternotomy wires. prosthetic heart valve. cardiomegaly. hyper-inflated lungs with irregular reticulated opacities suspicious for scarring or bronchiectasis. patchy left basilar opacity. probably additional scarring. vertebroplasty changes in the lower thoracic or upper lumbar spine.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.8,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.3,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 5.2,
+            "phrase": "prosthetic"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.1,
+            "phrase": "valve."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 7.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.0,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 10.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.0,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.6,
+            "phrase": "reticulated"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.8,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 20.5,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 22.3,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 25.1,
+            "phrase": "bronchiectasis."
+        },
+        {
+            "begin_time": 30.2,
+            "end_time": 30.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 30.8,
+            "end_time": 31.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 31.3,
+            "end_time": 31.6,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 31.6,
+            "end_time": 31.8,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 31.8,
+            "end_time": 35.0,
+            "phrase": "probably additional scarring."
+        },
+        {
+            "begin_time": 35.0,
+            "end_time": 40.0,
+            "phrase": "vertebroplasty changes in the lower thoracic or upper lumbar spine."
+        }
+    ]
+}

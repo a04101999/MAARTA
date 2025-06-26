@@ -1,0 +1,120 @@
+{
+    "full_text": " prominent heart. small right effusion with atelectasis. left lung is clear. volume loss on the right, which could be partially related to rotation.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 1.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 7.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.2,
+            "phrase": "volume"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "loss"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "right,"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.7,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.4,
+            "phrase": "partially"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.9,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 18.1,
+            "phrase": "rotation."
+        }
+    ]
+}

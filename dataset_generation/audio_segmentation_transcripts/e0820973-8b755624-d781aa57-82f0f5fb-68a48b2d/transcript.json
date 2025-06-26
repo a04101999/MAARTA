@@ -1,0 +1,180 @@
+{
+    "full_text": " much of the left lung is not included in the field of view. the heart and mediastinum are normal. the patient is also rotated. interstitial opacity throughout the right lung. no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.3,
+            "phrase": "much"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.2,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.7,
+            "phrase": "included"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 3.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "field"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.2,
+            "phrase": "view."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.1,
+            "phrase": "mediastinum"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.7,
+            "phrase": "normal."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.9,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 10.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.0,
+            "phrase": "rotated."
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.9,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.7,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 19.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.4,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.4,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.2,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

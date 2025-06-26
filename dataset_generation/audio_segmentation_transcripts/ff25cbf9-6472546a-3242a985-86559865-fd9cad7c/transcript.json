@@ -1,0 +1,95 @@
+{
+    "full_text": " lung apices not included. slightly elevated left lung base. no focal consolidation, pleural effusion or pneumothorax. normal heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.4,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "heart."
+        }
+    ]
+}

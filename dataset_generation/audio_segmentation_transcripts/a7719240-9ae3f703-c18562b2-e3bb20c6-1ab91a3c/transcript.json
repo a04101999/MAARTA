@@ -1,0 +1,100 @@
+{
+    "full_text": " slightly elevated right lung base. costophrenic angles not totally included. mild congestion may be present. no focal consolidation. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.7,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.4,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "totally"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.5,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.6,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.7,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 20.0,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.6,
+            "phrase": "no pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "full_text": " low lung volumes. prominent heart. aortic calcifications. there's some scoliosis. kerley b lines on the left. small effusions bilaterally are suspected. overall this probably represents mild pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.4,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.9,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 8.6,
+            "phrase": "there's some"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.6,
+            "phrase": "scoliosis."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "kerley"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.4,
+            "phrase": "b"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.9,
+            "phrase": "lines"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.0,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.7,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.4,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 16.0,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.1,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 18.0,
+            "phrase": "overall"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.7,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.2,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 20.5,
+            "phrase": "mild pulmonary edema."
+        }
+    ]
+}

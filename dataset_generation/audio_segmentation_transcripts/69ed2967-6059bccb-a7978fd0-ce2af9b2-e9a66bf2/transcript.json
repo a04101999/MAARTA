@@ -1,0 +1,60 @@
+{
+    "full_text": " right lung not completely included. there is a right basilar density which is not completely included but suspicious for pneumonia. prominent pulmonary vasculature. normal heart and mediastinum.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.8,
+            "phrase": "right lung"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.1,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.1,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.5,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 7.7,
+            "phrase": "density which is not completely included but suspicious for pneumonia."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 12.5,
+            "phrase": "prominent pulmonary vasculature. normal heart and mediastinum."
+        }
+    ]
+}

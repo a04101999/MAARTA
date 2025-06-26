@@ -1,0 +1,115 @@
+{
+    "full_text": " right costophrenic angle not completely included. subtle hazy areas in the lower lungs bilaterally probably represent superimposition of ribs. normal heart and mediastinum.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.0,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 5.0,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.8,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.7,
+            "phrase": "subtle"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.1,
+            "phrase": "hazy"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.6,
+            "phrase": "areas"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.7,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.1,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.4,
+            "phrase": "superimposition"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.3,
+            "phrase": "ribs."
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 24.3,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 25.0,
+            "phrase": "mediastinum."
+        }
+    ]
+}

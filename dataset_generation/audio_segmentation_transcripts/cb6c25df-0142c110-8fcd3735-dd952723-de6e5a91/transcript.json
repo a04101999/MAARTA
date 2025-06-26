@@ -1,0 +1,75 @@
+{
+    "full_text": " normal heart and mediastinum. thoracic spinal degeneration. lungs are clear. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 4.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 9.6,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.9,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.2,
+            "phrase": "or pneumothorax."
+        }
+    ]
+}

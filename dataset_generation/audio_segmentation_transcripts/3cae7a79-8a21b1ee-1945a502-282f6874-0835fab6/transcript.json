@@ -1,0 +1,135 @@
+{
+    "full_text": " prominent heart. left sided cardiac pacer/defibrillator with leads projecting over the right atrium and ventricle. sternotomy wires and cardiac clips. questionable patchy perihilar opacities on the right could represent infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.4,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.4,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.5,
+            "phrase": "pacer/defibrillator"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.3,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.7,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.6,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.0,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 11.0,
+            "phrase": "sternotomy wires and cardiac"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.5,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.7,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.8,
+            "phrase": "perihilar opacities"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.0,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 22.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.6,
+            "phrase": "infection."
+        }
+    ]
+}

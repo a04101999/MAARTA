@@ -1,0 +1,115 @@
+{
+    "full_text": " the patient is rotated. thoracic spinal degeneration. normal heart size. aortic calcifications. the lungs are clear. left apex is not completely included.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.7,
+            "end_time": 4.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.4,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.1,
+            "phrase": "rotated."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 12.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.2,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.5,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.7,
+            "phrase": "apex"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.0,
+            "phrase": "included."
+        }
+    ]
+}

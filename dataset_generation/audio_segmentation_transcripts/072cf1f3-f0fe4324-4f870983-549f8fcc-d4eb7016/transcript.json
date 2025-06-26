@@ -1,0 +1,80 @@
+{
+    "full_text": " probable right convexity thoracic scoliosis. no pleural effusion or pneumothorax. no focal consolidation. the cardiomediastinum is normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.0,
+            "phrase": "probable"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "convexity"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.4,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "scoliosis."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 5.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.3,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 14.3,
+            "phrase": "cardiomediastinum is normal."
+        }
+    ]
+}

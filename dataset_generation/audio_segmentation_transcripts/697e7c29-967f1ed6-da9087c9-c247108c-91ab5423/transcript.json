@@ -1,0 +1,65 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vasculature. mild generalized haziness of lungs. suspect kerley b lines on the left. no large effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.2,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.0,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.3,
+            "phrase": "mild generalized haziness of"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.9,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 12.1,
+            "phrase": "suspect kerley b lines on"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.7,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.8,
+            "phrase": "effusion."
+        }
+    ]
+}

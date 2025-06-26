@@ -1,0 +1,220 @@
+{
+    "full_text": " slight prominence of the heart may be related to low lung volumes. patient's chin obscures apices somewhat. band of atelectasis or scarring in the left lower lung. minimal patchy atelectasis in the right lung. there is a small calcified nodule in the right lower lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.0,
+            "phrase": "prominence"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.2,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.9,
+            "phrase": "patient's"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 10.2,
+            "phrase": "chin obscures"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.3,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.8,
+            "phrase": "somewhat."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.7,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.0,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 18.4,
+            "phrase": "minimal patchy"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.8,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.3,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.5,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.8,
+            "phrase": "nodule"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 22.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.4,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.6,
+            "phrase": "lung."
+        }
+    ]
+}

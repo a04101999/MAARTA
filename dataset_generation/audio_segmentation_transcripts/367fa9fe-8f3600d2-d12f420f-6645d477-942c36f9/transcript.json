@@ -1,0 +1,20 @@
+{
+    "full_text": " normal heart and mediastinum. low lung volumes. the lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 3.9,
+            "phrase": "heart and mediastinum. low lung volumes."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 5.5,
+            "phrase": "the lungs are clear."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "full_text": " normal heart. aortic calcifications. lungs are clear. there may be a trace left effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 1.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 10.9,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.6,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 13.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

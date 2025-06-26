@@ -1,0 +1,125 @@
+{
+    "full_text": " mild cardiomegaly. patchy perihilar opacity, most profound at the right infrahilar region. no pleural effusion or pneumothorax. this could represent mild edema or infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 3.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 8.0,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.4,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "profound"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 10.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.6,
+            "phrase": "region."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.8,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.6,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.9,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 19.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.7,
+            "phrase": "infection."
+        }
+    ]
+}

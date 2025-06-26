@@ -1,0 +1,95 @@
+{
+    "full_text": " prominent heart. aortic calcifications. right basilar density with air bronchograms is suspicious for pneumonia. there is an associated effusion. probably a fair amount of effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.5,
+            "end_time": 5.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.5,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.0,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 13.2,
+            "phrase": "air bronchograms"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 14.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 16.7,
+            "phrase": "suspicious for pneumonia. there is an"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.1,
+            "phrase": "associated"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 19.0,
+            "phrase": "fair"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.3,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.6,
+            "phrase": "effusion."
+        }
+    ]
+}

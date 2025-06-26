@@ -1,0 +1,80 @@
+{
+    "full_text": " low lung volumes. limited examination. normal heart size. no definite consolidation. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 2.7,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 4.4,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "limited"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.9,
+            "phrase": "examination."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.5,
+            "phrase": "definite"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.2,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 15.1,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

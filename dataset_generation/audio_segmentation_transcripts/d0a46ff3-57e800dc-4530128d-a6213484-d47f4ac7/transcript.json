@@ -1,0 +1,265 @@
+{
+    "full_text": " cardiomegaly. the right costophrenic angle is not entirely included. no large pleural effusion. there is a rounded opacity projecting over the midline heart which could represent a hiatal hernia or a posterior mediastinal mass. small amount of fluid in the right minor fissure. mild pulmonary edema may be present. right acromioclavicular osteoarthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.2,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 9.0,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.0,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "rounded"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 16.0,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.7,
+            "phrase": "midline"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.6,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.0,
+            "phrase": "hiatal"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.8,
+            "phrase": "hernia"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 28.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 28.3,
+            "end_time": 28.4,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 28.4,
+            "end_time": 28.8,
+            "phrase": "posterior"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.4,
+            "phrase": "mediastinal"
+        },
+        {
+            "begin_time": 29.4,
+            "end_time": 30.2,
+            "phrase": "mass."
+        },
+        {
+            "begin_time": 31.9,
+            "end_time": 32.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 32.1,
+            "end_time": 32.3,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 32.3,
+            "end_time": 32.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 32.3,
+            "end_time": 32.6,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 32.6,
+            "end_time": 32.7,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 32.7,
+            "end_time": 32.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 33.1,
+            "end_time": 33.4,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 33.4,
+            "end_time": 34.2,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 40.0,
+            "end_time": 40.4,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 40.4,
+            "end_time": 40.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 40.7,
+            "end_time": 41.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 41.2,
+            "end_time": 41.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 41.5,
+            "end_time": 41.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 41.6,
+            "end_time": 42.3,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 47.8,
+            "end_time": 48.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 48.0,
+            "end_time": 49.0,
+            "phrase": "acromioclavicular"
+        },
+        {
+            "begin_time": 49.0,
+            "end_time": 49.8,
+            "phrase": "osteoarthritis."
+        }
+    ]
+}

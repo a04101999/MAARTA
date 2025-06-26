@@ -1,0 +1,100 @@
+{
+    "full_text": " cardiomegaly. cephalization of vessels. lungs are hazy. suspect bilateral effusions that are small. overall this probably represents pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 4.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "cephalization"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.6,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.0,
+            "phrase": "hazy."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.8,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.3,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.0,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 16.1,
+            "phrase": "that"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.7,
+            "phrase": "small."
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.7,
+            "phrase": "overall"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.3,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.8,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.2,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "edema."
+        }
+    ]
+}

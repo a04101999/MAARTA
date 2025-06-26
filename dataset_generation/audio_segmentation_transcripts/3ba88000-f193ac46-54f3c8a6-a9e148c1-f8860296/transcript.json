@@ -1,0 +1,95 @@
+{
+    "full_text": " moderate cardiomegaly. moderate perihilar haziness. kerley b lines bilaterally. no large effusion or pneumothorax. this probably represents early pulmonary edema. there is increased density at the right base which is assymetric which ould represent a superimoposed infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.8,
+            "end_time": 4.0,
+            "phrase": "moderate cardiomegaly."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 4.0,
+            "phrase": "moderate perihilar haziness."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.6,
+            "phrase": "kerley"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "b"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.3,
+            "phrase": "lines"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.5,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 17.5,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.8,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.4,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.6,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 25.4,
+            "phrase": "there is increased density at the right base which is assymetric which ould represent a superimoposed infection."
+        }
+    ]
+}

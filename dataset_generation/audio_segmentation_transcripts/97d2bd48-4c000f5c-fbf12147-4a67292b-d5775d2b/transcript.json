@@ -1,0 +1,50 @@
+{
+    "full_text": " normal heart and mediastinum. thoracic spinal degeneration. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.7000000000000002,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 1.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.3,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 4.1,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.3,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "lungs."
+        }
+    ]
+}

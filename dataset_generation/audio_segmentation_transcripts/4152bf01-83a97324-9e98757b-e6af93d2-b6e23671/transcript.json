@@ -1,0 +1,155 @@
+{
+    "full_text": " moderate right pleural effusion with atelectasis and consolidation. there is a small left effusion also with atelectasis. no pneumothorax. heart appears enlarged, although the right border is obscured by pulmonary opacity.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.2,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 6.1,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.3,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.6,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.2,
+            "phrase": "heart appears"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.7,
+            "phrase": "enlarged,"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.0,
+            "phrase": "although"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.2,
+            "phrase": "obscured"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.4,
+            "phrase": "by"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.6,
+            "phrase": "opacity."
+        }
+    ]
+}

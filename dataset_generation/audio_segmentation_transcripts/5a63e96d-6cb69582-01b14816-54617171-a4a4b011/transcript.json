@@ -1,0 +1,135 @@
+{
+    "full_text": " sternotomy wires. prominent heart. tortuous aorta with calcifications. patchy peri-hilar and bibasilar opacity. mild small left effusion. mild edema is suspected. severe left acromioclavicular osteoarthritis. moderate right acromioclavicular osteoarthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.7000000000000002,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.8,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "aorta"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.6,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 7.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.5,
+            "phrase": "peri-hilar and bibasilar"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.6,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.5,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.8,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.3,
+            "phrase": "severe"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.9,
+            "phrase": "acromioclavicular"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.9,
+            "phrase": "osteoarthritis."
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.7,
+            "phrase": "moderate right"
+        },
+        {
+            "begin_time": 28.7,
+            "end_time": 29.0,
+            "phrase": "acromioclavicular"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.8,
+            "phrase": "osteoarthritis."
+        }
+    ]
+}

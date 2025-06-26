@@ -1,0 +1,120 @@
+{
+    "full_text": " left sided chestport with its tip in the superior vena ceva. promiment heart. minimal left basilar atelectasis. prominent pulmonary vasculature. clips in the right side of the neck.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.6,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 2.2,
+            "phrase": "chestport"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "its"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "tip"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.9,
+            "phrase": "superior vena ceva. promiment heart."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.2,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "left basilar"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.6,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.0,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.5,
+            "phrase": "clips"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.0,
+            "phrase": "side"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.2,
+            "phrase": "neck."
+        }
+    ]
+}

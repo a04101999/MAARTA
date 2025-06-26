@@ -1,0 +1,110 @@
+{
+    "full_text": " partially visualized harrington rods. prominent heart. prominent pulmonary vasculature. mild haziness with basilar predominance. no pleural effusion. this could represent mild congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.5,
+            "phrase": "partially"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.9,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.4,
+            "phrase": "harrington"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.9,
+            "phrase": "rods."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.6,
+            "phrase": "prominent pulmonary"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.0,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.1,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.4,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.0,
+            "phrase": "predominance."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.8,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 12.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.6,
+            "phrase": "congestion."
+        }
+    ]
+}

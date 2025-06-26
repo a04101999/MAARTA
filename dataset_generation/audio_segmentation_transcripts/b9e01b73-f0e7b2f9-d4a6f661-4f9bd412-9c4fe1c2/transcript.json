@@ -1,0 +1,100 @@
+{
+    "full_text": " left lung not completely included. normal heart and mediastinum. left lung i mean right lung is clear. bones and soft tissues normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.7,
+            "phrase": "left lung not"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.7,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.0,
+            "phrase": "i"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "mean"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.6,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.0,
+            "phrase": "soft tissues"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.6,
+            "phrase": "normal."
+        }
+    ]
+}

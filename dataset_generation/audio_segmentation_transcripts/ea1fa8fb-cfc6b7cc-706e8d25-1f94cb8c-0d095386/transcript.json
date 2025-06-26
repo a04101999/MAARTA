@@ -1,0 +1,140 @@
+{
+    "full_text": " costophrenic angles are not completely included. no large effusion. lungs are clear. normal heart and mediastinum. thoracic spinal degeneration. suspected old fracture of the distal right clavicle.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.4,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.6,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.6,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.9,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.4,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.3,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.6,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.7,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.2,
+            "phrase": "old"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.7,
+            "phrase": "fracture"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "distal"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.7,
+            "phrase": "clavicle."
+        }
+    ]
+}

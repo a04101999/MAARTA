@@ -1,0 +1,140 @@
+{
+    "full_text": " cardiomegaly. sternotomy wires with cardiac clips. hyper inflated lungs with cephalization of vessels. small right pleural effusion with atelectasis. patchy opacity of both bases. could represent edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.6,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.0,
+            "phrase": "wires"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "hyper"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.7,
+            "phrase": "inflated"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 13.0,
+            "phrase": "cephalization"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.9,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.4,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 20.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.0,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.6,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.2,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.9,
+            "phrase": "edema."
+        }
+    ]
+}

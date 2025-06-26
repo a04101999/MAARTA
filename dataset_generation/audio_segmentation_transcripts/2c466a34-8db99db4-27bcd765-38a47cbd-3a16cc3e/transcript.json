@@ -1,0 +1,200 @@
+{
+    "full_text": " left-sided cardiac defibrillator with lead in the right ventricle. enlarged heart. left costophrenic angle is not included. left lung base is not included. small right effusion is suspected. vague haziness in the right mid lung. probably artifactual but could represent pneumonia.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.6,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.0,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.5,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "lead"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.0,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.6,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.1,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.6,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 9.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.1,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.0,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 16.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.8,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 20.1,
+            "phrase": "vague haziness"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 21.5,
+            "phrase": "mid lung."
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.0,
+            "phrase": "artifactual"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.2,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.3,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 24.8,
+            "end_time": 25.3,
+            "phrase": "pneumonia."
+        }
+    ]
+}

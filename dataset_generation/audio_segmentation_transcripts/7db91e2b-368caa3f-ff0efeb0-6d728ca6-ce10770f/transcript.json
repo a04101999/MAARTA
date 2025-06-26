@@ -1,0 +1,35 @@
+{
+    "full_text": " enlarged heart. moderate left effusion with atelectasis or consolidation. the right lung is clear. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 4.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 8.4,
+            "phrase": "left effusion with atelectasis or consolidation."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 12.7,
+            "phrase": "the right lung is clear."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 12.7,
+            "phrase": "no pneumothorax."
+        }
+    ]
+}

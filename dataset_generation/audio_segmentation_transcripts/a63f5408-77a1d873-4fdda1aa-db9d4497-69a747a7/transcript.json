@@ -1,0 +1,70 @@
+{
+    "full_text": " cardiomegaly. tortuous calcific aorta. prominence of the right hilum, probably related to rotation.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.7,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.5,
+            "phrase": "calcific"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.6,
+            "phrase": "prominence"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.4,
+            "phrase": "hilum,"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.9,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 19.0,
+            "phrase": "rotation."
+        }
+    ]
+}

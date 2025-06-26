@@ -1,0 +1,150 @@
+{
+    "full_text": " prominent heart. suspect irregular reticular opacities bilaterally. there could be interstitial fibrotic process. patchy opacity at the left base for which edema, infiltrate, not edema, infiltrate or atelectasis or fibrosis are considerations.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.4,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.9,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.4,
+            "phrase": "reticular"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.4,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.6,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.3,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.4,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.9,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 21.4,
+            "phrase": "fibrotic"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.0,
+            "phrase": "process."
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 24.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.3,
+            "phrase": "at the left"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.6,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.8,
+            "phrase": "for which"
+        },
+        {
+            "begin_time": 24.8,
+            "end_time": 25.9,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 25.9,
+            "end_time": 26.2,
+            "phrase": "infiltrate,"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.5,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 28.8,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.5,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 29.5,
+            "end_time": 29.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 29.8,
+            "end_time": 30.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 30.5,
+            "end_time": 31.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 31.8,
+            "end_time": 32.4,
+            "phrase": "fibrosis"
+        },
+        {
+            "begin_time": 32.4,
+            "end_time": 32.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 33.0,
+            "phrase": "considerations."
+        }
+    ]
+}

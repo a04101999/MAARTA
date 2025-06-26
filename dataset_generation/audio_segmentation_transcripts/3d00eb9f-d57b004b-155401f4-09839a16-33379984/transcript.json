@@ -1,0 +1,90 @@
+{
+    "full_text": " sternotomy wires. prominent heart. lung bases are not entirely included. no large effusion nor pneumothorax. bilateral acromioclavicular osteoarthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 2.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.0,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "nor"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.0,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.1,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 14.6,
+            "phrase": "acromioclavicular osteoarthritis."
+        }
+    ]
+}

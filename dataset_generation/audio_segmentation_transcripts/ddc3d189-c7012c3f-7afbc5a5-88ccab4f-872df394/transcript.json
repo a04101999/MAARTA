@@ -1,0 +1,95 @@
+{
+    "full_text": " large left sided effusion with atelectasis or consolidation. this obscures the left heart border. right lung appears clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.2,
+            "end_time": 3.7,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.5,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.3,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.7,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.7,
+            "phrase": "border."
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.6,
+            "phrase": "clear."
+        }
+    ]
+}

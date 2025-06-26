@@ -1,0 +1,145 @@
+{
+    "full_text": " right-sided chest port with its tip in the superior vena cava. normal heart. aortic calcifications. streaky atelectasis or scarring at the left lung base. the left costrophrenic angle is not completely included.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 3.0,
+            "phrase": "right-sided chest port"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "its"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.6,
+            "phrase": "tip"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.3,
+            "phrase": "superior"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.4,
+            "phrase": "vena"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "cava."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 9.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.3,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.8,
+            "phrase": "the left"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 14.9,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.6,
+            "phrase": "angle is"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.7,
+            "phrase": "included."
+        }
+    ]
+}

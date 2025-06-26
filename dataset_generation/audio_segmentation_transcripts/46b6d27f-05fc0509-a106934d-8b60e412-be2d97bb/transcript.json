@@ -1,0 +1,35 @@
+{
+    "full_text": " elevated right lung base. cardiomegaly. prominent pulmonary vessels.  lungs may be congested. no focal consolidation pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.6,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 4.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 14.4,
+            "phrase": "prominent pulmonary vessels.  lungs may be congested. no focal consolidation pleural effusion or pneumothorax."
+        }
+    ]
+}

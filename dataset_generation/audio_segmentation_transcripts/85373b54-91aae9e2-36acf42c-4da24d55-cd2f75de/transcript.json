@@ -1,0 +1,35 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vasculature with cephalization of the vessels. left costophrenic angle is not completely included. no large effusion. suspect mild congestion overall.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 11.5,
+            "phrase": "prominent pulmonary vasculature with cephalization of the vessels. left costophrenic angle is not completely included. no large effusion."
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.3,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.0,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.5,
+            "phrase": "overall."
+        }
+    ]
+}

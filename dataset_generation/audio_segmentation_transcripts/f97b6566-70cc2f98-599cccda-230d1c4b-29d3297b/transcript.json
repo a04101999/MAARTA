@@ -1,0 +1,135 @@
+{
+    "full_text": " right-sided pacer with its tips in the right atrium and ventricle. mild cardiomegaly. patchy opacity at the base, right base, could represent infection or mild edema. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.0,
+            "phrase": "right-sided"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.0,
+            "phrase": "its"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.6,
+            "phrase": "tips"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 6.2,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 8.0,
+            "phrase": "patchy opacity at the"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.9,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "right base,"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.6,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.6,
+            "phrase": "mild edema."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

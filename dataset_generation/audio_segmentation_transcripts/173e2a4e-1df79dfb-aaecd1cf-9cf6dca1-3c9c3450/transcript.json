@@ -1,0 +1,115 @@
+{
+    "full_text": " normal heart and mediastinum. thoracic spinal degeneration. patchy opacity at the left, lung base. probably represents atelectasis. no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 3.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.2,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "left,"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.5,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.7,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.1,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.4,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

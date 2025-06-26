@@ -1,0 +1,170 @@
+{
+    "full_text": " sternotomy wires. prominent heart. aortic calcifications. patchy opacity at the right base. right lung is not completely included. no pleural effusion. small patchy opacity at the left base could represent atelectasis. infiltrate is possible bilaterally.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 3.4,
+            "phrase": "sternotomy wires."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.8,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.7,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.3,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.3,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.7,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.1,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.9,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 23.7,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 23.7,
+            "end_time": 23.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 25.0,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.6,
+            "phrase": "bilaterally."
+        }
+    ]
+}

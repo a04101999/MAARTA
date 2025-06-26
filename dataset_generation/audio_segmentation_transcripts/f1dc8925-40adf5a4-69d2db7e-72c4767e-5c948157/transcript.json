@@ -1,0 +1,125 @@
+{
+    "full_text": " left-sided cardiac defibrillator with leads projecting over the right ventricle. sternotomy wires. slight haziness of the lungs could represent mild congestion. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.5,
+            "phrase": "defibrillator with"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.3,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.1,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.3,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.6,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "the lungs"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.1,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

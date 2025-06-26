@@ -1,0 +1,160 @@
+{
+    "full_text": " cardiomegaly. lordotic positioning accentuates the upper mediastinum. thoracic spinal degeneration. patchy bibasilar opacities left greater than right. edema is possible as well as infection. there appears to be a small left effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 4.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.1,
+            "phrase": "lordotic"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.2,
+            "phrase": "positioning"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 8.7,
+            "phrase": "accentuates"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.0,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.3,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.9,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.9,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.1,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.6,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.5,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.6,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.8,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.1,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.3,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.3,
+            "phrase": "well"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.5,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 23.3,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 23.3,
+            "end_time": 24.2,
+            "phrase": "there appears"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.3,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.3,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.4,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.1,
+            "phrase": "effusion."
+        }
+    ]
+}

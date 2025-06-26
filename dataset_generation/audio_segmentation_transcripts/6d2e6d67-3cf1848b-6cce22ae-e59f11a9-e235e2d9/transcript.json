@@ -1,0 +1,65 @@
+{
+    "full_text": " slightly low lung volumes. minimal atelectasis at the left lung base. slightly elevated right lung base. slightly prominent heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.7,
+            "phrase": "slightly low"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 7.0,
+            "phrase": "atelectasis at the left lung base."
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.9,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 10.0,
+            "phrase": "slightly prominent"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.5,
+            "phrase": "heart."
+        }
+    ]
+}

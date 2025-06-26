@@ -1,0 +1,105 @@
+{
+    "full_text": " right sided pleural effusion with atelectasis. the left lung is clear. the right heart border is obscured but cardiomegaly is suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 1.7000000000000002,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 4.2,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.4,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 14.1,
+            "phrase": "obscured but"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.1,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 16.2,
+            "phrase": "suspected."
+        }
+    ]
+}

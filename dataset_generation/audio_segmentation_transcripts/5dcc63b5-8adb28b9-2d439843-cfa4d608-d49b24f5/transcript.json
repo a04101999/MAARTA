@@ -1,0 +1,95 @@
+{
+    "full_text": " tortuous aorta. scoliosis. cardiomegaly. bibasilar opacity. suspect trace effusion bilaterally opacity. probably represents edema or infection. prominent brass shadows are also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.8,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 5.3,
+            "phrase": "scoliosis."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 6.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 8.0,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.9,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.4,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.6,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.8,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 14.1,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.9,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 16.6,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 19.0,
+            "phrase": "prominent brass shadows are also"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.5,
+            "phrase": "possible."
+        }
+    ]
+}

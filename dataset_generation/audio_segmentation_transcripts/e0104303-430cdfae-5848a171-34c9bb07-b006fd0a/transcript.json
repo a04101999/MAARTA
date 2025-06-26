@@ -1,0 +1,95 @@
+{
+    "full_text": " prominent heart. thoracic spinal degeneration. mild generalized opacity suggesting possible congestion. no focal consolidation, pleural effusion or pneumothorax",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 3.1,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 5.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.9,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 8.0,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.9,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.8,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.4,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.9,
+            "phrase": "pneumothorax"
+        }
+    ]
+}

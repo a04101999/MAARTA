@@ -1,0 +1,125 @@
+{
+    "full_text": " small calcified granuloma in the right mid to lower lung. the lungs are otherwise clear. heart and mediastinum are normal. normal bones and soft tissues.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.4,
+            "end_time": 4.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "granuloma"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 8.0,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.8,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.1,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.4,
+            "phrase": "mediastinum"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "are normal."
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 14.9,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.5,
+            "phrase": "tissues."
+        }
+    ]
+}

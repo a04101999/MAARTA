@@ -1,0 +1,125 @@
+{
+    "full_text": " enlarged heart, which obscures the left lung base. there's likely a left basilar pleural effusion with atelectasis or consolidation. the right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 3.1,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 4.1,
+            "phrase": "heart,"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 4.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.5,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.6,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.1,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.5,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.5,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.2,
+            "phrase": "clear."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "full_text": " normal heart and mediastinum. the lungs are normal normal bones and soft tissues.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.0,
+            "end_time": 1.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 1.7000000000000002,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 1.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 4.5,
+            "phrase": "mediastinum. the lungs are normal"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 8.0,
+            "phrase": "normal bones and soft tissues."
+        }
+    ]
+}

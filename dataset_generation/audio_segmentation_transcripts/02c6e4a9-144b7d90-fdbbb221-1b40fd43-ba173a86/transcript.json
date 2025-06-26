@@ -1,0 +1,55 @@
+{
+    "full_text": " low lung volumes. prominent heart. aortic calcifications. suspect small effusions.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.0,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.4,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.4,
+            "phrase": "effusions."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "full_text": " mild cardiomegaly. prominent pulmonary vessels. no focal opacity, pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.1,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 15.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.5,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

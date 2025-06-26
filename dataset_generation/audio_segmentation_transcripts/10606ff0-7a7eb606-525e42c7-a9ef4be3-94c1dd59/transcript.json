@@ -1,0 +1,115 @@
+{
+    "full_text": " right lung is clear. patchy opacity at the left base. probably represents atelectasis. although early infection is possible as well. normal heart and mediastinum.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 3.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.5,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.8,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.3,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 12.3,
+            "phrase": "although"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.3,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.7,
+            "phrase": "is possible"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.8,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 13.9,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.3,
+            "phrase": "mediastinum."
+        }
+    ]
+}

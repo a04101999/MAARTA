@@ -1,0 +1,45 @@
+{
+    "full_text": " prominent heart. aortic calcifications. left subclavian stent. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.1,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 6.5,
+            "phrase": "left subclavian"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.0,
+            "phrase": "stent."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.9,
+            "phrase": "clear."
+        }
+    ]
+}

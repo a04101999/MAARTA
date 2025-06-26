@@ -1,0 +1,120 @@
+{
+    "full_text": " patchy opacity in the left midlung, probably infectious mild cardiomegaly. there appears to be a small left pleural effusion. the right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "midlung,"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.1,
+            "phrase": "infectious"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.1,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.1,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "the right"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.2,
+            "phrase": "clear."
+        }
+    ]
+}

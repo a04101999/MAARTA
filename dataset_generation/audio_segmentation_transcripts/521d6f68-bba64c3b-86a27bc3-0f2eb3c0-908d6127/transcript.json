@@ -1,0 +1,200 @@
+{
+    "full_text": " dense opacity in the right mid and lower lung. this could represent pneumonia or mass. there also appears to be a rounded opacity at the left lung base, which could represent a mass. there may be a small right pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 1.6,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "opacity in the"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.1,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.3,
+            "phrase": "pneumonia"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.6,
+            "phrase": "mass."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.2,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.5,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 14.9,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.4,
+            "phrase": "rounded"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 18.4,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.4,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.0,
+            "phrase": "mass."
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 22.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 22.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 25.3,
+            "phrase": "effusion."
+        }
+    ]
+}

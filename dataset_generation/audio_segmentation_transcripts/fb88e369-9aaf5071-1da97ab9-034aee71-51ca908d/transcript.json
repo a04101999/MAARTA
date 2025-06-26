@@ -1,0 +1,100 @@
+{
+    "full_text": " elevated right lung base. there is moderate right effusion with atelectasis or consolidation. prominent heart. aortic calcifications. tiny left effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.2,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.3,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.5,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.0,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.7,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.5,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.9,
+            "phrase": "effusion."
+        }
+    ]
+}

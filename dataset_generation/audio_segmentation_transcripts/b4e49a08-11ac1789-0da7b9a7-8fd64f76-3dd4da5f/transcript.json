@@ -1,0 +1,65 @@
+{
+    "full_text": " moderate cardiomegaly. dense aortic calcifications. prominent pulmonary vessels. generalized haziness of the lungs. small right effusion. pulmonary edema is likely.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.6,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 3.5,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 9.7,
+            "phrase": "prominent pulmonary vessels. generalized haziness of the lungs."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "small right"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.9,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.7,
+            "phrase": "likely."
+        }
+    ]
+}

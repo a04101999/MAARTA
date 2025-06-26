@@ -1,0 +1,135 @@
+{
+    "full_text": " normal heart and mediastinum. normal left lung. slight round density at the right lung base. probably represents superimposition of overlying ribs or a calcified granuloma. bones and soft tissues normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 5.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 7.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.7,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.1,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "round"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.9,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 15.2,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.2,
+            "phrase": "superimposition"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.1,
+            "phrase": "overlying"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.8,
+            "phrase": "ribs"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.2,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.5,
+            "phrase": "granuloma."
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 24.5,
+            "phrase": "bones and soft tissues normal."
+        }
+    ]
+}

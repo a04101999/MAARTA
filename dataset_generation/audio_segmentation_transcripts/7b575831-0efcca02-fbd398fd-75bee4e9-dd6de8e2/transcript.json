@@ -1,0 +1,115 @@
+{
+    "full_text": " moderate cardiomegaly. prominent pulmonary vasculuture. haziness at the lung bases. left costophrenic angle is not completely included. this is suspected to represent mild pulmonary congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.5,
+            "phrase": "moderate cardiomegaly."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 6.3,
+            "phrase": "prominent pulmonary vasculuture."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 10.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.8,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.0,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.8,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.2,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.3,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.0,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.3,
+            "phrase": "congestion."
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "full_text": " right lung is not completely included. left sided chest port with its tip in the superior vena cava. normal heart and mediastinum. lungs are clear as visualized.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.8,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "chest"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.4,
+            "phrase": "port"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.8,
+            "phrase": "with its tip in"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "superior"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "vena"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "cava."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 12.0,
+            "phrase": "normal heart and mediastinum."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "clear"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.6,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.3,
+            "phrase": "visualized."
+        }
+    ]
+}

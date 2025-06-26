@@ -1,0 +1,45 @@
+{
+    "full_text": " low lung volumes. prominent heart. this is probably normal but mild congestion is possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 4.1,
+            "phrase": "low lung volumes. prominent heart."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.1,
+            "phrase": "this is probably"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.2,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.8,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.5,
+            "phrase": "possible."
+        }
+    ]
+}

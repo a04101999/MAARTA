@@ -1,0 +1,130 @@
+{
+    "full_text": " normal heart and mediastinum. right lung is clear. there's some vague opacity at the right costophrenic angle which could represent atelectasis or scarring or maybe artifact.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "lung is"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.9,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.2,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.4,
+            "phrase": "vague"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.9,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.3,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.5,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.4,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 17.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.9,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.0,
+            "phrase": "maybe"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 22.0,
+            "phrase": "artifact."
+        }
+    ]
+}

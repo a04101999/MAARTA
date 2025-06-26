@@ -1,0 +1,95 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vasculature.  haziness at the bases.  this could be normal or could represent mild congestion. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 4.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.4,
+            "phrase": "vasculature. "
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 9.5,
+            "phrase": "haziness at the bases. "
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.3,
+            "phrase": "or could"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.9,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.3,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "full_text": " elevated right lung base. cardiomegaly. aortic calcifications. irregular reticular opacity, most pronounced at the lung bases, but present in both lungs suggesting pulmonary fibrosis or severe emphysema. the lungs are hyper-inflated. infectious infiltrate cannot be excluded.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.4,
+            "end_time": 5.1,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.9,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.5,
+            "phrase": "reticular"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.3,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.0,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "pronounced"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.4,
+            "phrase": "bases,"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 21.3,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.9,
+            "phrase": "present"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.4,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 23.0,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.9,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.7,
+            "phrase": "fibrosis"
+        },
+        {
+            "begin_time": 24.7,
+            "end_time": 25.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.0,
+            "phrase": "severe"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.3,
+            "phrase": "emphysema."
+        },
+        {
+            "begin_time": 26.3,
+            "end_time": 27.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 28.4,
+            "end_time": 28.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 28.7,
+            "end_time": 28.9,
+            "phrase": "hyper-inflated."
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.5,
+            "phrase": "infectious"
+        },
+        {
+            "begin_time": 33.5,
+            "end_time": 34.2,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 34.2,
+            "end_time": 34.4,
+            "phrase": "cannot"
+        },
+        {
+            "begin_time": 34.4,
+            "end_time": 34.5,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 34.5,
+            "end_time": 34.8,
+            "phrase": "excluded."
+        }
+    ]
+}

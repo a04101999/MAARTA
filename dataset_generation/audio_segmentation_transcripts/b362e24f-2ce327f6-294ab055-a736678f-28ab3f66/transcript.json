@@ -1,0 +1,95 @@
+{
+    "full_text": " moderate cardiomegaly. aortic calcifications. no large effusion. prominent pulmonary vessels. patchy right perihilar opacity. this may represent pulmonary congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 3.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.9,
+            "phrase": "no large"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.8,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.7,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.7,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.6,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.0,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 22.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 23.0,
+            "phrase": "congestion."
+        }
+    ]
+}

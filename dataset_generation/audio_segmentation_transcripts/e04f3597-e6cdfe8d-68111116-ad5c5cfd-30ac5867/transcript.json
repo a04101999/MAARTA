@@ -1,0 +1,55 @@
+{
+    "full_text": " lungs are clear. sternotomy wires. normal heart size. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.0,
+            "end_time": 5.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 7.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.9,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.8,
+            "phrase": "calcifications."
+        }
+    ]
+}

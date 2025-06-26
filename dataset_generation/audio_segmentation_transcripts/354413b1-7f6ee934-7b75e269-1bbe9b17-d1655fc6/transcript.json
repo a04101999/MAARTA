@@ -1,0 +1,35 @@
+{
+    "full_text": " normal heart. aortic calcifications. normal mediastinum. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.0,
+            "end_time": 2.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.2,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 5.1,
+            "phrase": "normal mediastinum."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 6.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "lungs."
+        }
+    ]
+}

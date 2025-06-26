@@ -1,0 +1,160 @@
+{
+    "full_text": " normal heart and mediastinum. there is probable hyper-inflated lungs with flattening of the diaphragms. the costophrenic angles are slightly blunted suggesting possible small amount of pleural scarring or fluid. no consolidation or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.6,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 12.1,
+            "phrase": "probable"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.1,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 14.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.7,
+            "phrase": "flattening"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 14.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "diaphragms."
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 19.8,
+            "phrase": "costophrenic angles"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.3,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.8,
+            "phrase": "blunted"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.5,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.6,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 22.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.5,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 24.1,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 25.4,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.3,
+            "phrase": "fluid."
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 30.0,
+            "end_time": 30.4,
+            "phrase": "consolidation"
+        },
+        {
+            "begin_time": 30.4,
+            "end_time": 30.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 30.9,
+            "end_time": 31.2,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "full_text": " so sternotomy wires. moderate cardiomegaly. moderate left pleural effusion with atelectasis and consolidation. patchy right infrahilar opacity. could represent edema or infection. small right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.0,
+            "phrase": "so"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.2,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.6,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.3,
+            "phrase": "atelectasis and consolidation."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 10.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.0,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.0,
+            "phrase": "could represent edema or infection."
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.4,
+            "phrase": "effusion."
+        }
+    ]
+}

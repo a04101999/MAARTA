@@ -1,0 +1,160 @@
+{
+    "full_text": " costophrenic angles are not completely included. normal heart size. mediastinum is normal. prominent interstitial markings, which is nonspecific. atypical infectious process is possible is also possible. mild congestion is also possible. no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.2,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.4,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.4,
+            "phrase": "mediastinum"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.5,
+            "phrase": "normal."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.6,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.9,
+            "phrase": "markings,"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.9,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.6,
+            "phrase": "nonspecific."
+        },
+        {
+            "begin_time": 30.4,
+            "end_time": 31.2,
+            "phrase": "atypical"
+        },
+        {
+            "begin_time": 31.2,
+            "end_time": 31.6,
+            "phrase": "infectious"
+        },
+        {
+            "begin_time": 31.6,
+            "end_time": 31.8,
+            "phrase": "process"
+        },
+        {
+            "begin_time": 31.8,
+            "end_time": 32.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 32.3,
+            "end_time": 32.9,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 32.9,
+            "end_time": 34.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 34.6,
+            "end_time": 34.9,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 34.9,
+            "end_time": 35.5,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 34.9,
+            "end_time": 35.5,
+            "phrase": "mild congestion is also possible."
+        },
+        {
+            "begin_time": 37.3,
+            "end_time": 38.0,
+            "phrase": "no large"
+        },
+        {
+            "begin_time": 38.0,
+            "end_time": 38.4,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 38.4,
+            "end_time": 39.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 39.1,
+            "end_time": 39.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

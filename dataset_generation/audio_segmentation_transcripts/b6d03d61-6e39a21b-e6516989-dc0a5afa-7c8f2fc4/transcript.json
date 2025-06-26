@@ -1,0 +1,175 @@
+{
+    "full_text": " cardiomegaly. sternotomy wires. left sided cardiac pacer with leads in the right atrium and ventricle. some fluids in the right minor fissure suspected. increased haziness at the bases. small bilateral effusions, left greater than right. pulmonary edema is suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.2,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.6,
+            "phrase": "with leads in"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.3,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.3,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.4,
+            "phrase": "some fluids"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "fissure"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.3,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.1,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.5,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.2,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.6,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.6,
+            "phrase": "effusions,"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.8,
+            "phrase": "left greater than"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.4,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.3,
+            "phrase": "suspected."
+        }
+    ]
+}

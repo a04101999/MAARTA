@@ -1,0 +1,95 @@
+{
+    "full_text": " aortic calcifications. normal heart size. left lung is clear with a small left effusion possible. the right lung is clear with no effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 1.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.1,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.6,
+            "phrase": "clear"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "left effusion"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 9.2,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.6,
+            "phrase": "the right"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.9,
+            "phrase": "lung is"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.9,
+            "phrase": "clear"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 13.5,
+            "phrase": "with no effusion."
+        }
+    ]
+}

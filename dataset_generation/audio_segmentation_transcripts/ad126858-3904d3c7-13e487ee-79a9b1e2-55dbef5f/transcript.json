@@ -1,0 +1,70 @@
+{
+    "full_text": " normal heart and mediastinum. aortic calcifications. lungs are probably hyper-inflated but otherwise clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.2,
+            "end_time": 4.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.6,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 7.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 8.8,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.3,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.0,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.8,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "clear."
+        }
+    ]
+}

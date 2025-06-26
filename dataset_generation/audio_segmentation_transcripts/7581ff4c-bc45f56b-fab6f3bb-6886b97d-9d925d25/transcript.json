@@ -1,0 +1,240 @@
+{
+    "full_text": " there is a right basilar opacity. suspected to represent pleural effusion with atelectasis or consolidation. although there is some haziness at the left lung base. an effusion is not suspected. this is felt likely to represent superimposition of overlying shadows as well as the heart. low lung volumes.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 5.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.4,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.6,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 16.5,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.7,
+            "phrase": "although"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.1,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.6,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 17.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 19.1,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 21.8,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 24.5,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 28.4,
+            "end_time": 28.5,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 28.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 28.7,
+            "end_time": 28.9,
+            "phrase": "felt"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 29.3,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 29.3,
+            "end_time": 29.5,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 29.5,
+            "end_time": 30.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 30.0,
+            "end_time": 31.4,
+            "phrase": "superimposition"
+        },
+        {
+            "begin_time": 31.4,
+            "end_time": 31.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 31.5,
+            "end_time": 31.9,
+            "phrase": "overlying"
+        },
+        {
+            "begin_time": 31.9,
+            "end_time": 32.3,
+            "phrase": "shadows"
+        },
+        {
+            "begin_time": 32.3,
+            "end_time": 32.5,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 32.6,
+            "phrase": "well"
+        },
+        {
+            "begin_time": 32.6,
+            "end_time": 32.8,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 33.1,
+            "end_time": 33.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 36.1,
+            "end_time": 36.5,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 36.5,
+            "end_time": 37.3,
+            "phrase": "volumes."
+        }
+    ]
+}

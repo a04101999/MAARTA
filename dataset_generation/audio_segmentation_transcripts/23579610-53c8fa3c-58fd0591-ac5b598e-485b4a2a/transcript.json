@@ -1,0 +1,125 @@
+{
+    "full_text": " normal heart and mediastinum. the left lung is clear. there is minimal patchy opacity of the right infrahilar region, which could be normal or could represent an infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.8,
+            "end_time": 4.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.7,
+            "phrase": "lung is"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.7,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.2,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "region,"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.3,
+            "phrase": "which could be normal"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.3,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 16.0,
+            "phrase": "infection."
+        }
+    ]
+}

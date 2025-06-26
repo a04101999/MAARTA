@@ -1,0 +1,105 @@
+{
+    "full_text": " patchy right upper lung opacity is suspicious for early infiltrate. normal heart and mediastinum. patient's head slightly obscures the lung apices.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.4,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.5,
+            "phrase": "infiltrate."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.9,
+            "phrase": "patient's"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.2,
+            "phrase": "head"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.6,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.1,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.4,
+            "phrase": "the lung"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "apices."
+        }
+    ]
+}

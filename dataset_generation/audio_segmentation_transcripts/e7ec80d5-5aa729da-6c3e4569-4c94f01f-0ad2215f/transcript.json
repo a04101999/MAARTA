@@ -1,0 +1,140 @@
+{
+    "full_text": " prominent heart. aortic calcifications. patchy opacity at the right base. could be artifactual or could represent minimal atelectasis. early infection is possible. no large effusion or pneumothorax",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.7,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 6.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 6.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 6.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.4,
+            "phrase": "artifactual"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.2,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.4,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 14.2,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.3,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.4,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.3,
+            "phrase": "pneumothorax"
+        }
+    ]
+}

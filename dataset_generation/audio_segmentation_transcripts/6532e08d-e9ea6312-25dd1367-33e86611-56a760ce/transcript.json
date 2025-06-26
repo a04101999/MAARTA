@@ -1,0 +1,105 @@
+{
+    "full_text": " normal heart and mediastinum. the right costophrenic angle is not well visualized but there is no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.4,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.1,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.6,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.8,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.2,
+            "phrase": "well"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.8,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 10.9,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.1,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.6,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.5,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

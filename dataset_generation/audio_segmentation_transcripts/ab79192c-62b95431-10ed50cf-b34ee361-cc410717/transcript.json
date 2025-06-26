@@ -1,0 +1,90 @@
+{
+    "full_text": " cardiomegaly. low volumes. right sided cardiac pacer with leads projecting over the right atrium and ventricle. no focal consolidation. no pleural effusion or pneumothorax",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.9,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.4,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 8.9,
+            "phrase": "projecting over the right atrium and ventricle."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.0,
+            "phrase": "no focal"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 14.2,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.2,
+            "phrase": "pneumothorax"
+        }
+    ]
+}

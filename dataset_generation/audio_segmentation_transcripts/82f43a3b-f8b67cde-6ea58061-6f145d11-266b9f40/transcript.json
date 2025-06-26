@@ -1,0 +1,95 @@
+{
+    "full_text": " normal heart and mediastinum. the lungs are clear. no pleural effusion or pneumothorax. bones and soft tissues normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.0,
+            "end_time": 4.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.7,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 11.0,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.3,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.7,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.1,
+            "phrase": "normal."
+        }
+    ]
+}

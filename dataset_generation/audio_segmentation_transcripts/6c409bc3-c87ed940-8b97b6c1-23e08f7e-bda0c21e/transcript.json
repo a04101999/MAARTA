@@ -1,0 +1,190 @@
+{
+    "full_text": " patient is somewhat rotated. right shoulder suture anchors. normal heart and mediastinum. aortic calcifications. elevated right lung base. patchy right infrahilar and left basilar opacity as well as left retrocardiac opacity. this could represnt edema or more likely infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.5,
+            "end_time": 5.2,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "somewhat"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.3,
+            "phrase": "rotated."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.3,
+            "phrase": "shoulder"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 8.3,
+            "phrase": "suture"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.8,
+            "phrase": "anchors."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 16.0,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.4,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 21.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.7,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 24.2,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.4,
+            "phrase": "well as"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.9,
+            "phrase": "retrocardiac"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.4,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 27.6,
+            "end_time": 28.2,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 28.2,
+            "end_time": 28.5,
+            "phrase": "could represnt"
+        },
+        {
+            "begin_time": 30.8,
+            "end_time": 31.5,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 33.3,
+            "end_time": 33.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 33.8,
+            "end_time": 34.0,
+            "phrase": "more"
+        },
+        {
+            "begin_time": 34.0,
+            "end_time": 34.4,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 34.4,
+            "end_time": 35.3,
+            "phrase": "infection."
+        }
+    ]
+}

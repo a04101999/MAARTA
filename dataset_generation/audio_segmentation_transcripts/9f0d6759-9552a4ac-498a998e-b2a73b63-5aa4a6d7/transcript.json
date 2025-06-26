@@ -1,0 +1,40 @@
+{
+    "full_text": " normal heart and mediastinum. slight generalized haziness of the lungs. could represent mild congestion. no frank edema. no pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.8,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 8.5,
+            "phrase": "generalized haziness of the lungs. could represent mild congestion."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.6,
+            "phrase": "no frank edema. no pleural effusion."
+        }
+    ]
+}

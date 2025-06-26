@@ -1,0 +1,80 @@
+{
+    "full_text": " cardiomegaly. tortuous calcified aorta. small right and possible trace left effusion. lungs may be slightly congested.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.1,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.6,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.6,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.0,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.0,
+            "phrase": "may be"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.2,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.6,
+            "phrase": "congested."
+        }
+    ]
+}

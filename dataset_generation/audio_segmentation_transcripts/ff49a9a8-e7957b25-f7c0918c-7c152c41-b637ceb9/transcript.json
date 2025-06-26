@@ -1,0 +1,115 @@
+{
+    "full_text": " prominent heart. aortic calcifications. patchy right mid lung opacity could represent an early infection. left lung is clear. no pneumothorax or pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 4.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.5,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.0,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.4,
+            "phrase": "lung is"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.1,
+            "phrase": "pneumothorax"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 12.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "effusion."
+        }
+    ]
+}

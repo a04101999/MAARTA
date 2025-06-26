@@ -1,0 +1,95 @@
+{
+    "full_text": " mild cardiomegaly. irregular reticular opacities throughout both lungs, which probably represents emphysema or fibrosis. no effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.4,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.6,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.3,
+            "phrase": "reticular"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.2,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.0,
+            "phrase": "lungs,"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.3,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.1,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.4,
+            "phrase": "emphysema"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 15.5,
+            "phrase": "fibrosis."
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

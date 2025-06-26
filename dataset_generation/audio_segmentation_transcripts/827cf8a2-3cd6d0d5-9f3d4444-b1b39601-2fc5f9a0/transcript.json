@@ -1,0 +1,95 @@
+{
+    "full_text": " normal soft tissues and bones. prominent heart. aortic calcifications. pulmonary vasculature is somewhat prominent as well. small right effusion. no pneumothorax",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.0,
+            "end_time": 0.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 0.2,
+            "end_time": 0.4,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 0.4,
+            "end_time": 0.8,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 0.8,
+            "end_time": 0.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 0.9,
+            "end_time": 1.3,
+            "phrase": "bones."
+        },
+        {
+            "begin_time": 1.3,
+            "end_time": 1.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 5.4,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.7,
+            "phrase": "pulmonary vasculature"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.6,
+            "phrase": "somewhat"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.9,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.8,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "no pneumothorax"
+        }
+    ]
+}

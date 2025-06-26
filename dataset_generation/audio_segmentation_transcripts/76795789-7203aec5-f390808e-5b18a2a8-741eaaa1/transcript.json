@@ -1,0 +1,95 @@
+{
+    "full_text": " cardiomegaly. right costophrenic angle is not well seen. it could represent small amount of pleural fluid or thickening.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 2.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.3,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "well"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.4,
+            "phrase": "seen."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.6,
+            "phrase": "it"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.6,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 10.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.5,
+            "phrase": "thickening."
+        }
+    ]
+}

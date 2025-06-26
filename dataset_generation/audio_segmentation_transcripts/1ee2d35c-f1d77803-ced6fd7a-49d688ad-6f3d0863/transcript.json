@@ -1,0 +1,85 @@
+{
+    "full_text": " thoracic spinal degeneration. prominent heart. increased perihilar interstitial markings with basilar predominance. this suggests suggests congestion or borderline edema. no pleural effusion or pneumothorax",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.1,
+            "end_time": 3.2,
+            "phrase": "thoracic spinal"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.3,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.2,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.9,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.5,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.2,
+            "phrase": "markings"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.5,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.5,
+            "phrase": "predominance."
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.9,
+            "phrase": "suggests"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.2,
+            "phrase": "suggests"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 23.0,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 28.0,
+            "phrase": "or borderline edema. no pleural effusion or pneumothorax"
+        }
+    ]
+}

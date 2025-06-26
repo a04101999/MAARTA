@@ -1,0 +1,140 @@
+{
+    "full_text": " cardiomegaly. cardiac valve replacement. sternotomy wires and cardiac clips. patchy perihilar and bibasilar opacity. small effusion suspected. this is suspicious for pulmonary edema. infection is also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.7000000000000001,
+            "end_time": 1.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 2.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "valve"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.9,
+            "phrase": "replacement."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 5.3,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "wires"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.0,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.6,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 8.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.8,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.6,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.7,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 11.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.9,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 14.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.3,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.8,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.2,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.7,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 19.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 19.9,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.5,
+            "phrase": "possible."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "full_text": " normal heart. aortic calcifications. the pulmonary vasculature is slightly prominent suggesting possible pulmonary congestion. no frank edema. no pleural effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.3,
+            "end_time": 4.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.6,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.0,
+            "phrase": "vasculature is"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 14.6,
+            "phrase": "slightly prominent suggesting possible pulmonary congestion."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.3,
+            "phrase": "frank"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.8,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.5,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 20.0,
+            "phrase": "no pneumothorax."
+        }
+    ]
+}

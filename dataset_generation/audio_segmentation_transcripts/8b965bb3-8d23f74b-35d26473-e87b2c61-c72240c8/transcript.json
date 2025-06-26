@@ -1,0 +1,105 @@
+{
+    "full_text": " normal heart and mediastinum. normal lungs. small calcified granuloma in the right upper lung. the soft tissues and bones are normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 7.6,
+            "phrase": "normal lungs."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.3,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.2,
+            "phrase": "granuloma"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.5,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.0,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 14.6,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.9,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.3,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.4,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.7,
+            "phrase": "normal."
+        }
+    ]
+}

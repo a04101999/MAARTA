@@ -1,0 +1,145 @@
+{
+    "full_text": " normal right lung. left heart border is obscured by pulmonary opacity. most likely representing left lingular pneumonia. there's an unusual lucency projecting over the aortopulmonary window of uncertain significance.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 3.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 5.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.3,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.0,
+            "phrase": "obscured"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.0,
+            "phrase": "by"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.2,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 10.0,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.1,
+            "phrase": "representing"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "lingular"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.4,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.5,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.1,
+            "phrase": "unusual"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.6,
+            "phrase": "lucency"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.3,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.4,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 21.4,
+            "phrase": "aortopulmonary window"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.5,
+            "phrase": "uncertain"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.6,
+            "phrase": "significance."
+        }
+    ]
+}

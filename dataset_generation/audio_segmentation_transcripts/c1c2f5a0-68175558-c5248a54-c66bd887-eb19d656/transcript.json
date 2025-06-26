@@ -1,0 +1,35 @@
+{
+    "full_text": " normal heart. aortic calcifications. no focal consolidation pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 4.0,
+            "phrase": "normal heart."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 11.2,
+            "phrase": "focal consolidation"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 13.0,
+            "phrase": "pleural effusion or pneumothorax."
+        }
+    ]
+}

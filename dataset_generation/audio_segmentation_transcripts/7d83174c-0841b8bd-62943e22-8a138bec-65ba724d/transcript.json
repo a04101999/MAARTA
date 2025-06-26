@@ -1,0 +1,155 @@
+{
+    "full_text": " prominent heart. normal mediastinum. hilar prominent pulmonary vessels are prominent. there is patchy opacity at the left base. and there may be a small pleural effusion. this is probably atelectasis. pulmonary congestion, bordering on pulmonary edema is suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.3,
+            "phrase": "normal mediastinum."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.0,
+            "phrase": "hilar"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.3,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.1,
+            "phrase": "prominent."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 10.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "at the left"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.2,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "and there may be a"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.0,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.7,
+            "phrase": "pulmonary congestion,"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 21.3,
+            "phrase": "bordering"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.5,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 21.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 23.0,
+            "phrase": "suspected."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "full_text": " prominent heart. small left effusion with atelectasis. right lung is clear. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.5,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.5,
+            "phrase": "with atelectasis."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 9.6,
+            "phrase": "right lung is clear. no pneumothorax."
+        }
+    ]
+}

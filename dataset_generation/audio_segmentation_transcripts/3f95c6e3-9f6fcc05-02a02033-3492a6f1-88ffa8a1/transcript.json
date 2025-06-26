@@ -1,0 +1,105 @@
+{
+    "full_text": " prominent heart. thoracic spinal degeneration. left-sided cardiac pacer with leads in the right atrium and ventricle. minimal atelectasis or scarring at the left, lung base. mild right ac osteoarthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.3,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.6,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.8,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.8,
+            "phrase": "left-sided cardiac"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 8.5,
+            "phrase": "pacer with leads in the right atrium and ventricle."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.2,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.8,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.0,
+            "phrase": "left,"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.8,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 19.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.3,
+            "phrase": "ac"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 21.0,
+            "phrase": "osteoarthritis."
+        }
+    ]
+}

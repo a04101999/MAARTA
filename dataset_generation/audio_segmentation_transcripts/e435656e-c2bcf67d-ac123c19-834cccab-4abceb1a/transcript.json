@@ -1,0 +1,70 @@
+{
+    "full_text": " right lung not completely included. the heart and mediastinum are normal. lungs are clear as visualized.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.1,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.5,
+            "phrase": "and mediastinum are normal."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.8,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "clear"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.5,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.3,
+            "phrase": "visualized."
+        }
+    ]
+}

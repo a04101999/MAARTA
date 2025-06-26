@@ -1,0 +1,25 @@
+{
+    "full_text": " prominent heart. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 2.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 3.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "calcifications."
+        }
+    ]
+}

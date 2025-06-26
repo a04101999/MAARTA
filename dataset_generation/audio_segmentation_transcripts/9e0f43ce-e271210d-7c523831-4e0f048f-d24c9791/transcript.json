@@ -1,0 +1,15 @@
+{
+    "full_text": " cardiomegaly. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.8,
+            "end_time": 3.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 7.0,
+            "phrase": "normal lungs."
+        }
+    ]
+}

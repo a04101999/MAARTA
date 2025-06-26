@@ -1,0 +1,145 @@
+{
+    "full_text": " normal heart and mediastinum. thoracic spinal degeneration. questionable kerley b lines, which would suggest early pulmonary edema. left lung is not completely included. there is no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.8,
+            "phrase": "heart and"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.5,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.2,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.0,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.5,
+            "phrase": "kerley"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.7,
+            "phrase": "b"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.3,
+            "phrase": "lines,"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "would"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.8,
+            "phrase": "suggest"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.2,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.1,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.7,
+            "phrase": "left lung"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.6,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

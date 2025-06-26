@@ -1,0 +1,40 @@
+{
+    "full_text": " normal lungs. normal heart. bones and soft tissues normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 2.9,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.2,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.7,
+            "phrase": "bones and soft"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.1,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.9,
+            "phrase": "normal."
+        }
+    ]
+}

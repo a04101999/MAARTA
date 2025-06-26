@@ -1,0 +1,150 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. prominent pulmonary vasculature. small amount of fluid in the right minor fissure. this probably represents early pulmonary edema. left costrophrenic angle is not included. no large effusion seen.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.1,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.5,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 4.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.1,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.3,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 8.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.4,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.6,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.0,
+            "phrase": "this probably"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.6,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.5,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.2,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.5,
+            "phrase": "is not"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.1,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.1,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.5,
+            "phrase": "seen."
+        }
+    ]
+}

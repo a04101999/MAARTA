@@ -1,0 +1,125 @@
+{
+    "full_text": " low lung volumes. sternotomy wires. thoracic spinal degeneration. normal heart size. slightly prominent interstitial opacity, could represent some interstitial lung disease. no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.9,
+            "phrase": "low lung volumes."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.7,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.1,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 6.0,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 7.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.0,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.8,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.8,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.7,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.3,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "disease."
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.6,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

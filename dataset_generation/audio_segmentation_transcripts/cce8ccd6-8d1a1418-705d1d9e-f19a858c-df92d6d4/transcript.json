@@ -1,0 +1,115 @@
+{
+    "full_text": " sternotomy wires. cardiac clips. cardiomegaly. prominent aortic knob. small right effusion with atelectasis. some bands of opacity in the right midlung are probably atelectasis or scarring.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.1,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.5,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.1,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 5.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.3,
+            "phrase": "knob."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "effusion with"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 12.0,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.7,
+            "phrase": "some bands of"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.2,
+            "phrase": "opacity in"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.0,
+            "phrase": "midlung"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 17.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.5,
+            "phrase": "scarring."
+        }
+    ]
+}

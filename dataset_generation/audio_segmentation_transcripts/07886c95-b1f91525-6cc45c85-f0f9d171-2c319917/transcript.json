@@ -1,0 +1,140 @@
+{
+    "full_text": " normal heart and mediastinum. patchy opacity at the right base with some slight elevation of the right lung base, could represent atelectasis or could represent developing infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.5,
+            "end_time": 7.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.4,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.2,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "elevation"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.7,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.1,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.4,
+            "phrase": "developing"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.1,
+            "phrase": "infiltrate."
+        }
+    ]
+}

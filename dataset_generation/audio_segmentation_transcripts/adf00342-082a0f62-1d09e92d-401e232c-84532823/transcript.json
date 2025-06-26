@@ -1,0 +1,85 @@
+{
+    "full_text": " cardiomegaly. mild haziness of the lungs could represent minimal congestion. no focal consolidation, pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.1,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.1,
+            "phrase": "the lungs"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.1,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 10.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.1,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "full_text": " low lung volumes. cardiomegaly. perihilar haziness bilaterally. streaky atelectasis at the right base. no large effusion. this could represent edema, but could also be related to very low lung volumes.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 3.1,
+            "phrase": "low lung volumes."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 4.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 10.7,
+            "phrase": "perihilar haziness bilaterally. streaky atelectasis at the right base."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.7,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.9,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.2,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.3,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.4,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.1,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.4,
+            "phrase": "very"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.1,
+            "phrase": "volumes."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "full_text": " right costophrenic angle opacity could represent pneumonia or aspiration. there's generalized haziness of lungs suggesting early edema. there may be a small right effusion. lungs are of low volumes. the heart is enlarged and obscures the left base. suspect there is a small left effusion. azygous fissure with prominent azygous vein. lordotic positioning.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.9,
+            "phrase": "right costophrenic"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.4,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.7,
+            "phrase": "pneumonia"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.7,
+            "phrase": "aspiration."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 8.6,
+            "phrase": "there's generalized haziness of"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.6,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.2,
+            "phrase": "early edema."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 13.0,
+            "phrase": "there may be a small right effusion."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.1,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.9,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.8,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 19.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.3,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.8,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 21.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.6,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 22.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.9,
+            "phrase": "azygous fissure"
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 29.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 29.1,
+            "end_time": 29.8,
+            "phrase": "azygous"
+        },
+        {
+            "begin_time": 29.8,
+            "end_time": 30.6,
+            "phrase": "vein."
+        },
+        {
+            "begin_time": 33.9,
+            "end_time": 34.5,
+            "phrase": "lordotic"
+        },
+        {
+            "begin_time": 34.5,
+            "end_time": 35.1,
+            "phrase": "positioning."
+        }
+    ]
+}

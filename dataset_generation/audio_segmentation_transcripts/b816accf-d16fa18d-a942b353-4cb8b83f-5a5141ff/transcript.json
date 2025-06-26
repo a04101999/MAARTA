@@ -1,0 +1,80 @@
+{
+    "full_text": " patchy right basilar and left perihilar opacity, non-specific but worrisome for multifocal infection. aortic calcifications. normal heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.8,
+            "end_time": 3.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.8,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.6,
+            "phrase": "left perihilar opacity,"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.5,
+            "phrase": "non-specific"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.1,
+            "phrase": "worrisome"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.4,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.1,
+            "phrase": "multifocal"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.9,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 14.6,
+            "phrase": "heart."
+        }
+    ]
+}

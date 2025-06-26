@@ -1,0 +1,130 @@
+{
+    "full_text": " sternotomy wires. moderate cardiomegaly. elevated right lung base. aortic calcifications. patchy peri hilar and basilar opacity. probably edema with atelectasis is also possible. small bilateral effusions.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.5,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 7.0,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.3,
+            "phrase": "peri"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.9,
+            "phrase": "hilar"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.3,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.8,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 18.7,
+            "phrase": "probably edema"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 21.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.0,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.5,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.1,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.8,
+            "phrase": "effusions."
+        }
+    ]
+}

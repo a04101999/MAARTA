@@ -1,0 +1,85 @@
+{
+    "full_text": " normal heart and mediastinum. lungs are clear. actually, there's increased opacity at the right infrahilar region which could represent an early developing infectious process.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.1,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 5.6,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.1,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "actually,"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.3,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.6,
+            "phrase": "infrahilar region"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.5,
+            "phrase": "which could"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 14.5,
+            "phrase": "an early developing infectious process."
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "full_text": " normal heart. aortic calcifications. patchy opacity at the right lower-lung and mid-lung. there's volume loss on the right with hyperexpansion of the left lung. the right-sided opacity probably represents a combination of infection and atelectasis. post-surgical changes are also possible. there's some blunting of the right costophrenic angle which could be pleural scarring or fluid.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 10.1,
+            "phrase": "lower-lung"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.0,
+            "phrase": "mid-lung."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "volume"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "loss"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.9,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.9,
+            "phrase": "hyperexpansion"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.6,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.1,
+            "phrase": "right-sided"
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 24.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 24.7,
+            "end_time": 25.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.4,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 26.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.8,
+            "phrase": "combination"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 29.7,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 30.9,
+            "end_time": 31.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 31.3,
+            "end_time": 31.7,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 33.7,
+            "end_time": 34.3,
+            "phrase": "post-surgical"
+        },
+        {
+            "begin_time": 34.3,
+            "end_time": 34.4,
+            "phrase": "changes"
+        },
+        {
+            "begin_time": 34.4,
+            "end_time": 34.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 34.9,
+            "end_time": 35.1,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 35.1,
+            "end_time": 35.7,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 37.7,
+            "end_time": 38.1,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 38.1,
+            "end_time": 38.2,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 38.2,
+            "end_time": 38.6,
+            "phrase": "blunting"
+        },
+        {
+            "begin_time": 38.6,
+            "end_time": 38.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 38.6,
+            "end_time": 38.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 38.7,
+            "end_time": 38.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 38.9,
+            "end_time": 39.5,
+            "phrase": "costophrenic angle"
+        },
+        {
+            "begin_time": 39.5,
+            "end_time": 39.9,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 39.9,
+            "end_time": 40.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 40.2,
+            "end_time": 40.4,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 40.4,
+            "end_time": 41.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 41.3,
+            "end_time": 41.4,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 41.4,
+            "end_time": 41.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 41.8,
+            "end_time": 42.2,
+            "phrase": "fluid."
+        }
+    ]
+}

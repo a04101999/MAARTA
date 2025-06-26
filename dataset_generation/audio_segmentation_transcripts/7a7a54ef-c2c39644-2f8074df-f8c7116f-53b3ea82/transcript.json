@@ -1,0 +1,115 @@
+{
+    "full_text": " normal heart and mediastinum. right lung is clear. there is some patchy atelectasis at the left lung base. there may be a trace left effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.3,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "is clear."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 6.1,
+            "phrase": "there is"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.9,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.5,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "effusion."
+        }
+    ]
+}

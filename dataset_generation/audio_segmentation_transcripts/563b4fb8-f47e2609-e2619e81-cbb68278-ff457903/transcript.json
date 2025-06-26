@@ -1,0 +1,265 @@
+{
+    "full_text": " sternotomy wires. right-sided cardiac pacer with leads projecting over the right atrium. additional leads are present from the abdominal device. bilateral effusions with some loculated fluid on the right hyper-inflated lungs. there's likely some parenchymal density at the bases as well, which is not specific. it could represent atelectasis or infection. moderate cardiomegaly.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 3.7,
+            "phrase": "right-sided"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.5,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.9,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.9,
+            "phrase": "atrium."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 9.5,
+            "phrase": "additional"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.5,
+            "phrase": "present"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.8,
+            "phrase": "from"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.9,
+            "phrase": "abdominal"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.8,
+            "phrase": "device."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 16.0,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 17.5,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.9,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.8,
+            "phrase": "loculated"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.3,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.4,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 21.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.9,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 22.9,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 27.2,
+            "end_time": 27.7,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 28.0,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.4,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 28.4,
+            "end_time": 28.8,
+            "phrase": "parenchymal"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.3,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 29.3,
+            "end_time": 29.4,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 29.4,
+            "end_time": 29.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 29.5,
+            "end_time": 29.9,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 29.9,
+            "end_time": 30.1,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 30.1,
+            "end_time": 30.4,
+            "phrase": "well,"
+        },
+        {
+            "begin_time": 30.4,
+            "end_time": 30.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 30.6,
+            "end_time": 30.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 30.6,
+            "end_time": 30.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 30.9,
+            "end_time": 31.6,
+            "phrase": "specific."
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 32.8,
+            "phrase": "it"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 33.0,
+            "end_time": 33.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 33.1,
+            "end_time": 33.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 33.7,
+            "end_time": 34.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 34.3,
+            "end_time": 35.0,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 36.4,
+            "end_time": 37.4,
+            "phrase": "moderate cardiomegaly."
+        }
+    ]
+}

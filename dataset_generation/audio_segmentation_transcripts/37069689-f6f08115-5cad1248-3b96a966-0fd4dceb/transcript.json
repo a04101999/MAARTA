@@ -1,0 +1,55 @@
+{
+    "full_text": " mild left convexity thoracic curvature with degeneration. prominent heart. aortic calcifications. prominent pulmonary vessels. suspect hyper-inflated lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "convexity"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.6,
+            "phrase": "curvature"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.6,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 10.0,
+            "phrase": "aortic calcifications. prominent pulmonary vessels. suspect hyper-inflated lungs."
+        }
+    ]
+}

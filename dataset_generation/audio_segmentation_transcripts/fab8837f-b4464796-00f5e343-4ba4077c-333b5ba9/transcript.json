@@ -1,0 +1,60 @@
+{
+    "full_text": " normal heart and mediastinum. patchy left perihilar opacity suspicious for pneumonia.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.5,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "pneumonia."
+        }
+    ]
+}

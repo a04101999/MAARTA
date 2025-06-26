@@ -1,0 +1,75 @@
+{
+    "full_text": " prominent heart. slight haziness at the bases. no pleural effusion or pneumothorax. this could be mormal or could represent mild congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 4.1,
+            "phrase": "slight haziness at the"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.7,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.8,
+            "phrase": "this could be mormal"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.1,
+            "phrase": "or could"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.8,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.2,
+            "phrase": "congestion."
+        }
+    ]
+}

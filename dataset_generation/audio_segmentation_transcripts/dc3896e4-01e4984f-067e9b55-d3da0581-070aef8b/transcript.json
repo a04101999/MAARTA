@@ -1,0 +1,80 @@
+{
+    "full_text": " normal heart and mediastinum. lungs maybe hyper-inflated and are suspected by apical pleural-parenchymal thickening. no pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.7,
+            "phrase": "and mediastinum."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.2,
+            "phrase": "maybe"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.9,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.5,
+            "phrase": "are suspected"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.6,
+            "phrase": "by"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.1,
+            "phrase": "apical"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.6,
+            "phrase": "pleural-parenchymal"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.4,
+            "phrase": "thickening."
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.8,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.5,
+            "phrase": "effusion."
+        }
+    ]
+}

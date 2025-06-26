@@ -1,0 +1,6 @@
+openai
+requests
+scikit-learn
+matplotlib
+numpy
+polars

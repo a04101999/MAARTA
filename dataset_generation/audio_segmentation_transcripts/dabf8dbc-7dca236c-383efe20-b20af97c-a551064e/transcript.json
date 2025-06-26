@@ -1,0 +1,90 @@
+{
+    "full_text": " cardiomegaly. slight haziness at the bases, could be normal or could represent mild congestion. no effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.6,
+            "end_time": 5.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.7,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.2,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "bases,"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "normal or"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.3,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

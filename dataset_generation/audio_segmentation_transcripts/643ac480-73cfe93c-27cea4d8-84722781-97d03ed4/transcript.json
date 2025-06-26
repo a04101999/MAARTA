@@ -1,0 +1,290 @@
+{
+    "full_text": " left-sided cardiac pacer with leads projecting over the right atrium and ventricle. prominent heart. aortic calcifications. bilateral effusions, left greater than right. haziness at the bases as well. probably represents atelectasis or edema. there are some clips projecting over the left lower lung which may be related to the breasts and soft tissues of the chest wall.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.5,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.5,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.5,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.1,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.9,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.1,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.8,
+            "phrase": "effusions,"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.5,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.9,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.7,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 19.9,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.3,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 21.3,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 22.3,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 25.6,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 26.5,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.8,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.5,
+            "phrase": "clips"
+        },
+        {
+            "begin_time": 28.3,
+            "end_time": 29.0,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.0,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 29.2,
+            "end_time": 29.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 29.4,
+            "end_time": 29.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 29.6,
+            "end_time": 29.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 29.8,
+            "end_time": 30.2,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 31.9,
+            "end_time": 32.4,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 32.4,
+            "end_time": 32.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 32.6,
+            "end_time": 32.9,
+            "phrase": "related"
+        },
+        {
+            "begin_time": 32.9,
+            "end_time": 33.2,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 35.8,
+            "end_time": 36.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 36.1,
+            "end_time": 36.4,
+            "phrase": "breasts"
+        },
+        {
+            "begin_time": 36.4,
+            "end_time": 36.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 36.7,
+            "end_time": 36.8,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 36.8,
+            "end_time": 37.1,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 37.2,
+            "end_time": 37.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 37.9,
+            "end_time": 37.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 37.9,
+            "end_time": 38.2,
+            "phrase": "chest"
+        },
+        {
+            "begin_time": 38.2,
+            "end_time": 38.3,
+            "phrase": "wall."
+        }
+    ]
+}

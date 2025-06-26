@@ -1,0 +1,60 @@
+{
+    "full_text": " slightly elevated right lung base. normal heart and mediastinum. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.0,
+            "phrase": "lungs."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "full_text": " normal heart and mediastinum. questionable right paratracheal opacity. there's also questionable left retrocardiac opacity. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.0,
+            "end_time": 6.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.9,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.5,
+            "phrase": "paratracheal"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.4,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.7,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.0,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.5,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.1,
+            "phrase": "retrocardiac"
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.6,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 26.9,
+            "end_time": 27.1,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 27.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 27.9,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

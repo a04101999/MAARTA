@@ -1,0 +1,235 @@
+{
+    "full_text": " low lung volumes accentuate the heart. cardiomegaly is likely. aortic calcifications. thoracic spine degeneration. bands of atelectasis in both lungs. the lungs are congested. enlarged right pulmonary hilum could represent adenopathy or enlarged pulmonary vessels. patchy opacity at the right base could represent edema or infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "volumes"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 5.0,
+            "phrase": "accentuate"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.9,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "likely."
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.0,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "spine"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.3,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.3,
+            "phrase": "bands"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.3,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.7,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.0,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.2,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 18.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.8,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "congested."
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.4,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 22.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.4,
+            "phrase": "hilum"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.2,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.9,
+            "phrase": "adenopathy"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.9,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 25.9,
+            "end_time": 26.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.7,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 26.7,
+            "end_time": 27.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 28.1,
+            "end_time": 28.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 28.2,
+            "end_time": 28.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 28.8,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 29.4,
+            "end_time": 30.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 30.0,
+            "end_time": 30.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 31.0,
+            "phrase": "infection."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "full_text": " moderate cardiomegaly. aortic calcifications. sternotomy wires. small left effusion with atelectasis or infiltrate. patchy opacity at the right base could represent infiltrate. small right effusion cannot be excluded. prominent pulmonary vessels. edema is possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 5.0,
+            "phrase": "sternotomy wires."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.4,
+            "phrase": "small left"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.1,
+            "phrase": "infiltrate."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 10.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 10.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.5,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.1,
+            "phrase": "represent infiltrate."
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.6,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "cannot"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.7,
+            "phrase": "excluded."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.5,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.5,
+            "phrase": "is possible."
+        }
+    ]
+}

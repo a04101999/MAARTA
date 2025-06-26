@@ -1,0 +1,135 @@
+{
+    "full_text": " lung bases not entirely included. cardiomegaly. hyper-inflated lungs with areas of scarring. patchy opacity in the perihilar and lower lobes bilateral. bilaterally probably edema or infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 1.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.1,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.3,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.6,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.1,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 10.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.4,
+            "phrase": "areas"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.4,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.0,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 18.2,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.5,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.9,
+            "phrase": "lobes"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.5,
+            "phrase": "bilateral."
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 22.6,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 24.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 25.0,
+            "phrase": "infection."
+        }
+    ]
+}

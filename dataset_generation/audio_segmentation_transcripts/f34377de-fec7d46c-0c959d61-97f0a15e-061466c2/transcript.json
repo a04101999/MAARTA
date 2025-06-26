@@ -1,0 +1,65 @@
+{
+    "full_text": " small left effusion with atelectasis. band of atelectasis at the right base. no pneumothorax. heart appears within normal limits.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.9,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.0,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.4,
+            "phrase": "atelectasis at the"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.1,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.9,
+            "phrase": "no pneumothorax."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 18.9,
+            "phrase": "heart appears within normal limits."
+        }
+    ]
+}

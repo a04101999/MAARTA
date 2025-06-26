@@ -1,0 +1,110 @@
+{
+    "full_text": " prominent heart. lung apices are not included. symmetric increased density in the infrahilar regions, probably represents breast shadows. early infiltrates are also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.4,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.4,
+            "phrase": "symmetric"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.7,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 11.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.7,
+            "phrase": "the infrahilar"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.9,
+            "phrase": "regions,"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 13.7,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.2,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.7,
+            "phrase": "breast"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.2,
+            "phrase": "shadows."
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 21.5,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.3,
+            "phrase": "infiltrates"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 23.5,
+            "phrase": "are also"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 24.7,
+            "phrase": "possible."
+        }
+    ]
+}

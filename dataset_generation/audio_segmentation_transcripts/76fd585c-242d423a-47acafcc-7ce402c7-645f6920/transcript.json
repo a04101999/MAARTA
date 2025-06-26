@@ -1,0 +1,205 @@
+{
+    "full_text": " cardiomegaly. sternotomy wires. cardiac clips. prominent pulmonary vasculature. cephalization of vessels. trace left effusion. small right effusion. bilateral parenchymal opacity right quite a bit more than left. small fluid at right minor fissure. this is felt most likely to represent edema, although infection is possible on the right side as well.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 4.9,
+            "phrase": "cardiomegaly. sternotomy wires."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.5,
+            "phrase": "cardiac clips."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.7,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 9.0,
+            "phrase": "cephalization"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.7,
+            "phrase": "of vessels."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.7,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.4,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.4,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.7,
+            "phrase": "parenchymal"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.7,
+            "phrase": "quite"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 22.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 22.9,
+            "phrase": "bit"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.0,
+            "phrase": "more"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.2,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.8,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.7,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 24.7,
+            "end_time": 24.9,
+            "phrase": "at right"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.1,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.3,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 28.1,
+            "phrase": "this is felt most likely to represent"
+        },
+        {
+            "begin_time": 28.3,
+            "end_time": 29.0,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.6,
+            "phrase": "although"
+        },
+        {
+            "begin_time": 29.6,
+            "end_time": 30.8,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 30.8,
+            "end_time": 31.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 31.0,
+            "end_time": 31.4,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 31.4,
+            "end_time": 31.6,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 31.6,
+            "end_time": 31.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 31.7,
+            "end_time": 31.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 31.8,
+            "end_time": 32.0,
+            "phrase": "side"
+        },
+        {
+            "begin_time": 32.0,
+            "end_time": 32.2,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 32.2,
+            "end_time": 32.4,
+            "phrase": "well."
+        }
+    ]
+}

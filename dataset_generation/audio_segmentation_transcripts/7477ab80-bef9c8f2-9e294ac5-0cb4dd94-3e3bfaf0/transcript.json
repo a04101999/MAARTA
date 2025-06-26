@@ -1,0 +1,220 @@
+{
+    "full_text": " prominent heart. there appears to be an air-fluid level behind the heart suggesting the presence of a hiatal hernia. there is patchy and streaky opacity throughout the mid and lower right lung and at the lower left lung. probably represents a combination of edema and atelectasis or scarring. small effusions bilaterally.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.2,
+            "end_time": 4.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 6.5,
+            "phrase": "there appears to be an air-fluid level"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.3,
+            "phrase": "behind"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.6,
+            "phrase": "the heart suggesting"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.2,
+            "phrase": "presence"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "hiatal"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.1,
+            "phrase": "hernia."
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 12.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.8,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.4,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.9,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.7,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 17.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.8,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 24.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 24.8,
+            "end_time": 25.1,
+            "phrase": "combination"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.8,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 26.8,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 27.4,
+            "end_time": 27.5,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.3,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 29.3,
+            "end_time": 30.1,
+            "phrase": "bilaterally."
+        }
+    ]
+}

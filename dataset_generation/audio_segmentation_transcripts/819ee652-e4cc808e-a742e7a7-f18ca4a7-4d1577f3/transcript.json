@@ -1,0 +1,95 @@
+{
+    "full_text": " left lung not completely included. normal heart. patchy opacities in the right mid and lower lungs. could be infectious.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.7000000000000002,
+            "phrase": "left lung"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.0,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.2,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.8,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.8,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "infectious."
+        }
+    ]
+}

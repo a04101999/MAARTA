@@ -1,0 +1,140 @@
+{
+    "full_text": " costophrenic angles are not completely included. generalized haziness of the lungs without focal consolidation. enlarged heart. prominent upper mediastinum. enlarged hila bilaterally. this probably represents acute on chronic chf. infection is also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.6,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.8,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.3,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.3,
+            "phrase": "generalized haziness of the lungs without"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.1,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.9,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.2,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.5,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.9,
+            "phrase": "hila"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.6,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 23.2,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.8,
+            "phrase": "acute on"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.0,
+            "phrase": "chronic"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.4,
+            "phrase": "chf."
+        },
+        {
+            "begin_time": 27.8,
+            "end_time": 28.6,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 28.6,
+            "end_time": 29.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 29.2,
+            "end_time": 29.6,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 29.6,
+            "end_time": 29.9,
+            "phrase": "possible."
+        }
+    ]
+}

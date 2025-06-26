@@ -1,0 +1,170 @@
+{
+    "full_text": " mild cardiomegaly. patchy perihilar opacity bilaterally could represent mild edema or infection. right costophrenic angle is not completely included. left costrophrenic angle is not completely included. there is a nonspecific metallic density projecting in the right cardiophrenic angle.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.7000000000000002,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.9,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.5,
+            "phrase": "edema or"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 18.0,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 21.8,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.6,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.0,
+            "phrase": "is not completely"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.4,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 26.1,
+            "end_time": 26.3,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 26.3,
+            "end_time": 27.4,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 27.4,
+            "end_time": 27.5,
+            "phrase": "is not completely"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.3,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 29.5,
+            "end_time": 29.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 29.9,
+            "end_time": 30.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 30.1,
+            "end_time": 30.3,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 31.0,
+            "phrase": "nonspecific"
+        },
+        {
+            "begin_time": 31.0,
+            "end_time": 31.9,
+            "phrase": "metallic"
+        },
+        {
+            "begin_time": 31.9,
+            "end_time": 32.2,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 32.2,
+            "end_time": 32.8,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 32.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 32.9,
+            "end_time": 33.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 33.0,
+            "end_time": 33.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 33.2,
+            "end_time": 34.5,
+            "phrase": "cardiophrenic"
+        },
+        {
+            "begin_time": 34.5,
+            "end_time": 34.8,
+            "phrase": "angle."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "full_text": " lung apices not entirely included. lungs hyper-inflated. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.2,
+            "phrase": "lung apices"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.3,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.7,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.6,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.7,
+            "phrase": "hyper-inflated."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.5,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.6,
+            "phrase": "degeneration."
+        }
+    ]
+}

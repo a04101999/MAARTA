@@ -1,0 +1,105 @@
+{
+    "full_text": " normal heart and mediastinum. there's some patchy opacity at the left base, for which aspiration and pneumonia are the primary considerations.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 6.0,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.9,
+            "phrase": "for which"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "aspiration"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.4,
+            "phrase": "pneumonia"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.2,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.9,
+            "phrase": "considerations."
+        }
+    ]
+}

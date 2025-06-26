@@ -1,0 +1,75 @@
+{
+    "full_text": " normal heart and mediastinum. prominent pulmonary vasculature. no focal consolidation, pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.3,
+            "end_time": 5.9,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.7,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.5,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.8,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 14.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.5,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.1,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

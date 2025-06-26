@@ -1,0 +1,225 @@
+{
+    "full_text": " left lung is not completely included. moderate cardiomegaly. patchy perihilar and infrahilar opacity. there may be a trace right effusion. consider mild edema or infection. there are some nodular opacities in the right mid and upper lung. wiry metallic density in the right infrahilar region as well.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 1.7000000000000002,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 1.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.2,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 3.0,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 5.1,
+            "phrase": "moderate cardiomegaly."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.9,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.5,
+            "phrase": "consider"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.3,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 13.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.3,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.7,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.3,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.0,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.2,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.7,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 26.7,
+            "phrase": "wiry metallic density"
+        },
+        {
+            "begin_time": 26.7,
+            "end_time": 26.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 26.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.3,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 27.6,
+            "phrase": "region"
+        },
+        {
+            "begin_time": 27.6,
+            "end_time": 27.9,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.2,
+            "phrase": "well."
+        }
+    ]
+}

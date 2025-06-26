@@ -1,0 +1,165 @@
+{
+    "full_text": " normal heart and mediastinum. elevated right lung base. dense opacity at the right lung base. probably represents some degree of atelectasis given the volume loss but infection and mass should be considered.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 5.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 7.2,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.8,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.8,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.4,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.6,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "degree"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 13.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.3,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "given"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.3,
+            "phrase": "volume"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.5,
+            "phrase": "loss"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.9,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.9,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 21.0,
+            "phrase": "mass"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.4,
+            "phrase": "should"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.6,
+            "phrase": "considered."
+        }
+    ]
+}

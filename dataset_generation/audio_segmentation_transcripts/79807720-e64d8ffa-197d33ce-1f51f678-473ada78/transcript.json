@@ -1,0 +1,300 @@
+{
+    "full_text": " prominent heart. patient is rotated. lungs are hyper-inflated. the right lung base is not completely included. but the visualized portions of the right lung are clear. there is some irregular patchy opacity in the mid lung which could represent infection or scarring. there may be a small left effusion. some degree of atelectasis is likely in the left lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.5,
+            "end_time": 5.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.4,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.2,
+            "phrase": "rotated."
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 17.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.1,
+            "phrase": "hyper-inflated."
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.6,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 22.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.5,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 24.1,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.5,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 25.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.6,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 26.7,
+            "phrase": "portions"
+        },
+        {
+            "begin_time": 26.7,
+            "end_time": 27.0,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 27.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 27.4,
+            "end_time": 27.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 27.6,
+            "end_time": 28.0,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 30.8,
+            "end_time": 31.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 31.3,
+            "end_time": 31.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 31.5,
+            "end_time": 31.6,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 31.6,
+            "end_time": 32.1,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 32.1,
+            "end_time": 32.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 33.3,
+            "end_time": 33.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 33.3,
+            "end_time": 33.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 33.4,
+            "end_time": 33.8,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 33.8,
+            "end_time": 34.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 34.0,
+            "end_time": 34.2,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 34.2,
+            "end_time": 34.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 34.9,
+            "end_time": 35.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 35.0,
+            "end_time": 36.3,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 36.3,
+            "end_time": 37.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 37.7,
+            "end_time": 39.3,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 41.8,
+            "end_time": 42.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 42.3,
+            "end_time": 42.4,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 42.4,
+            "end_time": 42.4,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 42.4,
+            "end_time": 42.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 42.5,
+            "end_time": 42.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 42.7,
+            "end_time": 43.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 43.0,
+            "end_time": 43.2,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 45.7,
+            "end_time": 46.2,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 46.2,
+            "end_time": 46.4,
+            "phrase": "degree"
+        },
+        {
+            "begin_time": 46.4,
+            "end_time": 46.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 46.5,
+            "end_time": 46.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 46.9,
+            "end_time": 47.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 47.4,
+            "end_time": 47.8,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 47.8,
+            "end_time": 47.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 47.9,
+            "end_time": 48.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 48.1,
+            "end_time": 48.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 48.6,
+            "end_time": 48.9,
+            "phrase": "lung."
+        }
+    ]
+}

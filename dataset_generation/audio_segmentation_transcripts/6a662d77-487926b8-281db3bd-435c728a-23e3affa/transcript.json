@@ -1,0 +1,25 @@
+{
+    "full_text": " prominent heart. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.7,
+            "phrase": "lungs."
+        }
+    ]
+}

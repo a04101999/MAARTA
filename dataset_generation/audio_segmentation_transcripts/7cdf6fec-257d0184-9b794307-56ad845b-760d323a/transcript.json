@@ -1,0 +1,115 @@
+{
+    "full_text": " sternotomy wires. prominent heart. generalized haziness of the lungs. pulmonary vasculature and pulmonary hila. small effusions. this probably represents pulmonary edema. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.7000000000000002,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 3.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.9,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.1,
+            "phrase": "the lungs."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.5,
+            "phrase": "vasculature"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.2,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.7,
+            "phrase": "hila."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.6,
+            "phrase": "effusions."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.0,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "calcifications."
+        }
+    ]
+}

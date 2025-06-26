@@ -1,0 +1,60 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. aortic calcifications prominent pulmonary vessels. small bilateral effusions with patchy opacity at the bases. this probably represents chf.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.8,
+            "end_time": 1.3,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.3,
+            "end_time": 2.0,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 4.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.7,
+            "phrase": "calcifications"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 7.0,
+            "phrase": "prominent pulmonary vessels."
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 8.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.5,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 13.8,
+            "phrase": "patchy opacity at the bases. this probably represents chf."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "full_text": " cardiac silhouette is severely enlarged. small bilateral effusions with patchy atelectasis bilaterally. superimposed infection not excluded. there's some density in the left shoulder glenohumeral joint of questionable significance. this could represent a calcified loose body. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "silhouette"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.2,
+            "phrase": "severely"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "enlarged."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.4,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 11.0,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.2,
+            "phrase": "superimposed"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.2,
+            "phrase": "excluded."
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.8,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.0,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.4,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 26.6,
+            "phrase": "shoulder"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.5,
+            "phrase": "glenohumeral"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.2,
+            "phrase": "joint"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 30.0,
+            "phrase": "of questionable significance."
+        },
+        {
+            "begin_time": 32.9,
+            "end_time": 34.6,
+            "phrase": "this could"
+        },
+        {
+            "begin_time": 34.6,
+            "end_time": 34.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 34.9,
+            "end_time": 35.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 36.8,
+            "end_time": 37.5,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 37.5,
+            "end_time": 37.7,
+            "phrase": "loose"
+        },
+        {
+            "begin_time": 37.7,
+            "end_time": 38.0,
+            "phrase": "body."
+        },
+        {
+            "begin_time": 40.6,
+            "end_time": 41.1,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 41.1,
+            "end_time": 41.5,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 41.5,
+            "end_time": 41.6,
+            "phrase": "degeneration."
+        }
+    ]
+}

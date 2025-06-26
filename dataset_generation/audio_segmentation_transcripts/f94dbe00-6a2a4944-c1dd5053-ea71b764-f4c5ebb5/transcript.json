@@ -1,0 +1,85 @@
+{
+    "full_text": " aortic calcifications. slightly prominent heart. air in the transverse colon. elevated right lung base slightly. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 2.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "air"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "in the"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.7,
+            "phrase": "transverse"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.4,
+            "phrase": "colon."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.9,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "lung base"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.6,
+            "phrase": "slightly."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.0,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "clear."
+        }
+    ]
+}

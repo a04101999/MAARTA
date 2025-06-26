@@ -1,0 +1,125 @@
+{
+    "full_text": " cardiomegaly. sternotomy wires. cardiac clips. prominent pulmonary vasculature. slight increased haziness at the bases probably represents congestion on a background of chronic chf. no pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.0,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.5,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.0,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 7.1,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.7,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.9,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.7,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.3,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.4,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.4,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.7,
+            "phrase": "background"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.8,
+            "phrase": "chronic"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.1,
+            "phrase": "chf."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.2,
+            "phrase": "no pleural"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "effusion."
+        }
+    ]
+}

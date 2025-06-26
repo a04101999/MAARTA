@@ -1,0 +1,95 @@
+{
+    "full_text": " cardiac clips. sternotomy wires. prominent heart. aortic calcifications. questionable right infrahilar opacity could be artifactual or could represent atelectasis or early infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.2,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.8,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.9,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 8.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.6,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.1,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.4,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.4,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.9,
+            "phrase": "artifactual"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 20.1,
+            "phrase": "or could"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.5,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 21.5,
+            "phrase": "atelectasis or early infiltrate."
+        }
+    ]
+}

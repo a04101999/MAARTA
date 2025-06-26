@@ -1,0 +1,95 @@
+{
+    "full_text": " aortic arch calcifications. normal heart. streaky atelectasis or scarring at the left base. the lungs are otherwise clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "arch"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.9,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.9,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.8,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "clear."
+        }
+    ]
+}

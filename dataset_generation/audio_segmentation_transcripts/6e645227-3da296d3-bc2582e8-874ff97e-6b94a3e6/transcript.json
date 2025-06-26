@@ -1,0 +1,80 @@
+{
+    "full_text": " sternotomy wires. prominent heart. left sided effusion with atelectasis or consolidation. the right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.6,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 2.9,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.5,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 7.7,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "the right"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.1,
+            "phrase": "clear."
+        }
+    ]
+}

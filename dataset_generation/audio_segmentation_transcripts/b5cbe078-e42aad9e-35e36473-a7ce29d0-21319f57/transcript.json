@@ -1,0 +1,45 @@
+{
+    "full_text": " normal heart. aortic calcifications. thoracic spinal degeneration. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 2.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 4.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 6.5,
+            "phrase": "thoracic spinal"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "lungs."
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "full_text": " prominent heart prosthetic heart valve. sternotomy wires. haziness at the lung bases. left costophrenic angle is not definitely visualized due to poor penetration. there may be a left effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 2.0,
+            "phrase": "prominent heart"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.1,
+            "phrase": "prosthetic"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.2,
+            "phrase": "valve."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.5,
+            "phrase": "sternotomy wires."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 9.9,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.8,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 12.2,
+            "phrase": "left costophrenic angle"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.6,
+            "phrase": "definitely"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.5,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.1,
+            "phrase": "due"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.3,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.6,
+            "phrase": "poor"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.3,
+            "phrase": "penetration."
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.3,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.4,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 20.9,
+            "phrase": "effusion."
+        }
+    ]
+}

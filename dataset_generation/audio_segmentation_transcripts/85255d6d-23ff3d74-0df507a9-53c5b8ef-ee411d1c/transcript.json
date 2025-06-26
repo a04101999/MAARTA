@@ -1,0 +1,130 @@
+{
+    "full_text": " left consolidation. scratch that. left-sided pleural effusion with atelectasis or consolidation. patchy left mid lung opacity. the right lung appears clear. lordotic positioning accentuates the heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.0,
+            "end_time": 4.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 6.1,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.3,
+            "phrase": "scratch"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.7,
+            "phrase": "that."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.3,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 14.1,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 16.5,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.8,
+            "phrase": "the right"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.3,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 18.1,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.4,
+            "phrase": "lordotic"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 24.4,
+            "phrase": "positioning"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 26.1,
+            "phrase": "accentuates"
+        },
+        {
+            "begin_time": 26.1,
+            "end_time": 26.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 27.0,
+            "phrase": "heart."
+        }
+    ]
+}

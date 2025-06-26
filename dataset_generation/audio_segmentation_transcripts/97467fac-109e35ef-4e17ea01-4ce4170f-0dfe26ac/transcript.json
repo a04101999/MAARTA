@@ -1,0 +1,110 @@
+{
+    "full_text": " lung bases are not completely included. cardiomegaly. aortic calcifications. prominent pulmonary vessels. mild generalized opacity. this is suspicious for congestion. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.7000000000000002,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 1.9,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.1,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.6,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.2,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.1,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 13.0,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.4,
+            "phrase": "this is suspicious"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.2,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 18.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.1,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.3,
+            "phrase": "degeneration."
+        }
+    ]
+}

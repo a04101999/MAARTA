@@ -1,0 +1,135 @@
+{
+    "full_text": " sternotomy wires with cardiac clips. post surgical changes in the right lower lung. aortic calcifications. cardiomegaly. blunting of both costrophrenic angles suggesting pleural fluid or scarring. suspected hyperinflated lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.3,
+            "phrase": "sternotomy wires"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.1,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "post"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "surgical"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.0,
+            "phrase": "changes"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.6,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 9.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "blunting"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.0,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.1,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 12.0,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.6,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.1,
+            "phrase": "pleural fluid"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 16.0,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.5,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.9,
+            "phrase": "hyperinflated lungs."
+        }
+    ]
+}

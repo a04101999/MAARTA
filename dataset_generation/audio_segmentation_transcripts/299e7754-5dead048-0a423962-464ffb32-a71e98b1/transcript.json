@@ -1,0 +1,110 @@
+{
+    "full_text": " moderate cardiomegaly. prominent pulmonary vasculature. patchy opacity throughout both lungs. this probably represents mild pulmonary edema, although multifocal infection can also have this appareance. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.8,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 3.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.1,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.2,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.6,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.6,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.3,
+            "phrase": "mild pulmonary"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.8,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 17.0,
+            "phrase": "although multifocal infection can also have this appareance."
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.2,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

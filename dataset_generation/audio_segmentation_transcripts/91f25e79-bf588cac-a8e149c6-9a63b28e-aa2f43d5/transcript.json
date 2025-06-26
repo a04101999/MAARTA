@@ -1,0 +1,105 @@
+{
+    "full_text": " enlarged heart. normal mediastinum. streaky atelectasis or scarring in the left lung base. old left-sided rib fractures. right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 5.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.4,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.2,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.4,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 12.0,
+            "phrase": "old"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.6,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "rib"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.4,
+            "phrase": "fractures."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.1,
+            "phrase": "is clear."
+        }
+    ]
+}

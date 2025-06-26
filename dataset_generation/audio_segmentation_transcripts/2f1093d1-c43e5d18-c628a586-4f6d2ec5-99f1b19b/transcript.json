@@ -1,0 +1,90 @@
+{
+    "full_text": " prominent heart. perihilar opacity. prominent hila. prominent pulmonary vessels. small bilateral effusions. this could represent pulmonary edema. infection is also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.9,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.6,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 6.0,
+            "phrase": "prominent hila."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.4,
+            "phrase": "effusions."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.3,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 17.0,
+            "phrase": "infection is also possible."
+        }
+    ]
+}

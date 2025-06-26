@@ -1,0 +1,80 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. bilateral effusions with atelectasis or consolidation. left greater than right. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.5,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.1,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 9.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 10.0,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.0,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.0,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

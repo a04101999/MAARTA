@@ -1,0 +1,350 @@
+{
+    "full_text": " small linear hyperdensity at the lateral aspect of the aortic knob. there is dense opacification of the left apex with some air bronchograms. there is also some volume loss causing elevation of left lung base and cardiomediastinal shift to the left. altogether the left apical opacity probably represents atelectasis. there is some patchy opacity in the left lower lung as well as at the right base. small bilateral effusions are suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.2,
+            "phrase": "small linear"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.8,
+            "phrase": "hyperdensity"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 4.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.5,
+            "phrase": "lateral"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "aspect"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.0,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.8,
+            "phrase": "knob."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.2,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "opacification"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 7.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.8,
+            "phrase": "apex"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.1,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.2,
+            "phrase": "air"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.9,
+            "phrase": "bronchograms."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.1,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.5,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.1,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "volume"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.8,
+            "phrase": "loss"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.2,
+            "phrase": "causing"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "elevation"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 15.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.1,
+            "phrase": "left lung"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.6,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.7,
+            "phrase": "cardiomediastinal"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.0,
+            "phrase": "shift"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.0,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.3,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 19.7,
+            "phrase": "altogether"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.6,
+            "phrase": "apical"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.3,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 22.0,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.5,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 23.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 23.7,
+            "end_time": 23.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 23.9,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 25.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 25.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.1,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 26.1,
+            "end_time": 26.3,
+            "phrase": "well"
+        },
+        {
+            "begin_time": 26.3,
+            "end_time": 26.4,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 26.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 26.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.3,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 28.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.2,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 28.2,
+            "end_time": 28.8,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.6,
+            "phrase": "suspected."
+        }
+    ]
+}

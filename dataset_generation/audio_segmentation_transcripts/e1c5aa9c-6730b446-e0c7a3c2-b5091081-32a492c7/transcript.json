@@ -1,0 +1,125 @@
+{
+    "full_text": " normal heart and mediastinum. costophrenic angles are not included on the left and obscured by poor penetration on the right. no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.4,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.4,
+            "phrase": "included"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.4,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.9,
+            "phrase": "obscured"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.2,
+            "phrase": "by"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.0,
+            "phrase": "poor penetration"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.6,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.7,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 15.0,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

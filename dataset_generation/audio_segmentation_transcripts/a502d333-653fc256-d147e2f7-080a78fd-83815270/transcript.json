@@ -1,0 +1,85 @@
+{
+    "full_text": " cardiomegaly. bilateral effusions with atelectasis or consolidation. generalized haziness of the lungs. thoracic spinal degeneration. findings compatible with pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.7,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.4,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.1,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 8.5,
+            "phrase": "generalized haziness of the lungs."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.9,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.7,
+            "phrase": "findings"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.1,
+            "phrase": "compatible"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.2,
+            "phrase": "edema."
+        }
+    ]
+}

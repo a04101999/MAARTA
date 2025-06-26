@@ -1,0 +1,85 @@
+{
+    "full_text": " the lungs appear congested with generalized haziness. no, focal consolidation, pleural effusion, or pneumothorax at this time. prominent heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 3.3,
+            "phrase": "the lungs appear"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.1,
+            "phrase": "congested"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "haziness."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "no,"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.6,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.6,
+            "phrase": "effusion,"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.6,
+            "phrase": "pneumothorax"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.8,
+            "phrase": "at this"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.8,
+            "phrase": "time."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 13.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "heart."
+        }
+    ]
+}

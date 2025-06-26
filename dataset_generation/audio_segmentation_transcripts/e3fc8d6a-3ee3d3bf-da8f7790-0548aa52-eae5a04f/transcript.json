@@ -1,0 +1,165 @@
+{
+    "full_text": " cardiomegaly. left-sided cardiac pacer with leads projecting over the right atrium and ventricle. sternotomy wires. upper mediastinal clips. aortic calcifications. no large right effusion. moderate left pleural effusion with atelectasis or consolidation",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.6000000000000001,
+            "end_time": 1.7000000000000002,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.9,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 10.0,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.0,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.2,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.8,
+            "phrase": "mediastinal"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.6,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 17.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 20.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.3,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.4,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.1,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 33.1,
+            "end_time": 33.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 33.3,
+            "end_time": 33.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 33.6,
+            "end_time": 33.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 33.9,
+            "end_time": 34.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 34.2,
+            "end_time": 35.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 35.5,
+            "end_time": 35.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 35.7,
+            "end_time": 36.7,
+            "phrase": "consolidation"
+        }
+    ]
+}

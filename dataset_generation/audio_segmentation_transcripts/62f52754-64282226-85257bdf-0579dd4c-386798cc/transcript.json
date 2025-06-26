@@ -1,0 +1,130 @@
+{
+    "full_text": " nasogastric tube is not visualized beyond the midesophagus. aortic calcifications. prominent heart. slightly elevated right lung base. minimal atelectasis at the left lung base. moderate glenohumeral osteoarthritis and same thing on the left.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.2,
+            "phrase": "nasogastric"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "tube"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 4.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.3,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.9,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "beyond"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "midesophagus."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.9,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 9.9,
+            "phrase": "prominent heart. slightly"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.5,
+            "phrase": "elevated right lung base."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "minimal atelectasis"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "the left"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.7,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 21.2,
+            "phrase": "glenohumeral"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.9,
+            "phrase": "osteoarthritis"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.1,
+            "phrase": "same thing"
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 24.2,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.6,
+            "phrase": "left."
+        }
+    ]
+}

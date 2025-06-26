@@ -1,0 +1,105 @@
+{
+    "full_text": " normal heart and mediastinum. left lung is not completely included. no large effusion. lungs are clear as visualized. no pneumothorax. minimal thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.0,
+            "end_time": 3.8,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 3.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.6,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.1,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.7,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 11.3,
+            "phrase": "no large effusion."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.8,
+            "phrase": "clear"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.6,
+            "phrase": "visualized."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.8,
+            "phrase": "no pneumothorax."
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 19.0,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.8,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "degeneration."
+        }
+    ]
+}

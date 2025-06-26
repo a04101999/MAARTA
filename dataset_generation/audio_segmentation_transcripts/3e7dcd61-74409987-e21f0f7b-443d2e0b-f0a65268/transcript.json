@@ -1,0 +1,75 @@
+{
+    "full_text": " the apices are not included. subtle right opacities at the bases could represent breast shadows.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.2,
+            "end_time": 1.9,
+            "phrase": "the apices"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.1,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.5,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "subtle"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.1,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.7,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "breast"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.0,
+            "phrase": "shadows."
+        }
+    ]
+}

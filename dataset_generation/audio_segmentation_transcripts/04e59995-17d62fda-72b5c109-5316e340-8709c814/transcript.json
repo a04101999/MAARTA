@@ -1,0 +1,25 @@
+{
+    "full_text": " cardiomegaly. patchy opacities throughout both lungs with basilar predominence. this could represent edema or infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.3,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 12.0,
+            "phrase": "throughout both lungs with basilar predominence. this could represent edema or infection."
+        }
+    ]
+}

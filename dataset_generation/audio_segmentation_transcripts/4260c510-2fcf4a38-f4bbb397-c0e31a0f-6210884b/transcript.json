@@ -1,0 +1,185 @@
+{
+    "full_text": " low lung volumes limit the examination. there's some patchy opacity at the right base probably causing probably atelectstis which also is contributing to volume loss on the right which elevates the right lung base. left effusion is difficult to exclude.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.1,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.6,
+            "phrase": "volumes"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "limit the"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.9,
+            "phrase": "examination."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.5,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.9,
+            "phrase": "causing"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.5,
+            "phrase": "probably atelectstis"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.7,
+            "phrase": "contributing"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "volume"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.5,
+            "phrase": "loss"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.6,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.5,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.0,
+            "phrase": "elevates the"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.5,
+            "phrase": "right lung"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.1,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 19.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.5,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.6,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.3,
+            "phrase": "exclude."
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. left lung base is not completely included. patchy opacities present peripherally in the right lung as well as the right base and the left base. scarring, atelectasis and infection are considerations. no right effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 3.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.9,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 5.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.0,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.5,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.9,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.5,
+            "phrase": "present"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.0,
+            "phrase": "peripherally"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.8,
+            "phrase": "as well as"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 12.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.3,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.3,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 21.2,
+            "phrase": "scarring,"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 23.9,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 25.1,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 26.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 26.4,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 27.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 27.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

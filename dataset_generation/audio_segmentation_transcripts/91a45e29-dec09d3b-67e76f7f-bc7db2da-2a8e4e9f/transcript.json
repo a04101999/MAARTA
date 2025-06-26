@@ -1,0 +1,125 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. generalized opacity at the bases. probably edema. small effusions suspected. there is some fluid in the right minor fissure. aortic valve. prosthesis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.8,
+            "end_time": 1.6,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 1.7000000000000002,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.2,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.8,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.2,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.8,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.2,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 14.0,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 15.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.8,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 15.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "minor fissure."
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.2,
+            "phrase": "valve."
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 21.5,
+            "phrase": "prosthesis."
+        }
+    ]
+}

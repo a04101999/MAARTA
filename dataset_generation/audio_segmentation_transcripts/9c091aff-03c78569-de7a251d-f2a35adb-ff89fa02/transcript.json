@@ -1,0 +1,85 @@
+{
+    "full_text": " cardiomegaly. limited evaluation of the lungs due to high contrast technique. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 2.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.8,
+            "phrase": "limited"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.5,
+            "phrase": "evaluation"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.5,
+            "phrase": "due"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.8,
+            "phrase": "high"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.4,
+            "phrase": "contrast"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.0,
+            "phrase": "technique."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.3,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.1,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

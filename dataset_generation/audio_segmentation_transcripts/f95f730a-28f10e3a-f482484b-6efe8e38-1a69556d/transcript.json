@@ -1,0 +1,130 @@
+{
+    "full_text": " bands of opacity bilaterally, atelectasis or scarring. small effusions, left greater than right, with some patchy opacity, which is probably atelectasis or infection. moderate cardiomegaly. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.9,
+            "phrase": "bands"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.0,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.2,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.1,
+            "phrase": "effusions,"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.7,
+            "phrase": "greater than"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.1,
+            "phrase": "right,"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.3,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.8,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 15.4,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.6,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 19.3,
+            "phrase": "aortic calcifications."
+        }
+    ]
+}

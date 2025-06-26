@@ -1,0 +1,35 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.8,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.2,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 3.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.4,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "clear."
+        }
+    ]
+}

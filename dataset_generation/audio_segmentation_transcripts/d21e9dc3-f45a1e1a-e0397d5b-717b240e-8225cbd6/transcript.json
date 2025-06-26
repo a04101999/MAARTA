@@ -1,0 +1,195 @@
+{
+    "full_text": " small nodular opacity projecting over the left lower lung could represent a nipple shadow. normal heart and mediastinum. lungs are otherwise clear. no pleural effusion or pneumothorax. pulmonary nodule is also possible for the left lower lobe opacity.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.6,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.7,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 9.1,
+            "phrase": "nipple"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.5,
+            "phrase": "shadow."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 11.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 15.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.1,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.4,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.7,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 23.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.5,
+            "phrase": "nodule"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.7,
+            "end_time": 24.0,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.9,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.1,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 25.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.0,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.4,
+            "phrase": "opacity."
+        }
+    ]
+}

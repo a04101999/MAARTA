@@ -1,0 +1,135 @@
+{
+    "full_text": " prominent heart. patchy mid lung opacity bilaterally extending to the right apex. no large effusion. thoracic spinal degeneration. infection is the primary thought. edema is also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.3,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.6,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.2,
+            "phrase": "extending"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.3,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "apex."
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.7,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.4,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 21.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 21.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.1,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.5,
+            "phrase": "thought."
+        },
+        {
+            "begin_time": 23.3,
+            "end_time": 24.0,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.3,
+            "phrase": "is also"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.7,
+            "phrase": "possible."
+        }
+    ]
+}

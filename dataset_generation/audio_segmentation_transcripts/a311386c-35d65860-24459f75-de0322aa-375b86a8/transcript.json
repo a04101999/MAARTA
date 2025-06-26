@@ -1,0 +1,180 @@
+{
+    "full_text": " prominent heart. aortic calcifications. lungs may be hyper-inflated with prominent pulmonary vessels suggesting both copd and pulmonary congestion or chronic chf. patchy opacity at the left base probably is atelectasis. there may be tiny bilateral pleural effusions. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "may be"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.2,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.2,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 10.5,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.8,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.4,
+            "phrase": "copd"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.5,
+            "phrase": "or chronic"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.7,
+            "phrase": "chf."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 17.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.5,
+            "phrase": "at the left"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.8,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 20.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 20.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.8,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.5,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.5,
+            "phrase": "effusions."
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 24.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 24.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "full_text": " normal heart and mediastinum. right costophrenic angle is not included. no focal opacity. questionable left mid lung opacities could represent atelectasis or early infection.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.1,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 3.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.5,
+            "phrase": "right costophrenic"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.9,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.2,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.7,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.9,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.0,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 17.0,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 18.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.3,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 19.3,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.2,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.4,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.6,
+            "phrase": "infection."
+        }
+    ]
+}

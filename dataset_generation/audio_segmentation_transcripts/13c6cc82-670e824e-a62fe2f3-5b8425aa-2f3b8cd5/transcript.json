@@ -1,0 +1,135 @@
+{
+    "full_text": " slightly elevated right lung base. normal heart and mediastinum. left lung is clear. subtle increased opacity at the right lung base could represent infection or atelectasis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.1,
+            "end_time": 3.6,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.1,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 6.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.3,
+            "phrase": "subtle"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.6,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.1,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.0,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.4,
+            "phrase": "atelectasis."
+        }
+    ]
+}

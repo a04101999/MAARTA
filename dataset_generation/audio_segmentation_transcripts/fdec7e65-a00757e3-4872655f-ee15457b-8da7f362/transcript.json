@@ -1,0 +1,15 @@
+{
+    "full_text": " prominent heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.2,
+            "end_time": 4.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "heart."
+        }
+    ]
+}

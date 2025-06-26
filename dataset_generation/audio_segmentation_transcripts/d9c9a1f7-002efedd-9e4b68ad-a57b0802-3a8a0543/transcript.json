@@ -1,0 +1,80 @@
+{
+    "full_text": " normal mediastinum. slightly increased opacity at the right base could be normal or could represent infectious process.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.2,
+            "end_time": 5.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.5,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.0,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.5,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.7,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.4,
+            "phrase": "normal or"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "infectious process."
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "full_text": " sternotomy wires. cardiac clips. prominent heart. the right lung base is not completely included but there is at least moderate pleural effusion tracking into the right minor fissure. there is associated atelectasis or consolidation. there is increased density of the left lower lung , probably representing edema. there's probably a small left effusion as well. left ac joint arthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.7000000000000002,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 3.1,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.6,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.0,
+            "phrase": "included"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.2,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 14.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.4,
+            "phrase": "tracking"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.6,
+            "phrase": "into"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.3,
+            "phrase": "there is"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.6,
+            "phrase": "associated"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 19.5,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.7,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.1,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 23.3,
+            "end_time": 24.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 27.0,
+            "phrase": ","
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.4,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 27.4,
+            "end_time": 28.0,
+            "phrase": "representing"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.4,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 28.4,
+            "end_time": 29.9,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 29.9,
+            "end_time": 30.2,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 30.2,
+            "end_time": 30.3,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 30.6,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 30.6,
+            "end_time": 31.0,
+            "phrase": "left effusion"
+        },
+        {
+            "begin_time": 31.0,
+            "end_time": 31.4,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 31.4,
+            "end_time": 31.6,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 35.5,
+            "end_time": 36.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 36.1,
+            "end_time": 36.3,
+            "phrase": "ac"
+        },
+        {
+            "begin_time": 36.3,
+            "end_time": 36.8,
+            "phrase": "joint"
+        },
+        {
+            "begin_time": 36.8,
+            "end_time": 37.2,
+            "phrase": "arthritis."
+        }
+    ]
+}

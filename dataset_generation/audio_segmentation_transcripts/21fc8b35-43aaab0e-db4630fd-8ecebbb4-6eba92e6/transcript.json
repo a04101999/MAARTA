@@ -1,0 +1,70 @@
+{
+    "full_text": " low lung volumes. prominent heart. band of atelectasis at the right base. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 4.3,
+            "phrase": "low lung volumes."
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.6,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.5,
+            "phrase": "at the right"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.9,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 10.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

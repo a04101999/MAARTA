@@ -1,0 +1,110 @@
+{
+    "full_text": " band of atelectasis or scarring in the left lung base. normal heart and mediastinum. no large effusion or pneumothorax right costrophrenic angle not entirely included.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.8,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 3.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.9,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.5,
+            "phrase": "and mediastinum."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 13.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.0,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 15.3,
+            "phrase": "or pneumothorax"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.1,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.8,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "not entirely included."
+        }
+    ]
+}

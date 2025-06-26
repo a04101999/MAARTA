@@ -1,0 +1,60 @@
+{
+    "full_text": " apices are not included. cardiomegaly. sternotomy wires. patchy opacities at the bases, could represent breast shadows.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.2,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.9,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.5,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.8,
+            "phrase": "at the bases,"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 10.5,
+            "phrase": "could represent breast shadows."
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "full_text": " cardiomegaly with generalized perihilar and bibasilar haziness. this is consistent with at least moderate pulmonary edema. small effusion is not excluded.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.1,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.9,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.7,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "haziness."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 8.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.4,
+            "phrase": "consistent"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 11.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.7,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.5,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.4,
+            "phrase": "is not"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.9,
+            "phrase": "excluded."
+        }
+    ]
+}

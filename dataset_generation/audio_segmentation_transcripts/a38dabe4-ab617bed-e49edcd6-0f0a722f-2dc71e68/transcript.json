@@ -1,0 +1,60 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. aortic calcifications. prominent pulmonary vasculature. bilateral effusions with atelectasis or consolidation. this probably represents pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.7000000000000001,
+            "end_time": 1.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.6,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 3.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 9.5,
+            "phrase": "prominent pulmonary vasculature. bilateral effusions with atelectasis or consolidation."
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.9,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.8,
+            "phrase": "edema."
+        }
+    ]
+}

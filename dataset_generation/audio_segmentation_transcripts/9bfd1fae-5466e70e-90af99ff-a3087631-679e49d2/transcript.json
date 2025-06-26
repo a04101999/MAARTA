@@ -1,0 +1,160 @@
+{
+    "full_text": " normal heart. normal aorta. there is a device projecting over the lower spine. there may be tiny bit of fluid in the right minor fissure. suspect tiny effusions bilaterally, right greater than left. hyper-inflated lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.1,
+            "phrase": "device"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.9,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.4,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.8,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.0,
+            "phrase": "spine."
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.8,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.0,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.6,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 25.7,
+            "phrase": "bit"
+        },
+        {
+            "begin_time": 25.7,
+            "end_time": 25.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.0,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 26.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 26.3,
+            "end_time": 26.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.7,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 26.7,
+            "end_time": 27.0,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 28.8,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.3,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 29.3,
+            "end_time": 29.7,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 31.5,
+            "phrase": "bilaterally, right greater than left."
+        },
+        {
+            "begin_time": 32.9,
+            "end_time": 33.6,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 33.6,
+            "end_time": 33.8,
+            "phrase": "lungs."
+        }
+    ]
+}

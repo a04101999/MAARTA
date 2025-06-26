@@ -26,3 +26,22 @@ python3 egd_cxr_processing.py
 
 For convenience we have provided the respective folders in the `dataset_generation` directory and simply running the `egd_cxr_processing.py` file will generate the synthesized error dataset.
 
+# Usage <a name="usage"></a>
+
+Within this repository, we provide python files that utilizes the synthesized perceptual error dataset and evaluates the SCoT framework against standard chain of thought (CoT) prompting in zero-shot and few-shot settings on the synthesized error dataset highlighting its effectiveness in improving multimodal reasoning across different LLM/LMM models. In this study the models used are Mistral-7B-Instruct-v0.3, LLAMA-3.2-11B-Vision-Instruct and GPT-4o-Mini. The Mistral and Llama models are accessed using [together.ai's](https://www.together.ai/) API. GPT-4o-Mini is accessed using [OpenAI's](https://openai.com/api/) API.
+
+- These python files are located in the `./zshot`, `./fshot` directories of this repository.
+- To run these programs you will need a together.ai API key and OpenAI API key to perform requests to these models.
+- These API keys can be obtained by signing up for an account on the respective platforms and following their instructions for generating API keys.
+- The API keys will need to be inserted into the code in the respective files located near the top of the file.
+- These scripts are designed to be run from the command line and requires Python 3.8 or higher.
+
+```bash
+Usage:
+  python3 ./file - [flags]
+
+Flags:
+  --data (required)                File path to our synthesized error dataset file with missing or masked fixations
+  --metadata (required)            File path to our synthesized error dataset metadata file containing labels for corresponding cases
+  --results (optional)             File path to preexisting results output file generated to continue appending results from the LLM/LMM models
+```

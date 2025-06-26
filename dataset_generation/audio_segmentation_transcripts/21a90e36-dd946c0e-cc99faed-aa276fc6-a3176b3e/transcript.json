@@ -1,0 +1,165 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vasculature. the right lung base is not completely included. the left lung basis is not completely included. there is at least moderate pleural effusion with atelectasis or consolidation. patchy left perihilar opacity is also present. there's probably a small left effusion. in addition to the effusion and atelectasis edema is suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 3.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.4,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 16.0,
+            "phrase": "completely included. the left lung basis is not completely included."
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.4,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 24.0,
+            "phrase": "effusion with atelectasis or consolidation. patchy left perihilar opacity is also present."
+        },
+        {
+            "begin_time": 25.9,
+            "end_time": 26.4,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 26.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 26.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.4,
+            "phrase": "left effusion."
+        },
+        {
+            "begin_time": 28.7,
+            "end_time": 29.5,
+            "phrase": "in addition"
+        },
+        {
+            "begin_time": 29.5,
+            "end_time": 29.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 29.8,
+            "end_time": 30.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 30.7,
+            "end_time": 31.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 31.1,
+            "end_time": 31.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 31.4,
+            "end_time": 31.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 31.9,
+            "end_time": 32.4,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 32.4,
+            "end_time": 32.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 32.6,
+            "end_time": 33.2,
+            "phrase": "suspected."
+        }
+    ]
+}

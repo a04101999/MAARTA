@@ -1,0 +1,70 @@
+{
+    "full_text": " lung apices are not completely included. normal heart and mediastinum. lungs are clear as visualized.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "are not"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.3,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.7,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.3,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.2,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.7,
+            "phrase": "clear"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.4,
+            "phrase": "visualized."
+        }
+    ]
+}

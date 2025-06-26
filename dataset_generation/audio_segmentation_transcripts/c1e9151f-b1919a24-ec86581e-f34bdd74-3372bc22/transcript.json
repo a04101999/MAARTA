@@ -1,0 +1,155 @@
+{
+    "full_text": " dense opacity extending from the right pulmonary hilum to the peripheral right lower lung. no pleural effusion. the left lung is clear. right lung opacity suspicious for pneumonia. normal heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 1.8,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 3.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.6,
+            "phrase": "extending"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.7,
+            "phrase": "from"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.2,
+            "phrase": "hilum"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "peripheral"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.8,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.2,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.5,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.7,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.4,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.3,
+            "phrase": "heart."
+        }
+    ]
+}

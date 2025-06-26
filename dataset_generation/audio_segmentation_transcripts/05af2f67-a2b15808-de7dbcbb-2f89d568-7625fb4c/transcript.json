@@ -1,0 +1,85 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vasculature. patchy opacity at the right infrahilar region. could represent atelectasis or consolidation.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.4,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.0,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.6,
+            "phrase": "region."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 13.5,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.3,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.6,
+            "phrase": "consolidation."
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "full_text": " sternotomy wires. cardiomegaly. band of fluid in the right minor fissure. small right effusion. slight generalized haziness of the lungs probably represents congestion. minimal atelectasis in the left midlung. some cardiac clips. right ac joint osteoarthritis. right shoulder suture anchors",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.7000000000000001,
+            "end_time": 1.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 1.5,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 2.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.7,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.1,
+            "phrase": "of fluid"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.4,
+            "phrase": "minor"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.7,
+            "phrase": "fissure."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.1,
+            "phrase": "slight generalized"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.6,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 15.0,
+            "phrase": "represents congestion."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 19.0,
+            "phrase": "minimal atelectasis in the left midlung. some cardiac clips."
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.2,
+            "phrase": "ac"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.4,
+            "phrase": "joint"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 23.1,
+            "phrase": "osteoarthritis."
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.5,
+            "phrase": "shoulder"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 25.4,
+            "phrase": "suture"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.8,
+            "phrase": "anchors"
+        }
+    ]
+}

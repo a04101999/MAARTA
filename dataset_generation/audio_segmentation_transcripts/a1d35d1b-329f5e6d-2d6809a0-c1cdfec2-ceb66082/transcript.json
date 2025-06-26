@@ -1,0 +1,105 @@
+{
+    "full_text": " normal heart and mediastinum. blunting of the left consophrenic angle, which could represent a small amount of pleural fluid or scarring. the right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.8,
+            "phrase": "blunting of the left consophrenic angle,"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.1,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.2,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.5,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.8,
+            "phrase": "lung is"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.1,
+            "phrase": "clear."
+        }
+    ]
+}

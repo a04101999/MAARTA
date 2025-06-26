@@ -1,0 +1,70 @@
+{
+    "full_text": " right costophrenic angle is not completely included. normal heart and mediastinum. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 3.3,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.8,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 3.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.4,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.6,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.1,
+            "phrase": "lungs."
+        }
+    ]
+}

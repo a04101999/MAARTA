@@ -1,0 +1,90 @@
+{
+    "full_text": " normal heart and mediastinum. minimal streaky opacitiy at the left mid lung and right base probably atelectasis and scarring.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.0,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.5,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.0,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "opacitiy"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.8,
+            "phrase": "at the left"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.1,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 14.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.3,
+            "phrase": "scarring."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "full_text": " irregular interstitial opacity throughout both lungs. patchy left perihilar and infrahilar and retrocardiac opacity could represent pneumonia. subtle nodular opacities in the right upper lung. multifocal infection and edema are the primary considerations with metastatic disease also possible. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.8,
+            "end_time": 6.6,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.2,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.4,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.0,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 18.2,
+            "phrase": "and retrocardiac"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.6,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 26.5,
+            "phrase": "subtle"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 27.0,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.6,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 27.6,
+            "end_time": 27.7,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 27.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 28.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.2,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 28.2,
+            "end_time": 28.9,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 33.7,
+            "end_time": 34.3,
+            "phrase": "multifocal"
+        },
+        {
+            "begin_time": 34.3,
+            "end_time": 35.3,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 35.4,
+            "end_time": 35.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 35.6,
+            "end_time": 35.9,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 35.9,
+            "end_time": 36.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 36.1,
+            "end_time": 36.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 36.2,
+            "end_time": 36.6,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 36.6,
+            "end_time": 37.5,
+            "phrase": "considerations"
+        },
+        {
+            "begin_time": 37.5,
+            "end_time": 37.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 41.7,
+            "end_time": 42.2,
+            "phrase": "metastatic"
+        },
+        {
+            "begin_time": 42.2,
+            "end_time": 42.5,
+            "phrase": "disease"
+        },
+        {
+            "begin_time": 42.5,
+            "end_time": 42.9,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 42.9,
+            "end_time": 43.9,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 45.7,
+            "end_time": 45.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 45.8,
+            "end_time": 46.1,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 46.1,
+            "end_time": 46.5,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 46.5,
+            "end_time": 47.6,
+            "phrase": "or pneumothorax."
+        }
+    ]
+}

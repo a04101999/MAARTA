@@ -1,0 +1,160 @@
+{
+    "full_text": " lung apices are not entirely included. small right pleural effusion or post surgical changes at the right costophrenic angle. minimal patchy opacity at the right base could represent atelectasis or early infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.7,
+            "end_time": 4.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.1,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.0,
+            "phrase": "or post"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "surgical"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "changes"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.1,
+            "phrase": "angle."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.6,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.2,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 23.1,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 23.7,
+            "end_time": 24.2,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 25.4,
+            "phrase": "infiltrate."
+        }
+    ]
+}

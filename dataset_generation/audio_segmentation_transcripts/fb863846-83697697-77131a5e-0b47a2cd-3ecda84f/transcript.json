@@ -1,0 +1,40 @@
+{
+    "full_text": " normal lungs and normal cardiomediastinal silhouette. normal bones and soft tissues.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.6,
+            "end_time": 5.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.3,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.7,
+            "phrase": "cardiomediastinal"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.2,
+            "phrase": "silhouette."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.6,
+            "phrase": "normal bones and soft tissues."
+        }
+    ]
+}

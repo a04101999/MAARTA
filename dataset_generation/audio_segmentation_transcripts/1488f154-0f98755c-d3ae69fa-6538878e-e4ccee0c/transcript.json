@@ -1,0 +1,200 @@
+{
+    "full_text": " moderate cardiomegaly. left-sided cardiac defibrillator with lead tip not completely included. patchy opacities in the right mid and lower lung could be infectious or atelectasis. suspect mild congestion. right costophrenic angle not completely included. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 4.1,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.7,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.5,
+            "phrase": "lead"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.4,
+            "phrase": "tip"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.0,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.6,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.6,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.2,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.3,
+            "phrase": "infectious"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.6,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 23.9,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.3,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 26.5,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 27.0,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.1,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.5,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.2,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 29.3,
+            "end_time": 29.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 29.9,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 29.9,
+            "end_time": 30.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 30.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 30.4,
+            "end_time": 30.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

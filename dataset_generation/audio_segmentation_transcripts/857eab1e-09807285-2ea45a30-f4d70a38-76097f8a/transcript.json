@@ -1,0 +1,165 @@
+{
+    "full_text": " aortic calcifications with a prominent aortic knob. normal heart. hyperinflated lungs with interstital opacity, probably scarring. slight blunting of the left costophrenic angle could represent a small amount of pleural fluid or scarring.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 2.4,
+            "phrase": "calcifications"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "aortic knob."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.8,
+            "phrase": "hyperinflated"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 12.5,
+            "phrase": "interstital"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.3,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.7,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.6,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.1,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "blunting"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.3,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.8,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.3,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.0,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 21.0,
+            "phrase": "scarring."
+        }
+    ]
+}

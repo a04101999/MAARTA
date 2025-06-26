@@ -1,0 +1,130 @@
+{
+    "full_text": " the right heart is obscured. there is right hilar and perihilar opacity, probably representing pneumonia. there may be a trace right effusion. left lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.6,
+            "end_time": 4.2,
+            "phrase": "the right"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.7,
+            "phrase": "obscured."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.9,
+            "phrase": "hilar"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.7,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.5,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "representing"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.1,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.5,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 15.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 15.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.8,
+            "phrase": "clear."
+        }
+    ]
+}

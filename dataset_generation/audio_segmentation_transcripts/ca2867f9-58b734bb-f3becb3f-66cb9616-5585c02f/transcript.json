@@ -1,0 +1,120 @@
+{
+    "full_text": " prominent heart. patchy opacity at the bases bilaterally. small effusions. left sided cardiac defibrillator with lead in the right ventricle. again, edema most likely.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.1,
+            "end_time": 3.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "effusions."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.0,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.0,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "lead"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 11.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.5,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.4,
+            "phrase": "again,"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.5,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.9,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.2,
+            "phrase": "likely."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "full_text": " right costrophrenic, bilateral costrophrenic angles not entirely included. normal heart. aortic calcifications. no focal consolidation or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "costrophrenic,"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.8,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.1,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 6.0,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.5,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.2,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 14.9,
+            "phrase": "no focal consolidation"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

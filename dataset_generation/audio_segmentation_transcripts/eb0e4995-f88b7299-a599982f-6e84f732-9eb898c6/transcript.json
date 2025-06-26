@@ -1,0 +1,165 @@
+{
+    "full_text": " cardiomegaly, which obscures left lung base. at least moderate left pleural effusion with atelectasis or consolidation. left sided cardiac pacer defibrillator with leads projecting over the right atrium, ventricle and coronary sinus. small right effusion. lungs appear hyper-inflated.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.7,
+            "end_time": 3.8,
+            "phrase": "cardiomegaly,"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.7,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.8,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.4,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 11.5,
+            "phrase": "with atelectasis or consolidation."
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.8,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.3,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.7,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.3,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 16.1,
+            "phrase": "with leads"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.5,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.7,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 16.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.6,
+            "phrase": "atrium,"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.9,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.9,
+            "phrase": "and coronary sinus."
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 22.6,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 22.7,
+            "phrase": "appear"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.6,
+            "phrase": "hyper-inflated."
+        }
+    ]
+}

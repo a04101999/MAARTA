@@ -1,0 +1,35 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. thoracic spinal degeneration. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 3.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 5.2,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 7.2,
+            "phrase": "thoracic spinal degeneration."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.9,
+            "phrase": "clear."
+        }
+    ]
+}

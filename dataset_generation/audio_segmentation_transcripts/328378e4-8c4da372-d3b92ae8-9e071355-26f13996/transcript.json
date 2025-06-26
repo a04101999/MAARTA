@@ -1,0 +1,100 @@
+{
+    "full_text": " small right effusion suspected. patchy opacity of both bases. infection and atelectasis and scarring are the primary considerations. there's some patient rotation.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 6.2,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 7.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.8,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.7,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.6,
+            "phrase": "and scarring are the"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.9,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.5,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.6,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.9,
+            "phrase": "patient"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.5,
+            "phrase": "rotation."
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "full_text": " normal heart and mediastinum. there is focal opacity at the left lower lung. most likely infection. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 6.0,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.5,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.8,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

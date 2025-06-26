@@ -1,0 +1,285 @@
+{
+    "full_text": " left-sided cardiac defibrillator with leads in the right atrium and ventricle. sternotomy wires. cardiac clips. cardiomegaly. small to moderate right pleural effusion which tracks along the lateral wall. there is some loculated pleural fluid in the upper right lung. small left effusion. hyper inflated lungs. there is some consolidation or atelectasis at the right base associated with the effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.7,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.4,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.2,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.6,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.2,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.7,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 10.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.2,
+            "phrase": "small to moderate"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 18.0,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.5,
+            "phrase": "tracks"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "along"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.4,
+            "phrase": "lateral"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 24.2,
+            "phrase": "wall."
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 24.7,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 24.7,
+            "end_time": 25.1,
+            "phrase": "loculated"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 25.8,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 27.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 27.2,
+            "end_time": 27.5,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 27.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 28.0,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 29.2,
+            "end_time": 29.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.2,
+            "phrase": "left effusion."
+        },
+        {
+            "begin_time": 30.2,
+            "end_time": 31.1,
+            "phrase": "hyper"
+        },
+        {
+            "begin_time": 31.1,
+            "end_time": 31.4,
+            "phrase": "inflated"
+        },
+        {
+            "begin_time": 31.4,
+            "end_time": 31.9,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 35.6,
+            "end_time": 36.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 36.0,
+            "end_time": 36.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 36.1,
+            "end_time": 36.3,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 36.3,
+            "end_time": 37.4,
+            "phrase": "consolidation"
+        },
+        {
+            "begin_time": 37.4,
+            "end_time": 37.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 37.7,
+            "end_time": 38.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 38.0,
+            "end_time": 38.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 38.5,
+            "end_time": 38.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 38.6,
+            "end_time": 38.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 38.8,
+            "end_time": 39.0,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 39.0,
+            "end_time": 39.7,
+            "phrase": "associated"
+        },
+        {
+            "begin_time": 39.7,
+            "end_time": 39.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 39.8,
+            "end_time": 40.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 40.0,
+            "end_time": 40.6,
+            "phrase": "effusion."
+        }
+    ]
+}

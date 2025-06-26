@@ -1,0 +1,65 @@
+{
+    "full_text": " questionable opacity obscuring the right heart could represent a right middle lobe pneumonia. alternatively the patient could be rotated. lungs are otherwise clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.2,
+            "end_time": 6.9,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.7,
+            "phrase": "obscuring"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 12.5,
+            "phrase": "could represent a right middle lobe pneumonia."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 14.5,
+            "phrase": "alternatively the patient could be rotated."
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.3,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.8,
+            "phrase": "clear."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "full_text": " a couple of bands of opacity in the mid lungs bilaterally, probably represent atelectasis. no large effusion. no focal consolidation or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.9,
+            "end_time": 4.4,
+            "phrase": "a couple of"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.8,
+            "phrase": "bands"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.1,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 7.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "mid lungs"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.8,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.8,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 12.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.5,
+            "phrase": "consolidation"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.4,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

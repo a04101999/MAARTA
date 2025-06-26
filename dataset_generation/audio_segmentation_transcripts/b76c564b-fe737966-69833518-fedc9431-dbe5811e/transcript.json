@@ -1,0 +1,255 @@
+{
+    "full_text": " small left effusion. fairly extensive dense opacity at the left lung base probably represents pneumonia. air bronchograms are suspected in the left retrocardiac space. some patchy opacity at the right base probably represents atelectasis or further infection. much of the heart border is obscured suggesting lingular pneumonia on the left.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.1,
+            "end_time": 4.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "fairly"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.5,
+            "phrase": "extensive"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.6,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.5,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 12.2,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.4,
+            "phrase": "air"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.2,
+            "phrase": "bronchograms"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.4,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.8,
+            "phrase": "retrocardiac"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.6,
+            "phrase": "space."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.5,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.4,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.1,
+            "phrase": "further"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.1,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 25.5,
+            "phrase": "much"
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 25.6,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 26.3,
+            "end_time": 26.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.1,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 28.3,
+            "phrase": "obscured"
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.4,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 30.5,
+            "end_time": 31.0,
+            "phrase": "lingular"
+        },
+        {
+            "begin_time": 31.0,
+            "end_time": 31.7,
+            "phrase": "pneumonia"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 32.7,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 32.7,
+            "end_time": 32.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.5,
+            "phrase": "left."
+        }
+    ]
+}

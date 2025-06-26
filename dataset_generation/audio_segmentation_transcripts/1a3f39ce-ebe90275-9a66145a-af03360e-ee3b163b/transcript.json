@@ -1,0 +1,75 @@
+{
+    "full_text": " normal lungs. normal heart. clip in the upper right lung. old fracture left clavicle.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.7,
+            "phrase": "clip"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.5,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.3,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "old"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.7,
+            "phrase": "fracture"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.7,
+            "phrase": "clavicle."
+        }
+    ]
+}

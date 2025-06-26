@@ -1,0 +1,185 @@
+{
+    "full_text": " normal heart and mediastinum. left lung is clear. right lung base is not completely included but there's some patchy opacity throughout the right lung and there may be a small right effusion, infection and infection is the most likely consideration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.3,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.9,
+            "phrase": "is clear."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.0,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.8,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.4,
+            "phrase": "included"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.2,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.5,
+            "phrase": "throughout the right"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 13.8,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.6,
+            "phrase": "effusion,"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 16.3,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 17.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 20.0,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.2,
+            "phrase": "is the"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.4,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.5,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 22.0,
+            "phrase": "consideration."
+        }
+    ]
+}

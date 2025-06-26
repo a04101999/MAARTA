@@ -1,0 +1,130 @@
+{
+    "full_text": " mild pulmonary congestion may be present. there is also slightly increased opacity at the right infrahilar region, which could represent an infection or atelectasis or aspiration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.2,
+            "end_time": 5.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.1,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.2,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.8,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 9.2,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.6,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.5,
+            "phrase": "region,"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.1,
+            "phrase": "an infection"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.1,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.5,
+            "phrase": "aspiration."
+        }
+    ]
+}

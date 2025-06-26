@@ -1,0 +1,145 @@
+{
+    "full_text": " prominent heart. aortic arch calcifications. patchy right infrahilar opacity could represent atelectasis or early infiltrate. right costophrenic angle is not entirely included. there may be a trace left effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.5,
+            "phrase": "arch"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.9,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.7,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.3,
+            "phrase": "infiltrate."
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 19.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.3,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.5,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 19.8,
+            "phrase": "not entirely"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.7,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.0,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 23.5,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 23.8,
+            "phrase": "effusion."
+        }
+    ]
+}

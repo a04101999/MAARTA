@@ -1,0 +1,115 @@
+{
+    "full_text": " normal heart. aortic calcifications. thoracic spinal degeneration. slight blunting of the costophrenic angles bilaterally, could represent minimal pleural fluid or thickening. lungs are clear. right shoulder suture anchors.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.1,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.6,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.3,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "blunting"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 10.1,
+            "phrase": "costophrenic angles"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.6,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 12.3,
+            "phrase": "could represent minimal pleural"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "fluid or thickening."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 14.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.8,
+            "phrase": "shoulder"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.1,
+            "phrase": "suture"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.5,
+            "phrase": "anchors."
+        }
+    ]
+}

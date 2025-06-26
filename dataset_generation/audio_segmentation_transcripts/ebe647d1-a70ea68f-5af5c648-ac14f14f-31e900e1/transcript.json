@@ -1,0 +1,105 @@
+{
+    "full_text": " thoracic spinal degeneration. normal heart and mediastinum. left lung not completely included. no focal consolidation on this study. no large effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.6,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.8,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 4.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.7,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.4,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 19.0,
+            "phrase": "focal consolidation"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.6,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.7,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.1,
+            "phrase": "study."
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.5,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.7,
+            "phrase": "effusion."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "full_text": " normal heart and mediastinum. the lungs are clear. no pneumothorax or pleural effusion. the lungs, bones and soft tissues are normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.5,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 6.2,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 10.2,
+            "phrase": "no pneumothorax or pleural effusion."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "lungs,"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.5,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.2,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.7,
+            "phrase": "normal."
+        }
+    ]
+}

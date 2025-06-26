@@ -1,0 +1,95 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary hila with perihilar haziness. congestion may be present. no focal consolidation, pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.7000000000000001,
+            "end_time": 1.7000000000000002,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 3.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.0,
+            "phrase": "hila"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.2,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.7,
+            "phrase": "haziness."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.7,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 9.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.6,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.1,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.8,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "full_text": " left sided cardiac pacer / defibrillator with leads in the right atrium ventricle and coronary sinus. sternotomy wires. cardiomegaly. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.4,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.3,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "/"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.9,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.8,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.2,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.9,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.6,
+            "phrase": "and coronary sinus."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 10.5,
+            "phrase": "sternotomy wires. cardiomegaly."
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.3,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.4,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 16.3,
+            "phrase": "clear."
+        }
+    ]
+}

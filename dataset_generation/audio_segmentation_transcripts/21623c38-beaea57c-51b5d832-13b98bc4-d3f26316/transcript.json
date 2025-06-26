@@ -1,0 +1,160 @@
+{
+    "full_text": " moderate cardiomegaly. prominent pulmonary vessels. patchy perihilar and basilar opacity probably represents pulmonary edema. left costophrenic angle is not included. no large effusion. elevated right lung base. no pneumothorax. sternotomy wires.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.4,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.8,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.1,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.5,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.5,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.3,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.9,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.5,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.8,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.3,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.7,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 17.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.8,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 18.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.4,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 24.9,
+            "phrase": "wires."
+        }
+    ]
+}

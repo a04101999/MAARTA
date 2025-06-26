@@ -1,0 +1,120 @@
+{
+    "full_text": " prominent heart. normal mediastinum. there is patchy dense right infrahilar and right basilar opacity, for which infection is the primary consideration. aspiration or atelectasis is also possible no effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.2,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "there is patchy"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.5,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.3,
+            "phrase": "for which"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.2,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 14.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.3,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.6,
+            "phrase": "consideration."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.7,
+            "phrase": "aspiration"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.2,
+            "phrase": "atelectasis is also possible"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.3,
+            "phrase": "no effusion."
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.6,
+            "phrase": "no pneumothorax."
+        }
+    ]
+}

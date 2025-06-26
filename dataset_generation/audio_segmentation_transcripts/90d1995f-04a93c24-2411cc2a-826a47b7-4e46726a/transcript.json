@@ -1,0 +1,235 @@
+{
+    "full_text": " left-sided cardiac defibrillator with leads projecting over the right ventricle and atrium. prominent heart. lung apices may not be completely included. perihilar opacity bilaterally, particular in the right infrahilar region. this could represent edema or infection. patchy opacity at both bases. there could be a small right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.4,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.4,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.0,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.9,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.7,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 8.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.4,
+            "phrase": "atrium."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.5,
+            "phrase": "completely included."
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.3,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 23.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.1,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 24.9,
+            "phrase": "particular"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.0,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 25.6,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 25.9,
+            "phrase": "region."
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 28.2,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 28.2,
+            "end_time": 28.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 28.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 29.7,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 30.0,
+            "end_time": 30.6,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 30.6,
+            "end_time": 32.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 32.2,
+            "end_time": 32.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 32.4,
+            "end_time": 32.5,
+            "phrase": "at both"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 33.0,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 34.5,
+            "end_time": 35.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 35.0,
+            "end_time": 35.2,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 35.2,
+            "end_time": 35.3,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 35.3,
+            "end_time": 35.4,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 35.4,
+            "end_time": 35.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 35.7,
+            "end_time": 36.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 36.4,
+            "end_time": 37.3,
+            "phrase": "effusion."
+        }
+    ]
+}

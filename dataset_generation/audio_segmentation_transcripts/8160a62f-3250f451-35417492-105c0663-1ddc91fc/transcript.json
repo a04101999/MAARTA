@@ -1,0 +1,95 @@
+{
+    "full_text": " normal heart and mediastinum. streaky patchy atelectasis at the bases. small amount of pleural fluid or scarring bilaterally.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 8.5,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 11.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.6,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 13.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.3,
+            "phrase": "bilaterally."
+        }
+    ]
+}

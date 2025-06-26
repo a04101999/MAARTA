@@ -1,0 +1,95 @@
+{
+    "full_text": " sternotomy wires. large right effusion. with atelectasis. left lung is mostly clear. there is a small left pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.6,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.1,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.7,
+            "phrase": "with atelectasis."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.7,
+            "phrase": "mostly"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.0,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.2,
+            "phrase": "effusion."
+        }
+    ]
+}

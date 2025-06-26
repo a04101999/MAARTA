@@ -1,0 +1,80 @@
+{
+    "full_text": " prominent heart. calcified tortuous aorta. hyper-inflated lungs with prominent interstitial markings. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 4.1,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.8,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.7,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.2,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "markings."
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.8,
+            "phrase": "no pleural"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.5,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

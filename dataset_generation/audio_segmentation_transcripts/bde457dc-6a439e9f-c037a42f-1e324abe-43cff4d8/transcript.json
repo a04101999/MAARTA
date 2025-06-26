@@ -1,0 +1,140 @@
+{
+    "full_text": " prominent heart. mild generalized haziness of the lungs. no focal consolidation. no pleural effusion or pneumothorax. this could represent mild congestion. there is a right sided picc with its tip at the superior vena cava or at the cavoatrial junction.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 3.6,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.4,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.5,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.9,
+            "phrase": "the lungs."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 8.8,
+            "phrase": "no focal consolidation."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 10.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.8,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 11.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 14.2,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.1,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.6,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.5,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 19.2,
+            "phrase": "picc with its tip at the superior vena cava or"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.9,
+            "phrase": "cavoatrial junction."
+        }
+    ]
+}

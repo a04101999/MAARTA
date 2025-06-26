@@ -1,0 +1,145 @@
+{
+    "full_text": " the right heart border is obscured. there is at least moderate effusion with atelectasis or consolidation. tiny amount fluid on the left as well. this could represent pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.9,
+            "end_time": 4.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "obscured."
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.2,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.8,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.8,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 15.3,
+            "phrase": "or consolidation."
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.2,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.2,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 24.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.2,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.6,
+            "phrase": "edema."
+        }
+    ]
+}

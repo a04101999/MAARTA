@@ -1,0 +1,50 @@
+{
+    "full_text": " normal heart and mediastinum. patchy atelectasis at the bases.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.7,
+            "phrase": "bases."
+        }
+    ]
+}

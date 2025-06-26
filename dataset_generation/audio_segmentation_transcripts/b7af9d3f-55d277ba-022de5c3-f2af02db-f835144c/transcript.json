@@ -1,0 +1,150 @@
+{
+    "full_text": " left-sided cardiac defibrillator with leads projecting over the right atrium and ventricle. sternotomy wires and cardiac clips enlarged heart. hazy opacity at the right base. the left base is not is obscured  no large effusion or pneumothorax. suspect pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 2.0,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.6,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.7,
+            "phrase": "projecting over"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 11.2,
+            "phrase": "atrium and ventricle. sternotomy wires"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 13.0,
+            "phrase": "and cardiac clips"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.4,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.5,
+            "phrase": "hazy"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 18.5,
+            "phrase": "the left"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 21.0,
+            "phrase": "is obscured"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 22.2,
+            "phrase": " no"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.5,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.3,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 23.3,
+            "end_time": 26.0,
+            "phrase": "suspect pulmonary edema."
+        }
+    ]
+}

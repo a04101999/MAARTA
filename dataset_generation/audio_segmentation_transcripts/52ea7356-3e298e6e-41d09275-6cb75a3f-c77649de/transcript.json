@@ -1,0 +1,70 @@
+{
+    "full_text": " right sided chest port with its tip at the cavo-atrial junction. normal heart and mediastinum. the lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.4,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.7,
+            "phrase": "chest"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "port"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.1,
+            "phrase": "its"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.6,
+            "phrase": "tip"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.0,
+            "phrase": "cavo-atrial"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.6,
+            "phrase": "junction."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.0,
+            "phrase": "normal heart and mediastinum."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 8.5,
+            "phrase": "the lungs are clear."
+        }
+    ]
+}

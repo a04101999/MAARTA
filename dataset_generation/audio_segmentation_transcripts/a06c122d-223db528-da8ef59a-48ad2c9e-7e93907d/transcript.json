@@ -1,0 +1,110 @@
+{
+    "full_text": " lung apices are not included. cardiomegaly. subtle opacity at the right mid lung could represent infection or other lesion. no pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 1.9,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.3,
+            "phrase": "subtle"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.9,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 13.4,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.5,
+            "phrase": "other lesion."
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 23.3,
+            "end_time": 23.5,
+            "phrase": "effusion."
+        }
+    ]
+}

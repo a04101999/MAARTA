@@ -1,0 +1,225 @@
+{
+    "full_text": " mild cardiomegaly. tortuous aorta. prominent right pulmonary hilum, for which lymphadenopathy and large pulmonary vessels are the primary considerations. there is cephalization vessels with prominence of the smaller pulmonary vessels. increased haziness at the bases possible. probable small bilateral effusions. altogether this probably represents pulmonary edema. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.3,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.6,
+            "phrase": "tortuous"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.7,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.3,
+            "phrase": "hilum,"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.1,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.8,
+            "phrase": "lymphadenopathy"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.1,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 13.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.1,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.6,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.9,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "cephalization"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 19.3,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.9,
+            "phrase": "prominence"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.0,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.5,
+            "phrase": "smaller"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.5,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 23.9,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.3,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.4,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 25.2,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 26.3,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 26.3,
+            "end_time": 26.5,
+            "phrase": "probable"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 27.1,
+            "phrase": "small bilateral effusions."
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.2,
+            "phrase": "altogether"
+        },
+        {
+            "begin_time": 30.2,
+            "end_time": 30.5,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 30.5,
+            "end_time": 30.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 30.9,
+            "end_time": 31.5,
+            "phrase": "represents pulmonary edema."
+        },
+        {
+            "begin_time": 33.0,
+            "end_time": 33.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 33.4,
+            "end_time": 33.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "full_text": " sternotomy wires. aortic calcifications. normal heart. the lungs are clear. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 1.9,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.6,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.9,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.2,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.0,
+            "phrase": "the lungs"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.8,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.5,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

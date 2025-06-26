@@ -1,0 +1,150 @@
+{
+    "full_text": " moderate cardiomegaly. left sided cardiac pacer with lead in the left ventricle. patchy peri hilar opacities bilaterally. probably representing edema. no large effusion or pneumothorax. infection is also possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.9,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.6,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "lead"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "peri"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "hilar"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.6,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.3,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.3,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 17.0,
+            "phrase": "representing"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.5,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.7,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.4,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 23.0,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 23.3,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 23.3,
+            "end_time": 23.9,
+            "phrase": "possible."
+        }
+    ]
+}

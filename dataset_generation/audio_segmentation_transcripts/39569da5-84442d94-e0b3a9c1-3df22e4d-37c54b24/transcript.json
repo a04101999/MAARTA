@@ -1,0 +1,125 @@
+{
+    "full_text": " normal heart. aortic calcifications. lungs are clear. slight blunting of the left costophrenic angle could represent a small amount of pleural fluid or scarring.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.6,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 8.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.4,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 13.5,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.7,
+            "phrase": "blunting"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 13.8,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 13.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.5,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.7,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.6,
+            "phrase": "amount"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.3,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.0,
+            "phrase": "scarring."
+        }
+    ]
+}

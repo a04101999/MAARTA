@@ -1,0 +1,80 @@
+{
+    "full_text": " low lung volumes. normal heart. minimal patchy opacity at the right base, could represent atelectasis or an early infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.4,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.4,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.9,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 12.4,
+            "phrase": "could represent atelectasis or"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.8,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.7,
+            "phrase": "infiltrate."
+        }
+    ]
+}

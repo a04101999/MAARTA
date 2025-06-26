@@ -1,0 +1,90 @@
+{
+    "full_text": " opacity in the right upper lobe, probably infectious. normal heart and mediastinum. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.4,
+            "end_time": 4.5,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.5,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.4,
+            "phrase": "lobe,"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.7,
+            "phrase": "infectious."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 9.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 14.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

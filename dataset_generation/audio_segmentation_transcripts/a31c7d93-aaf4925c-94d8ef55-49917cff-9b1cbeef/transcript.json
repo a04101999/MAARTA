@@ -1,0 +1,175 @@
+{
+    "full_text": " prominent heart. thoracic spinal degeneration. subtle reticular opacity around both lungs, left greater than right. increased density on the left. left base is not entirely included. differential considerations include mild edema, emphysema, fibrosis and infection at the left lung base.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.6,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.2,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.2,
+            "phrase": "subtle"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.8,
+            "phrase": "reticular"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 9.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.6,
+            "phrase": "around"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "lungs,"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 11.9,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.0,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 13.5,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.5,
+            "phrase": "left base is not entirely included."
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.8,
+            "phrase": "differential"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.1,
+            "phrase": "considerations"
+        },
+        {
+            "begin_time": 26.1,
+            "end_time": 27.1,
+            "phrase": "include"
+        },
+        {
+            "begin_time": 30.5,
+            "end_time": 31.1,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 31.1,
+            "end_time": 31.1,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 34.6,
+            "end_time": 35.1,
+            "phrase": "emphysema,"
+        },
+        {
+            "begin_time": 39.0,
+            "end_time": 39.9,
+            "phrase": "fibrosis"
+        },
+        {
+            "begin_time": 44.1,
+            "end_time": 45.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 45.0,
+            "end_time": 45.5,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 45.5,
+            "end_time": 45.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 45.5,
+            "end_time": 45.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 45.6,
+            "end_time": 45.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 45.8,
+            "end_time": 46.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 46.0,
+            "end_time": 46.1,
+            "phrase": "base."
+        }
+    ]
+}

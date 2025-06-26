@@ -1,0 +1,30 @@
+{
+    "full_text": " normal heart. aortic calcifications. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.6,
+            "end_time": 4.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 7.3,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.7,
+            "phrase": "lungs."
+        }
+    ]
+}

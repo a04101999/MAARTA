@@ -1,0 +1,170 @@
+{
+    "full_text": " prominent heart. hyper inflated lungs with a irregular interstitial opacities bilaterally. probably scarring. small, right and moderate left pleural effusion with atelectasis or consolidation. no pneumothorax. there is some scarring at the apices as well. cardiomegaly.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 3.3,
+            "phrase": "hyper"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.6,
+            "phrase": "inflated"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.1,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 5.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.7,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.3,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.3,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.4,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.6,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.5,
+            "phrase": "small,"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.3,
+            "phrase": "and moderate"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "atelectasis or consolidation."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.9,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.9,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.4,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 19.7,
+            "end_time": 20.1,
+            "phrase": "apices"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.3,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.6,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.5,
+            "phrase": "cardiomegaly."
+        }
+    ]
+}

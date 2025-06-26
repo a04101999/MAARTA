@@ -1,0 +1,120 @@
+{
+    "full_text": " moderate cardiomegaly which obscures the left lung base. there may be a small left pleural effusion. mild congestion could be present. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.4,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.7,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 4.2,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.7,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.6,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.1,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.2,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.4,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

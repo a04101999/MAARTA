@@ -1,0 +1,60 @@
+{
+    "full_text": " normal heart and mediastinum. tiny calcified granuloma in the right lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "granuloma"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "lung."
+        }
+    ]
+}

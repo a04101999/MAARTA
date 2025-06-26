@@ -1,0 +1,20 @@
+{
+    "full_text": " normal heart. the mediastinum is normal normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.7,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 7.0,
+            "phrase": "the mediastinum is normal normal lungs."
+        }
+    ]
+}

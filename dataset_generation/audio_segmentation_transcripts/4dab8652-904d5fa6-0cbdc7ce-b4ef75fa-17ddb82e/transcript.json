@@ -1,0 +1,185 @@
+{
+    "full_text": " prominent heart. large hiatal hernia with an air fluid level. dense aortic calcifications. hyper-inflated lungs. old right sided rib fractures posteriorly. density in the right mid lung could represent scarring or infection. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.1,
+            "end_time": 4.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.2,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "hiatal"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.7,
+            "phrase": "hernia"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.3,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.5,
+            "phrase": "air"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.8,
+            "phrase": "fluid"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "level."
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 9.7,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.5,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.4,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 14.2,
+            "phrase": "old"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.8,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 14.9,
+            "phrase": "rib"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.7,
+            "phrase": "fractures"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.5,
+            "phrase": "posteriorly."
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 18.1,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.2,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.9,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.7,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 25.1,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 26.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 27.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

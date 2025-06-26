@@ -1,0 +1,90 @@
+{
+    "full_text": " normal heart and mediastinum. patchy perihilar opacity bilaterally, could represent infection or early edema. no effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.6,
+            "end_time": 5.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.3,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 8.2,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.7,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.0,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.7,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 16.1,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.6,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 18.0,
+            "phrase": "no effusion"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.4,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

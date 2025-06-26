@@ -1,0 +1,135 @@
+{
+    "full_text": " cardiomegaly. partially visualized harrington rods or lumbar fusion hardware. small left effusion with atelectasis is suspected. prominent pulmonary vessels. mild congestion may be present. aortic calcifications. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 3.1,
+            "phrase": "partially"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.1,
+            "phrase": "harrington"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "rods"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 6.2,
+            "phrase": "lumbar"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "fusion"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.9,
+            "phrase": "hardware."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.0,
+            "phrase": "small left"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.4,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.6,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.8,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 19.5,
+            "phrase": "prominent pulmonary vessels."
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.5,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 20.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.3,
+            "phrase": "present."
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 22.2,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.6,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 24.0,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.3,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.8,
+            "phrase": "degeneration."
+        }
+    ]
+}

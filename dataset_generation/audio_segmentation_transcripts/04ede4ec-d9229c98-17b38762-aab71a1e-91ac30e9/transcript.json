@@ -1,0 +1,95 @@
+{
+    "full_text": " cardiomegaly. prominent pulmonary vasculature. the lungs are otherwise clear. there may be a trace left effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.3,
+            "end_time": 1.8,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.6,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 7.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

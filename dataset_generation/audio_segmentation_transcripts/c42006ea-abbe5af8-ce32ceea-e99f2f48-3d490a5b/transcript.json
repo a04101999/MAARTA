@@ -1,0 +1,100 @@
+{
+    "full_text": " cardiomegaly with haziness at the bases. no large effusion. there may be a small right pleural effusion. no pneumothorax. suspect mild pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.3,
+            "phrase": "cardiomegaly"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.0,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.8,
+            "phrase": "there may be"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.9,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 8.5,
+            "phrase": "no pneumothorax."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.7,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.8,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "pulmonary edema."
+        }
+    ]
+}

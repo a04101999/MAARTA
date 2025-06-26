@@ -1,0 +1,45 @@
+{
+    "full_text": " moderate cardiomegaly. mediastinum normal otherwise. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.6,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 1.6,
+            "end_time": 2.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.3,
+            "phrase": "mediastinum"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 6.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "otherwise."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "clear."
+        }
+    ]
+}

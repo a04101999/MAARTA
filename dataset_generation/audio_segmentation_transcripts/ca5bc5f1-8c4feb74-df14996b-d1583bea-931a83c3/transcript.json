@@ -1,0 +1,35 @@
+{
+    "full_text": " sternotomy wires. normal heart. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.4,
+            "end_time": 2.2,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "lungs."
+        }
+    ]
+}

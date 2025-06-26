@@ -1,0 +1,175 @@
+{
+    "full_text": " prominent heart. left sided cardiac pacer with leads projecting over the right atrium, ventricle and coronary sinus. there may not be a right atrial lead. slightly elevated right lung base. small right effusion difficult to exclude. lungs otherwise clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.1,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "pacer with"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 7.3,
+            "phrase": "leads projecting over the"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.8,
+            "phrase": "atrium,"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.2,
+            "phrase": "coronary"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.7,
+            "phrase": "sinus."
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 20.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.1,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 21.1,
+            "end_time": 21.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 21.9,
+            "phrase": "atrial"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.0,
+            "phrase": "lead."
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 24.5,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 25.0,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.9,
+            "phrase": "small right"
+        },
+        {
+            "begin_time": 26.9,
+            "end_time": 27.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 27.7,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 27.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 27.8,
+            "end_time": 28.4,
+            "phrase": "exclude."
+        },
+        {
+            "begin_time": 31.2,
+            "end_time": 31.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 31.7,
+            "end_time": 32.0,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 32.0,
+            "end_time": 32.4,
+            "phrase": "clear."
+        }
+    ]
+}

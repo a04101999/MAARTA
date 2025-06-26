@@ -1,0 +1,160 @@
+{
+    "full_text": " costophrenic angles not completely included. prominent heart. sternotomy wires. thoracic spinal degeneration. prominent pulmonary vasculature. increased density in the right infrahilar region suspicious for pneumonia. there is some haziness at the left lung base as well and edema is possible. sternotomy wires.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.9,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.9,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.4,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 10.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 11.0,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.8,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.8,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.2,
+            "phrase": "region"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 14.6,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.1,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 18.9,
+            "phrase": "there is some haziness at the left lung base as well and"
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.3,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.9,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.9,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.1,
+            "phrase": "wires."
+        }
+    ]
+}

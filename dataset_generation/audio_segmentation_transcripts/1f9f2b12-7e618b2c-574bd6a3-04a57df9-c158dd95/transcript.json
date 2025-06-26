@@ -1,0 +1,105 @@
+{
+    "full_text": " normal, heart and mediastinum. patchy opacity in the right infrahilar region. probably atelectasis or infection. trace left and possible right effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "normal,"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 5.4,
+            "phrase": "the right infrahilar region."
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 7.2,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.6,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.7,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 12.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.6,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.5,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 15.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.8,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

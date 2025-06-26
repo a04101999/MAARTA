@@ -1,0 +1,125 @@
+{
+    "full_text": " mild cardiomegaly. there appears to be left retrocardiac opacity with air bronchograms suggesting pneumonia. patchy opacity at the right base could represent infectious process as well.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.7,
+            "phrase": "there appears to"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.0,
+            "phrase": "retrocardiac"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "air"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.7,
+            "phrase": "bronchograms"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.6,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.9,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.4,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.0,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.3,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.6,
+            "phrase": "infectious"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.8,
+            "phrase": "process"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.2,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.4,
+            "phrase": "well."
+        }
+    ]
+}

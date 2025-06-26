@@ -1,0 +1,120 @@
+{
+    "full_text": " vague opacity in the left hilar / suprahilar region, which could represent infection. there may be a small left pleural effusion. normal heart.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.5,
+            "end_time": 3.9,
+            "phrase": "vague"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.6,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.0,
+            "phrase": "hilar"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.0,
+            "phrase": "/"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.3,
+            "phrase": "suprahilar"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 10.4,
+            "phrase": "region,"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.1,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.8,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.3,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.5,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.4,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 21.2,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 26.2,
+            "end_time": 26.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 26.5,
+            "end_time": 26.8,
+            "phrase": "heart."
+        }
+    ]
+}

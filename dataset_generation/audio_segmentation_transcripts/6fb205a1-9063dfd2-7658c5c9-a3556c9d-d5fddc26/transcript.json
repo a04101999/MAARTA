@@ -1,0 +1,185 @@
+{
+    "full_text": " normal heart size. aortic calcifications. left-sided. chest port with its tip in the superior vena cava. dense opacity obscuring the right heart border which suggests right middle lobe pneumonia. there's a small right effusion with atelectasis. low lung volumes.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.5,
+            "phrase": "size."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 6.0,
+            "phrase": "left-sided."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.4,
+            "phrase": "chest port"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "its"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "tip in the"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.7,
+            "phrase": "superior"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "vena"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.0,
+            "phrase": "cava."
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.5,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "obscuring"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 17.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.6,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.8,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.2,
+            "phrase": "suggests"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "middle"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.0,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.6,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.9,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.3,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.2,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 28.1,
+            "end_time": 28.4,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 28.4,
+            "end_time": 28.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 29.3,
+            "phrase": "volumes."
+        }
+    ]
+}

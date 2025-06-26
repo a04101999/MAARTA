@@ -1,0 +1,45 @@
+{
+    "full_text": " large left suprahilar mass. normal heart. right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.7,
+            "phrase": "suprahilar"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.3,
+            "phrase": "mass."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.7,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.2,
+            "phrase": "lung is clear."
+        }
+    ]
+}

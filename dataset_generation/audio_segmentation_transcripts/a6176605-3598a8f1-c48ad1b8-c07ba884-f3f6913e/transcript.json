@@ -1,0 +1,85 @@
+{
+    "full_text": " enlarged heart. aortic calcifications. severe scoliosis. bilateral effusions with atelectasis or consolidation or scarring. hyper-inflated lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.6,
+            "end_time": 4.1,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 5.0,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.7,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.5,
+            "phrase": "severe"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.7,
+            "phrase": "scoliosis."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 13.1,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.3,
+            "phrase": "consolidation"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.4,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 18.9,
+            "end_time": 19.6,
+            "phrase": "hyper-inflated"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.4,
+            "phrase": "lungs."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "full_text": " sternotomy wires. cardiac clips. cardiomegaly. aortic calcifications. prominent pulmonary vessels. patchy opacity at the bases probably represents edema. infection's also possible. there's some irregularity of the right shoulder. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.0,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 3.9,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.3,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.9,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 9.3,
+            "phrase": "aortic calcifications. prominent"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.7,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.3,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 12.1,
+            "phrase": "patchy opacity at"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.7,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.2,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 15.3,
+            "phrase": "infection's"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.5,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.1,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 17.4,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.1,
+            "phrase": "irregularity"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.9,
+            "phrase": "the right shoulder."
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 24.2,
+            "phrase": "degeneration."
+        }
+    ]
+}

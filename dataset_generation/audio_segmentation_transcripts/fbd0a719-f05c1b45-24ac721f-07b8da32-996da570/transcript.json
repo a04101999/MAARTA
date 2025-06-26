@@ -1,0 +1,130 @@
+{
+    "full_text": " normal heart. left lung is not completely included. left lung is hyper-inflated. irregular patchy opacity throughout the right lung, probably represents scarring with infection not excluded.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.7,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "is not"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.0,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.3,
+            "phrase": "hyper-inflated."
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.3,
+            "phrase": "irregular"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 16.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.7,
+            "phrase": "throughout"
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 17.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.5,
+            "phrase": "lung,"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 23.9,
+            "end_time": 24.6,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 26.6,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 29.5,
+            "end_time": 30.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 30.0,
+            "end_time": 30.5,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 30.5,
+            "end_time": 30.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 30.7,
+            "end_time": 31.3,
+            "phrase": "excluded."
+        }
+    ]
+}

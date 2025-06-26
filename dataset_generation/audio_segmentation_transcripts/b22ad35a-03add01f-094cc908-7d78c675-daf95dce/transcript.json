@@ -1,0 +1,170 @@
+{
+    "full_text": " sternotomy wires. there appears to be a cardiac valve replacement. cardiomegaly. aortic calcifications. bilateral effusions, at least moderate on the right. there's likely some degree of atelectasis or consolidation associated with the right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.8,
+            "end_time": 1.4,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.5,
+            "end_time": 1.9,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.4,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.6,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.1,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.5,
+            "phrase": "valve"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.2,
+            "phrase": "replacement."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 8.1,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.8,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.5,
+            "phrase": "effusions,"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.6,
+            "phrase": "at least"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.8,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.0,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.6,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.5,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.8,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.4,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.7,
+            "phrase": "degree"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 21.0,
+            "phrase": "consolidation"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.7,
+            "phrase": "associated"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 21.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 21.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.2,
+            "phrase": "effusion."
+        }
+    ]
+}

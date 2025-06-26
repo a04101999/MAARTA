@@ -1,0 +1,175 @@
+{
+    "full_text": " left-sided cardiac defibrillator with leads projecting over the right atrium ventricle and coronary sinus. moderated cardiomegaly which obscures the left base. suspect left effusion with atelectasis or consolidation. left upper lung is clear. right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "cardiac defibrillator"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.0,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.3,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.7,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.6,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "coronary"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.6,
+            "phrase": "sinus."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 10.2,
+            "phrase": "moderated cardiomegaly"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "obscures"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 10.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.6,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.9,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.1,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.8,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.6,
+            "phrase": "is clear."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "full_text": " normal heart and mediastinum. small left effusion with atelectasis. it could be a small right effusion as well. patchy right lower lung opacity could represent atelectasis or infection. left sided acromioclavicular osteoarthritis. right sided glenohumeral osteoarthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.5,
+            "end_time": 3.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.7,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.6,
+            "phrase": "it"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 9.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.3,
+            "phrase": "as well."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "represent atelectasis or infection."
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 27.2,
+            "end_time": 27.4,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 27.9,
+            "phrase": "acromioclavicular"
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.7,
+            "phrase": "osteoarthritis."
+        },
+        {
+            "begin_time": 28.7,
+            "end_time": 29.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.1,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 30.2,
+            "end_time": 30.8,
+            "phrase": "glenohumeral"
+        },
+        {
+            "begin_time": 30.8,
+            "end_time": 31.1,
+            "phrase": "osteoarthritis."
+        }
+    ]
+}

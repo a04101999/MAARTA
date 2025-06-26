@@ -1,0 +1,80 @@
+{
+    "full_text": " normal heart and mediastinum. thoracic spinal degeneration. questionable rounded nodule projecting over the right lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 5.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 6.2,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.6,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.7,
+            "phrase": "questionable"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.1,
+            "phrase": "rounded"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.5,
+            "phrase": "nodule"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.8,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.0,
+            "phrase": "lung."
+        }
+    ]
+}

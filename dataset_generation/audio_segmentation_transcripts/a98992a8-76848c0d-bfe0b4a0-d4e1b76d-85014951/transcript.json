@@ -1,0 +1,70 @@
+{
+    "full_text": " cardiomegaly. prominent hila and pulmonary vasculature. slight increased haziness at the right lung base. this probably represents mild pulmonary congestion with developing infiltrate at the right lung base difficult to exlude.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.7,
+            "phrase": "hila"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.0,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 17.9,
+            "phrase": "slight increased haziness at the right lung base. this probably represents mild pulmonary congestion with developing"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.4,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.5,
+            "phrase": "at the"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 20.3,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 20.3,
+            "phrase": "difficult to exlude."
+        }
+    ]
+}

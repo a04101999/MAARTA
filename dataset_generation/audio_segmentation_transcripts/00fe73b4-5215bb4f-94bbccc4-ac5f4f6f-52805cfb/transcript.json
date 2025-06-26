@@ -1,0 +1,105 @@
+{
+    "full_text": " prominent heart. low lung volumes. left perihilar opacity. no large effusion. this could represent very early congestion or an early left suprahilar infiltrate.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.3,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 3.2,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.7,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.4,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.8,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 18.3,
+            "phrase": "no large"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.0,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.3,
+            "phrase": "very"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.6,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 24.5,
+            "end_time": 25.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.2,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.6,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 25.6,
+            "end_time": 26.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.4,
+            "phrase": "suprahilar"
+        },
+        {
+            "begin_time": 26.4,
+            "end_time": 27.3,
+            "phrase": "infiltrate."
+        }
+    ]
+}

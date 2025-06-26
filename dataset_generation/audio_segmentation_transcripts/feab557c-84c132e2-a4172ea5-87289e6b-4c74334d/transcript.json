@@ -1,0 +1,200 @@
+{
+    "full_text": " normal heart and mediastinum. small band of atelectasis or scarring in the left lung in the middle. there is a roughly one centimeter nodule in the right mid lung. there's also some streaky atelectasis or scarring at the right base.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.2,
+            "end_time": 3.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 3.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.6,
+            "phrase": "band"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.7,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 12.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.5,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.3,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.7,
+            "phrase": "middle."
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.5,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 22.3,
+            "phrase": "roughly"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.5,
+            "phrase": "one"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.9,
+            "phrase": "centimeter"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 22.9,
+            "phrase": "nodule"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 24.0,
+            "phrase": "mid lung."
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 27.0,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 27.0,
+            "end_time": 27.2,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 27.2,
+            "end_time": 27.3,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 27.3,
+            "end_time": 27.8,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 27.8,
+            "end_time": 27.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 28.9,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 29.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 29.0,
+            "end_time": 29.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 29.1,
+            "end_time": 29.6,
+            "phrase": "base."
+        }
+    ]
+}

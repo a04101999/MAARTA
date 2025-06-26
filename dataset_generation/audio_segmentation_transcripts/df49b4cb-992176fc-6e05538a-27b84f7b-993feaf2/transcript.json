@@ -1,0 +1,170 @@
+{
+    "full_text": " moderate cardiomegaly. aortic calcifications. patchy opacity, extensive patchy opacity throughout both lungs with basilar predominance and peripheral predominance. at least moderate left and small right pleural effusions. appearance is not specific. edema, infection and pulmonary fibrosis or some combination thereof is suspected.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.7,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 4.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.6,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 6.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.3,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 8.4,
+            "phrase": "extensive"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 13.5,
+            "phrase": "opacity throughout both lungs with basilar predominance and peripheral predominance."
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.6,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.8,
+            "phrase": "effusions."
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 21.3,
+            "phrase": "appearance"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.3,
+            "phrase": "specific."
+        },
+        {
+            "begin_time": 25.9,
+            "end_time": 26.7,
+            "phrase": "edema,"
+        },
+        {
+            "begin_time": 28.1,
+            "end_time": 29.2,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 29.2,
+            "end_time": 30.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 30.1,
+            "end_time": 30.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 30.4,
+            "end_time": 30.6,
+            "phrase": "fibrosis"
+        },
+        {
+            "begin_time": 30.6,
+            "end_time": 31.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 31.5,
+            "end_time": 31.7,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 31.7,
+            "end_time": 32.0,
+            "phrase": "combination"
+        },
+        {
+            "begin_time": 32.0,
+            "end_time": 32.8,
+            "phrase": "thereof"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 34.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 34.0,
+            "end_time": 35.4,
+            "phrase": "suspected."
+        }
+    ]
+}

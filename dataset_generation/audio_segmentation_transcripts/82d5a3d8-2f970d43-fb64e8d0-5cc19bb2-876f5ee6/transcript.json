@@ -1,0 +1,90 @@
+{
+    "full_text": " cardiomegaly. minimal patchy opacity at the right cardiophrenic angle suggesting early infiltrate versus atelectasis. lungs are otherwise clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.6,
+            "phrase": "minimal patchy"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "cardiophrenic"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 11.2,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.6,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.8,
+            "phrase": "versus"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.0,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.6,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.7,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.0,
+            "phrase": "otherwise"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.7,
+            "phrase": "clear."
+        }
+    ]
+}

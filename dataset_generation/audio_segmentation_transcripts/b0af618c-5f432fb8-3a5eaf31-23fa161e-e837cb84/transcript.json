@@ -1,0 +1,145 @@
+{
+    "full_text": " cardiomegaly. patchy opacity of the left costophrenic angle, which probably represents atelectasis. early infiltrate is also possible. minimal similar finding at the right cardiophrenic angle. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.5,
+            "end_time": 4.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.0,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.5,
+            "phrase": "angle,"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.6,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.5,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.3,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.0,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.5,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.8,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.3,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 13.9,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.2,
+            "phrase": "similar"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.6,
+            "phrase": "finding"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.8,
+            "phrase": "cardiophrenic"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "angle."
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.3,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.8,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 21.9,
+            "phrase": "degeneration."
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "full_text": " prominent heart. prominent pulmonary vasculature. increased density at the right infrahilar region, suspicious for pneumonia. right costophrenic angle is not completely excluded. there may be a small right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.5,
+            "end_time": 4.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.8,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 7.2,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.2,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.5,
+            "phrase": "region,"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.9,
+            "phrase": "suspicious"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.0,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.9,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.2,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.4,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.8,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.3,
+            "phrase": "excluded."
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.5,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.6,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 18.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.6,
+            "phrase": "effusion."
+        }
+    ]
+}

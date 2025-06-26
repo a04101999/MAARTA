@@ -1,0 +1,70 @@
+{
+    "full_text": " cardiomegaly. bibasilar opacity. right upper lobe opacity as well. prominent pulmonary vessels. this could represent edema but it is also suspicious for infection particularly in the right upper lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 3.2,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 8.1,
+            "phrase": "bibasilar"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 9.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.8,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.9,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.0,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 21.5,
+            "phrase": "this could represent edema but it is also suspicious for infection particularly in the right upper lung."
+        }
+    ]
+}

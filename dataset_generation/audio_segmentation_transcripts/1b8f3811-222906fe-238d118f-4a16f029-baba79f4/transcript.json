@@ -1,0 +1,55 @@
+{
+    "full_text": " cardiomegaly. the left lung is not completely included. right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.2,
+            "phrase": "the left"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.3,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.9,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.1,
+            "phrase": "right lung"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.5,
+            "phrase": "clear."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "full_text": " mild cardiomegaly. lordotic positioning accentuates the upper mediastinum as well. diffuse haziness of the lung. prominent pulmonary vasculature. no large effusion. suspect this represents mild pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 6.0,
+            "phrase": "lordotic positioning"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 8.2,
+            "phrase": "accentuates"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.7,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.0,
+            "phrase": "mediastinum"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.5,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "well."
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 14.0,
+            "phrase": "diffuse haziness of the lung. prominent pulmonary vasculature."
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.4,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.5,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 20.2,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 21.0,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.3,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 21.9,
+            "phrase": "edema."
+        }
+    ]
+}

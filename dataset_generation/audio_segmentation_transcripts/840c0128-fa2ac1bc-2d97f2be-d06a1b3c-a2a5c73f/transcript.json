@@ -1,0 +1,110 @@
+{
+    "full_text": " normal heart and mediastinum/ mild perihilar haziness bilaterally could represent pulmonary congestion. an early infiltrate on the left is difficult to exclude.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.6,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "mediastinum/"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.3,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 8.0,
+            "phrase": "bilaterally"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.6,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.9,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 12.2,
+            "phrase": "an"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.4,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.9,
+            "phrase": "infiltrate"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.8,
+            "phrase": "difficult"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.1,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.6,
+            "phrase": "exclude."
+        }
+    ]
+}

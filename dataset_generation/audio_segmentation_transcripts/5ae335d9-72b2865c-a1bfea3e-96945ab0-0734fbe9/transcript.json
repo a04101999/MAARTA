@@ -1,0 +1,310 @@
+{
+    "full_text": " sternotomy wires. the most superior of which appears to be broken. prominent heart. thoracic spinal degeneration. moderate right perihilar opacity, which appears diffuse. there is a similar finding on the left side to a much lesser degree. there appears to be small left effusion. small right effusion is also possible. no pneumothorax. findings are felt likely to represent edema but given the asymmetry infection's also a possibility.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 2.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 3.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.7,
+            "phrase": "most"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.9,
+            "phrase": "superior"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.2,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.7,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "broken."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.9,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.2,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 16.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.6,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.2,
+            "phrase": "opacity,"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 24.0,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.2,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.9,
+            "phrase": "diffuse."
+        },
+        {
+            "begin_time": 27.1,
+            "end_time": 27.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 27.6,
+            "end_time": 27.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 27.8,
+            "end_time": 28.0,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 28.0,
+            "end_time": 28.5,
+            "phrase": "similar"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 28.8,
+            "phrase": "finding"
+        },
+        {
+            "begin_time": 28.8,
+            "end_time": 28.9,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 28.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 28.9,
+            "end_time": 29.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 29.1,
+            "end_time": 29.4,
+            "phrase": "side"
+        },
+        {
+            "begin_time": 29.4,
+            "end_time": 29.6,
+            "phrase": "to a"
+        },
+        {
+            "begin_time": 29.6,
+            "end_time": 29.8,
+            "phrase": "much"
+        },
+        {
+            "begin_time": 29.8,
+            "end_time": 30.1,
+            "phrase": "lesser"
+        },
+        {
+            "begin_time": 30.1,
+            "end_time": 30.5,
+            "phrase": "degree."
+        },
+        {
+            "begin_time": 31.5,
+            "end_time": 32.0,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 32.0,
+            "end_time": 32.4,
+            "phrase": "appears"
+        },
+        {
+            "begin_time": 32.4,
+            "end_time": 32.5,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 32.5,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 32.5,
+            "end_time": 32.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 32.8,
+            "end_time": 33.4,
+            "phrase": "left effusion."
+        },
+        {
+            "begin_time": 34.4,
+            "end_time": 34.9,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 34.9,
+            "end_time": 35.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 35.0,
+            "end_time": 35.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 35.2,
+            "end_time": 35.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 35.5,
+            "end_time": 35.7,
+            "phrase": "also"
+        },
+        {
+            "begin_time": 35.7,
+            "end_time": 36.1,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 37.2,
+            "end_time": 37.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 37.6,
+            "end_time": 37.9,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 39.7,
+            "end_time": 40.4,
+            "phrase": "findings are"
+        },
+        {
+            "begin_time": 40.4,
+            "end_time": 40.7,
+            "phrase": "felt"
+        },
+        {
+            "begin_time": 40.7,
+            "end_time": 40.9,
+            "phrase": "likely"
+        },
+        {
+            "begin_time": 40.9,
+            "end_time": 42.4,
+            "phrase": "to represent edema"
+        },
+        {
+            "begin_time": 42.4,
+            "end_time": 42.6,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 42.6,
+            "end_time": 43.1,
+            "phrase": "given"
+        },
+        {
+            "begin_time": 43.1,
+            "end_time": 43.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 43.2,
+            "end_time": 44.2,
+            "phrase": "asymmetry"
+        },
+        {
+            "begin_time": 44.2,
+            "end_time": 45.5,
+            "phrase": "infection's"
+        },
+        {
+            "begin_time": 45.5,
+            "end_time": 45.8,
+            "phrase": "also a"
+        },
+        {
+            "begin_time": 45.8,
+            "end_time": 46.6,
+            "phrase": "possibility."
+        }
+    ]
+}

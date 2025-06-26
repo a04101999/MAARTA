@@ -1,0 +1,100 @@
+{
+    "full_text": " normal heart and mediastinum. low lung volumes. dense opacity at the right mid lower lung. probably infectious. left lung clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.2,
+            "end_time": 3.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.6,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.8,
+            "phrase": "infectious."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "lung clear."
+        }
+    ]
+}

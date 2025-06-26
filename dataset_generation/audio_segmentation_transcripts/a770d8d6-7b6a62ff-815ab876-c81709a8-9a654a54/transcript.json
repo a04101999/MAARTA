@@ -1,0 +1,90 @@
+{
+    "full_text": " prosthetic cardiac valve. left-sided cardiac pacer with leads in right ventricle and coronary sinus. sternotomy wires. no focal pulmomary opacity.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.1,
+            "phrase": "prosthetic"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 3.1,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.6,
+            "phrase": "valve."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.9,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.4,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.0,
+            "phrase": "pacer with leads in"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.4,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 13.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.0,
+            "phrase": "coronary"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.6,
+            "phrase": "sinus."
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 18.0,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 18.0,
+            "end_time": 18.2,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.6,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 21.6,
+            "end_time": 22.1,
+            "phrase": "pulmomary"
+        },
+        {
+            "begin_time": 22.1,
+            "end_time": 22.7,
+            "phrase": "opacity."
+        }
+    ]
+}

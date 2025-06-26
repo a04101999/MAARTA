@@ -1,0 +1,150 @@
+{
+    "full_text": " elevated right lung base. normal heart and mediastinum. there may be a tiny left effusion. nodular density projecting over the right lower lung as well. probably a nipple shadow but calcified granuloma is possible.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 3.0,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.1,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.8,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 8.9,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.9,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.5,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.9,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.5,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 14.5,
+            "end_time": 14.6,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 15.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 16.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "lung as well."
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.2,
+            "phrase": "probably a nipple"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.6,
+            "phrase": "shadow"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.0,
+            "phrase": "but"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.9,
+            "phrase": "calcified"
+        },
+        {
+            "begin_time": 21.9,
+            "end_time": 22.5,
+            "phrase": "granuloma"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.9,
+            "phrase": "is possible."
+        }
+    ]
+}

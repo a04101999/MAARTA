@@ -1,0 +1,50 @@
+{
+    "full_text": " enlarged heart. the lungs appear congested. no pleural effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.0,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 3.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.8,
+            "phrase": "appear"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.7,
+            "phrase": "congested."
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.1,
+            "phrase": "effusion."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "full_text": " cardiomegaly. normal mediastinum. left lung is clear. right lung is clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.7,
+            "phrase": "clear."
+        }
+    ]
+}

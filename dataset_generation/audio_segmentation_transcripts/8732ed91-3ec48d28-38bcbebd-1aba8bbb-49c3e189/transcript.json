@@ -1,0 +1,110 @@
+{
+    "full_text": " cardiomegaly. slightly elevated right lung base. there may be a trace right pleural effusion. the lungs appear mildly congested. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.7,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.2,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.3,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 5.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.2,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 8.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.6,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.8,
+            "phrase": "appear"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "mildly"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 10.1,
+            "phrase": "congested."
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.3,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 13.3,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

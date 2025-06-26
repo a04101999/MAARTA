@@ -1,0 +1,90 @@
+{
+    "full_text": " prominent heart. aortic calcifications. prominent pulmonary vessels. no focal consolidation, pleural effusion or pneumothorax. there may be mild congestion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.0,
+            "end_time": 6.9,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.3,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 8.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.2,
+            "phrase": "prominent pulmonary"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.7,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.4,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.8,
+            "phrase": "consolidation,"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.5,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.6,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 14.9,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.0,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.4,
+            "phrase": "congestion."
+        }
+    ]
+}

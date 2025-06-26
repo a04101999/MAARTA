@@ -1,0 +1,50 @@
+{
+    "full_text": " aortic calcifications. scoliosis. normal heart and mediastinum. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 1.8,
+            "end_time": 2.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 4.4,
+            "phrase": "scoliosis."
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.9,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.1,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.9,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.3,
+            "phrase": "lungs."
+        }
+    ]
+}

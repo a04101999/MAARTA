@@ -1,0 +1,55 @@
+{
+    "full_text": " cardiomegaly. bands of atelectasis in the bases bilaterally. no large effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 2.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.8,
+            "phrase": "bands"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.0,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 4.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.1,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.3,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 9.0,
+            "phrase": "no large"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.3,
+            "phrase": "effusion."
+        }
+    ]
+}

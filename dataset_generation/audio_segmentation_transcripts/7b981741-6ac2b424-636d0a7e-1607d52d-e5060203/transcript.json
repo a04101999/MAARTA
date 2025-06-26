@@ -1,0 +1,45 @@
+{
+    "full_text": " prominent heart. thoracic spinal degeneration. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.3,
+            "end_time": 2.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.2,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.6,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.0,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.2,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "clear."
+        }
+    ]
+}

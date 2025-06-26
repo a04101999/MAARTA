@@ -1,0 +1,195 @@
+{
+    "full_text": " enlarged heart. left-sided cardiac pacer defibrillator with leads projecting over the right atrium, ventricle and coronary sinus. prominent pulmonary hila which could represent edema or congestion or lymphadenopathy. prominent pulmonary vessels as well favoring congestion. trace right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.0,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.7,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.4,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.5,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.8,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.4,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.5,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.1,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.1,
+            "phrase": "atrium,"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.5,
+            "phrase": "ventricle"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.1,
+            "phrase": "coronary"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 12.0,
+            "phrase": "sinus."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.1,
+            "phrase": "hila"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.9,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.1,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 17.3,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.5,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 19.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 20.0,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.8,
+            "phrase": "lymphadenopathy."
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 25.0,
+            "phrase": "vessels"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.1,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.5,
+            "phrase": "well"
+        },
+        {
+            "begin_time": 26.9,
+            "end_time": 28.2,
+            "phrase": "favoring"
+        },
+        {
+            "begin_time": 28.3,
+            "end_time": 29.2,
+            "phrase": "congestion."
+        },
+        {
+            "begin_time": 30.7,
+            "end_time": 31.1,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 31.1,
+            "end_time": 31.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 31.2,
+            "end_time": 31.9,
+            "phrase": "effusion."
+        }
+    ]
+}

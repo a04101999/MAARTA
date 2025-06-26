@@ -1,0 +1,150 @@
+{
+    "full_text": " normal heart and mediastinum. haziness at the bases. there may be tiny bilateral effusions. mild congestion bording on edema is suspected. there is a suture anchor in the right shoulder.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "normal heart"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 5.3,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.3,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.4,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.7,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.2,
+            "phrase": "effusions."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.7,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 16.0,
+            "phrase": "bording"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.2,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.5,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.6,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.9,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.7,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.2,
+            "phrase": "suture"
+        },
+        {
+            "begin_time": 22.8,
+            "end_time": 23.4,
+            "phrase": "anchor"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.6,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 23.6,
+            "end_time": 23.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 24.0,
+            "end_time": 24.1,
+            "phrase": "shoulder."
+        }
+    ]
+}

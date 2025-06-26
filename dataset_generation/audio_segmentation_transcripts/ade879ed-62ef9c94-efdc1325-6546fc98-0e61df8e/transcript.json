@@ -1,0 +1,190 @@
+{
+    "full_text": " dense opacity at the bases. right greater than left. suspected moderate right and small left pleural effusion with associated consolidation. prominent heart which is obscured on the right side by the opacity. aortic arch calcifications. earrings noted.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.8,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "greater"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.4,
+            "phrase": "than"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.5,
+            "phrase": "left."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 12.1,
+            "phrase": "suspected"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.5,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 16.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.9,
+            "phrase": "associated"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 19.3,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.7,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.9,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.1,
+            "end_time": 24.2,
+            "phrase": "obscured"
+        },
+        {
+            "begin_time": 24.2,
+            "end_time": 24.3,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 24.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 24.4,
+            "end_time": 24.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.9,
+            "phrase": "side"
+        },
+        {
+            "begin_time": 24.9,
+            "end_time": 25.1,
+            "phrase": "by"
+        },
+        {
+            "begin_time": 25.1,
+            "end_time": 25.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 25.4,
+            "end_time": 25.8,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 25.8,
+            "end_time": 27.7,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 27.7,
+            "end_time": 27.9,
+            "phrase": "arch"
+        },
+        {
+            "begin_time": 27.9,
+            "end_time": 28.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 29.8,
+            "end_time": 30.2,
+            "phrase": "earrings"
+        },
+        {
+            "begin_time": 30.2,
+            "end_time": 30.9,
+            "phrase": "noted."
+        }
+    ]
+}

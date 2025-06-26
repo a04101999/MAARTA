@@ -1,0 +1,100 @@
+{
+    "full_text": " normal heart and mediastinum. left lung is clear. there is a dense opacity at the right base, probably infectious",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.8,
+            "end_time": 3.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.2,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 6.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.8,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 7.9,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.6,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.8,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.1,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.6,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.1,
+            "phrase": "infectious"
+        }
+    ]
+}

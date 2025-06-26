@@ -1,0 +1,90 @@
+{
+    "full_text": " normal heart. aortic calcifications. both costophrenic angles are obscured, which could represent the presence of tiny effusions.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.0,
+            "end_time": 6.5,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.9,
+            "phrase": "both"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.8,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.1,
+            "phrase": "angles"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.3,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "obscured,"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.3,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.6,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.3,
+            "phrase": "presence"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.4,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.8,
+            "phrase": "tiny"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.1,
+            "phrase": "effusions."
+        }
+    ]
+}

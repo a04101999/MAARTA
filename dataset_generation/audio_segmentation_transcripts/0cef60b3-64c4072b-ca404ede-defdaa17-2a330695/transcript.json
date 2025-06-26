@@ -1,0 +1,65 @@
+{
+    "full_text": " normal heart and mediastinum. slight patchy opacity in the right perihilar region could represent early infiltrate or atelectasis. left costophrenic angle is not entirely included.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.0,
+            "end_time": 2.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.4,
+            "phrase": "slight patchy"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.0,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 11.1,
+            "phrase": "perihilar region"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.5,
+            "phrase": "could represent"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 18.0,
+            "phrase": "early infiltrate or atelectasis. left costophrenic angle is not entirely included."
+        }
+    ]
+}

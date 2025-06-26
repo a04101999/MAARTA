@@ -1,0 +1,110 @@
+{
+    "full_text": " normal heart and mediastinum. patchy opacity at the right base. atelectasis versus pneumonia. left lung is clear. no pleural effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 3.0,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.7,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 6.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.6,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.9,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.7,
+            "phrase": "versus"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 8.8,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.6,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 12.5,
+            "phrase": "no pneumothorax."
+        }
+    ]
+}

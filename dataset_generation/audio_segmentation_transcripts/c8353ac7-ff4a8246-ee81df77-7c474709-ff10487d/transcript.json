@@ -1,0 +1,120 @@
+{
+    "full_text": " right sided cardiac pacer with leads projecting over the right atrium and ventricle. cardiac clips. sternotomy wires. prominent heart. aortic calcifications. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 6.2,
+            "end_time": 7.2,
+            "phrase": "right sided"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.2,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.6,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.0,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.2,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.5,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.8,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.3,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 18.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 20.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 25.5,
+            "end_time": 26.0,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 26.0,
+            "end_time": 26.3,
+            "phrase": "clear."
+        }
+    ]
+}

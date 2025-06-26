@@ -1,0 +1,85 @@
+{
+    "full_text": " normal heart and mediastinum. prominent interstitial markings nonspecific. no pleural effusion or pneumothorax. no focal consolidation.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 2.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 2.8,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.3,
+            "phrase": "interstitial"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.8,
+            "phrase": "markings"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 9.2,
+            "phrase": "nonspecific."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.0,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.1,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.4,
+            "phrase": "pneumothorax."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 12.0,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "consolidation."
+        }
+    ]
+}

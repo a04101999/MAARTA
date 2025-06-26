@@ -1,0 +1,115 @@
+{
+    "full_text": " prominent heart. aortic calcifications. perihilar patchy opacity. patchy opacity at the bases. edema and atelectasis are the primary considerations. elevated right lung base.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.6,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.2,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 7.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.9,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.6,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.8,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 12.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.0,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.6,
+            "phrase": "primary"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.3,
+            "phrase": "considerations."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.8,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.2,
+            "end_time": 15.5,
+            "phrase": "base."
+        }
+    ]
+}

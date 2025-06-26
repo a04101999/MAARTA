@@ -1,0 +1,100 @@
+{
+    "full_text": " severe cardiomegaly. patchy opacity in the right infrahilar region. could represent edema or atelectasis or pneumonia. left lung base is obscured by the heart",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 3.2,
+            "phrase": "severe cardiomegaly."
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 5.8,
+            "phrase": "patchy opacity in"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.6,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 6.9,
+            "phrase": "region."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 8.1,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 8.7,
+            "end_time": 9.5,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 10.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.2,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 15.0,
+            "phrase": "left lung"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.3,
+            "phrase": "base is"
+        },
+        {
+            "begin_time": 15.3,
+            "end_time": 15.6,
+            "phrase": "obscured"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.8,
+            "phrase": "by"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 15.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.3,
+            "phrase": "heart"
+        }
+    ]
+}

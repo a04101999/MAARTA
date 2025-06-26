@@ -1,0 +1,60 @@
+{
+    "full_text": " patchy opacity at the left costophrenic angle for which atelectasis is the primary consideration. thoracic spinal degeneration. aortic calcifications.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.5,
+            "end_time": 5.0,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.5,
+            "phrase": "opacity at the"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.8,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.8,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 10.0,
+            "phrase": "for which atelectasis is the primary consideration."
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.1,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.5,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.3,
+            "phrase": "calcifications."
+        }
+    ]
+}

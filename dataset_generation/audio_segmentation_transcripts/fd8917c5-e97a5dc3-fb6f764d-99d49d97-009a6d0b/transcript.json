@@ -1,0 +1,55 @@
+{
+    "full_text": " slightly low lung volumes accentuate the heart. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.8,
+            "end_time": 3.4,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "low"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.1,
+            "phrase": "volumes"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.8,
+            "phrase": "accentuate"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 4.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.3,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.7,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.1,
+            "phrase": "clear."
+        }
+    ]
+}

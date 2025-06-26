@@ -1,0 +1,70 @@
+{
+    "full_text": " slightly elevated right lung base. normal heart and mediastinum. minimal thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.3,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.2,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.4,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.7,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 8.2,
+            "phrase": "minimal"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.5,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.0,
+            "phrase": "degeneration."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "full_text": " cardiomegaly. trace left effusion. small right effusion with some atelectasis. thoracic spinal degeneration.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.9,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.4,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 7.9,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 9.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.4,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.8,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.6,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.9,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 15.9,
+            "end_time": 16.0,
+            "phrase": "degeneration."
+        }
+    ]
+}

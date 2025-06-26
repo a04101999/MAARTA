@@ -1,0 +1,115 @@
+{
+    "full_text": " elevated right lung base. prominent heart. aortic calcifications. slight haziness at the bases. probably due to poor penetration. no large effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.4,
+            "end_time": 5.1,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 9.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 10.5,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.7,
+            "phrase": "slight"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.0,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.9,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 17.0,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.1,
+            "phrase": "due"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 17.2,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.4,
+            "phrase": "poor"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.1,
+            "phrase": "penetration."
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.3,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.6,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

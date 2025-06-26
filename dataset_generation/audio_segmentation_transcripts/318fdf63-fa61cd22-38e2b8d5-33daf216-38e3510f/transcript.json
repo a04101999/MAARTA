@@ -1,0 +1,85 @@
+{
+    "full_text": " prominent heart. fairly dense opacity at left mid/lower lung. probably pneumonia. right lung appears clear. no large effusion. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.8,
+            "end_time": 3.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.7,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 6.7,
+            "phrase": "fairly dense opacity"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 9.1,
+            "phrase": "mid/lower"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.3,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.5,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.6,
+            "phrase": "pneumonia."
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.9,
+            "phrase": "right lung appears"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.1,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.5,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 21.5,
+            "end_time": 22.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.9,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

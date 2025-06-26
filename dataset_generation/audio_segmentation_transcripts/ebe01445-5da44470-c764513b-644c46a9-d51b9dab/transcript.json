@@ -1,0 +1,125 @@
+{
+    "full_text": " prominent heart. fairly extensive parenchymal opacity in the hilar and suprahilar regions bilaterally, which probably represents infection. unusual edema is possible. small bilateral effusions.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.9,
+            "end_time": 4.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.7,
+            "phrase": "fairly"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.2,
+            "phrase": "extensive"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "parenchymal"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.2,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.5,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.5,
+            "phrase": "hilar"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.7,
+            "phrase": "suprahilar"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 9.8,
+            "phrase": "regions"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.8,
+            "phrase": "bilaterally,"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.4,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.2,
+            "phrase": "represents"
+        },
+        {
+            "begin_time": 13.2,
+            "end_time": 13.8,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 15.5,
+            "phrase": "unusual"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 17.2,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 18.2,
+            "phrase": "possible."
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.5,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.6,
+            "phrase": "effusions."
+        }
+    ]
+}

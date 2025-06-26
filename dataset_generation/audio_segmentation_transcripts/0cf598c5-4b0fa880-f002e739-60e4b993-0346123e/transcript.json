@@ -1,0 +1,100 @@
+{
+    "full_text": " moderate cardiomegaly. there is at least moderate left effusion with atelectasis or consolidation. prominent pulmonary vessels. post-surgical changes in the upper mediastinum. sternotomy wires. left-sided cardiac pacer with leads projecting over the right atrium and ventricle.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 3.0,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.7,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 4.8,
+            "phrase": "least"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.6,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 8.5,
+            "phrase": "left effusion with atelectasis or consolidation."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.4,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.3,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.9,
+            "phrase": "post-surgical"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.4,
+            "phrase": "changes"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.5,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 17.6,
+            "end_time": 17.8,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 18.2,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 20.0,
+            "phrase": "sternotomy wires."
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 25.0,
+            "phrase": "left-sided cardiac pacer with leads projecting over the right atrium and ventricle."
+        }
+    ]
+}

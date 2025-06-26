@@ -1,0 +1,165 @@
+{
+    "full_text": " left-sided cardiac pacer with leads in the right atrium and ventricle. moderate cardiomegaly. small to moderate left effusion with atelectasis. small right effusion. prominent pulmonary vessels. this could represent early pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.2,
+            "end_time": 2.7,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.6,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.0,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.5,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.6,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "to"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "moderate"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.8,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 13.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.0,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 15.7,
+            "end_time": 16.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 16.3,
+            "end_time": 16.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 17.1,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.6,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.8,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.1,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 21.3,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.2,
+            "phrase": "edema."
+        }
+    ]
+}

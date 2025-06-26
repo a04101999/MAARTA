@@ -1,0 +1,45 @@
+{
+    "full_text": " prominent heart. prominent perihilar opacity. mediastinum is normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.1,
+            "end_time": 1.7000000000000002,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 1.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.2,
+            "phrase": "perihilar"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 8.1,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 14.2,
+            "phrase": "mediastinum"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.3,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.0,
+            "phrase": "normal."
+        }
+    ]
+}

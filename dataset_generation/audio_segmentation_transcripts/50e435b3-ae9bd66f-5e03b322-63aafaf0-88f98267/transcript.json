@@ -1,0 +1,120 @@
+{
+    "full_text": " cardiomegaly. streaky left lower lung opacities and patchy right infrahilar opacity. infection, edema and atelectasis or some combination thereof are possibilities. sternotomy wires are present.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.6,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.5,
+            "phrase": "streaky"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.4,
+            "phrase": "opacities"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 8.9,
+            "phrase": "infrahilar"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.2,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.6,
+            "phrase": "infection,"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.4,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.7,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 17.4,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.1,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.4,
+            "phrase": "combination"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 19.1,
+            "phrase": "thereof"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.9,
+            "phrase": "possibilities."
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.1,
+            "phrase": "sternotomy wires are"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 22.1,
+            "phrase": "present."
+        }
+    ]
+}

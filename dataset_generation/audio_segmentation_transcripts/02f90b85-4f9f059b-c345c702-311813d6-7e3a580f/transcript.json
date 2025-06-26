@@ -1,0 +1,65 @@
+{
+    "full_text": " normal heart and mediastinum. patient's slightly rotated. there is a dense opacity in left lower lobe suspicious for pneumonia. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 4.4,
+            "phrase": "and mediastinum."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.1,
+            "phrase": "patient's"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.7,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.4,
+            "phrase": "rotated."
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.9,
+            "phrase": "dense opacity in"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 14.0,
+            "phrase": "left lower lobe suspicious for pneumonia."
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 16.0,
+            "phrase": "no pleural effusion or pneumothorax."
+        }
+    ]
+}

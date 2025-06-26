@@ -1,0 +1,120 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. patchy opacity in the right lung base, could represent atelectasis, infection or edema. there may be a small right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.5,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 4.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.5,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 14.2,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.6,
+            "phrase": "base,"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.9,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 18.1,
+            "end_time": 18.8,
+            "phrase": "atelectasis,"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 20.2,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.4,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.7,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 23.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 23.4,
+            "end_time": 23.5,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.5,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 23.5,
+            "end_time": 23.7,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 23.7,
+            "end_time": 23.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 24.1,
+            "end_time": 24.4,
+            "phrase": "effusion."
+        }
+    ]
+}

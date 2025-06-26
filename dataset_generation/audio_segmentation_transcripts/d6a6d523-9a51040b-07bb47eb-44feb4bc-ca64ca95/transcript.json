@@ -1,0 +1,95 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. patchy atelectasis at the left costophrenic angle. small high density nodule in the right mid lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.0,
+            "end_time": 2.0,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.3,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.7,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.3,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.9,
+            "phrase": "costophrenic angle."
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 11.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.7,
+            "phrase": "high"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 12.9,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.3,
+            "phrase": "nodule"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.8,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 13.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.3,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 14.4,
+            "phrase": "lung."
+        }
+    ]
+}

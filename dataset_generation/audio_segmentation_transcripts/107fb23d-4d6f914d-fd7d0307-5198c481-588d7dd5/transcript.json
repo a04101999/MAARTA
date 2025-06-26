@@ -1,0 +1,140 @@
+{
+    "full_text": " right costrophrenic angle is not included. elevated left lung base. left-sided cardiac defibrillator with leads projecting over the right atrium and ventricle. prominent heart. prominent aorta. may be aneurysmal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.6,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.4,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.2,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.7,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 6.8,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 10.1,
+            "phrase": "left-sided"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 11.0,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 11.8,
+            "phrase": "defibrillator"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.8,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 12.9,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.3,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 13.3,
+            "end_time": 13.8,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 13.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 13.9,
+            "end_time": 14.5,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 16.1,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.4,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.9,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.2,
+            "phrase": "aorta."
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 21.4,
+            "phrase": "may be aneurysmal."
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "full_text": " normal heart. aortic calcifications. left lung is clear. there is a nodular opacity in the right lower lung. small right effusion. band of atelectasis, scarring in the right mid lung.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.6,
+            "end_time": 4.2,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 5.2,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.5,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.9,
+            "phrase": "left lung"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.0,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.4,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.5,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 12.3,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 13.0,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 13.0,
+            "end_time": 13.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.4,
+            "end_time": 14.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 14.2,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 14.2,
+            "end_time": 14.4,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 16.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 16.2,
+            "end_time": 16.4,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 16.4,
+            "end_time": 16.6,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 19.4,
+            "phrase": "band of"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.8,
+            "phrase": "atelectasis,"
+        },
+        {
+            "begin_time": 19.9,
+            "end_time": 20.3,
+            "phrase": "scarring"
+        },
+        {
+            "begin_time": 20.3,
+            "end_time": 20.4,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.7,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 20.7,
+            "end_time": 20.9,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.0,
+            "phrase": "lung."
+        }
+    ]
+}

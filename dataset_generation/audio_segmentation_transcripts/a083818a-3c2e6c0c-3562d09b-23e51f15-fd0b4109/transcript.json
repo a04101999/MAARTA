@@ -1,0 +1,95 @@
+{
+    "full_text": " normal heart and mediastinum. the right heart border is obscured by patchy opacity compatible with right middle lobe pneumonia.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.9,
+            "end_time": 2.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.8,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 3.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.0,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 4.0,
+            "end_time": 4.1,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 5.1,
+            "phrase": "obscured by"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 6.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 7.2,
+            "phrase": "compatible"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.3,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "middle"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.1,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.2,
+            "phrase": "pneumonia."
+        }
+    ]
+}

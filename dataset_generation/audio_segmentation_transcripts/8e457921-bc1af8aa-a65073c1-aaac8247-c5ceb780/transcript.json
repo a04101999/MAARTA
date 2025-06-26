@@ -1,0 +1,140 @@
+{
+    "full_text": " sternotomy wires. cardiac valve replacement. left sided pacer with leads projecting over the right atrium and coronary sinus. prominent heart. the lungs are clear. bones and soft tissues normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.3,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.8,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.4,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 4.8,
+            "phrase": "valve"
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.6,
+            "phrase": "replacement."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 5.9,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.1,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.9,
+            "phrase": "pacer"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.5,
+            "phrase": "leads"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 8.0,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 10.1,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.2,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 10.7,
+            "phrase": "coronary"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.3,
+            "phrase": "sinus."
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 15.0,
+            "phrase": "the lungs"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.1,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 17.7,
+            "end_time": 18.3,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.7,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.2,
+            "phrase": "tissues normal."
+        }
+    ]
+}

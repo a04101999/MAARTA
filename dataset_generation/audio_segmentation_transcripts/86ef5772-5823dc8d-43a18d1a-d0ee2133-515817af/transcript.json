@@ -1,0 +1,160 @@
+{
+    "full_text": " elevated right lung base. right sided cardiac pacer with leads projecting over the right atrium and ventricle. cardiomegaly, which obscures the left lung base. small left effusion is difficult to exclude. aortic calcifications. no focal consolidation. no pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.3,
+            "phrase": "elevated"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.8,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 3.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 4.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.4,
+            "phrase": "sided"
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.0,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.8,
+            "phrase": "pacer with leads"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 7.0,
+            "phrase": "atrium"
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.7,
+            "phrase": "ventricle."
+        },
+        {
+            "begin_time": 9.0,
+            "end_time": 9.8,
+            "phrase": "cardiomegaly,"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 9.9,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "obscures the"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.7,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.0,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 11.0,
+            "end_time": 12.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.1,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.9,
+            "phrase": "effusion is difficult to"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.6,
+            "phrase": "exclude."
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 15.1,
+            "phrase": "aortic calcifications."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 16.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 16.9,
+            "end_time": 17.2,
+            "phrase": "focal"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.6,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.2,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.2,
+            "end_time": 20.5,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

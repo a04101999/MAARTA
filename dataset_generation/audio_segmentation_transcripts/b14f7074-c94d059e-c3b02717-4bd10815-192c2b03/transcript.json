@@ -1,0 +1,80 @@
+{
+    "full_text": " right base is not completely included. no large effusion. the heart and lungs are normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.3,
+            "phrase": "base"
+        },
+        {
+            "begin_time": 2.3,
+            "end_time": 2.5,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.6,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 6.0,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.2,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 7.3,
+            "end_time": 7.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.5,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.3,
+            "phrase": "normal."
+        }
+    ]
+}

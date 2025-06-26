@@ -1,0 +1,105 @@
+{
+    "full_text": " lung bases not completely included. low lung volumes limit the examination. enlarged heart with aortic calcifications. generalized haziness with basilar predominance probably representing edema",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 2.1,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.5,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 2.7,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 2.7,
+            "end_time": 3.1,
+            "phrase": "completely"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.8,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.3,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.7,
+            "phrase": "volumes"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.9,
+            "phrase": "limit the examination."
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.3,
+            "phrase": "enlarged"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.6,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.6,
+            "end_time": 8.0,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.2,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 9.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 10.2,
+            "phrase": "generalized"
+        },
+        {
+            "begin_time": 10.2,
+            "end_time": 11.1,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.8,
+            "phrase": "basilar predominance"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.9,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.5,
+            "phrase": "representing"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 14.6,
+            "phrase": "edema"
+        }
+    ]
+}

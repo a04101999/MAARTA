@@ -1,0 +1,35 @@
+{
+    "full_text": " normal heart and mediastinum. normal lungs.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.7000000000000002,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.1,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.8,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 2.8,
+            "end_time": 2.9,
+            "phrase": "mediastinum."
+        },
+        {
+            "begin_time": 2.9,
+            "end_time": 4.7,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.1,
+            "phrase": "lungs."
+        }
+    ]
+}

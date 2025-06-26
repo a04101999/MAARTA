@@ -1,0 +1,100 @@
+{
+    "full_text": " prominent heart. low lung volumes. patchy right basilar opacity. this could be normal or could represent infection or atelectasis. no effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.6,
+            "end_time": 2.2,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.2,
+            "end_time": 2.5,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.7,
+            "phrase": "low lung"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 4.2,
+            "phrase": "volumes."
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.7,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 6.8,
+            "phrase": "basilar"
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.0,
+            "phrase": "opacity."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.4,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.5,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 10.5,
+            "end_time": 10.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 11.2,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.7,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.9,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 12.9,
+            "end_time": 13.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.6,
+            "end_time": 13.9,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.4,
+            "phrase": "no effusion."
+        }
+    ]
+}

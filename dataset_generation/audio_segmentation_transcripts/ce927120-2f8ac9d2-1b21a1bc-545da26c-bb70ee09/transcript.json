@@ -1,0 +1,95 @@
+{
+    "full_text": " small right effusion with atelectasis. prominent heart. some densities over the left upper hemithorax are of uncertain significance.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.1,
+            "end_time": 2.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 2.4,
+            "end_time": 2.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.1,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 4.2,
+            "phrase": "atelectasis."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.7,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.9,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 14.1,
+            "end_time": 14.4,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 14.4,
+            "end_time": 14.9,
+            "phrase": "densities"
+        },
+        {
+            "begin_time": 14.9,
+            "end_time": 15.0,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 15.0,
+            "end_time": 15.1,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 16.2,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 18.7,
+            "phrase": "hemithorax"
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.0,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 19.0,
+            "end_time": 19.2,
+            "phrase": "of"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.6,
+            "phrase": "uncertain"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 20.7,
+            "phrase": "significance."
+        }
+    ]
+}

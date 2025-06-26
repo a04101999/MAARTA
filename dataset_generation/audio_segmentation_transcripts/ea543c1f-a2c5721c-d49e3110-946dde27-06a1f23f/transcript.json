@@ -1,0 +1,115 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. haziness at the bases bilaterally. suspect small left effusion. kerley b lines on the right. prominent pulmonary vasculature. suspect pulmonary edema.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 1.9,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 1.9,
+            "end_time": 3.5,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 6.5,
+            "end_time": 7.1,
+            "phrase": "haziness"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.4,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.5,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 7.5,
+            "end_time": 7.9,
+            "phrase": "bases"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "bilaterally."
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 9.5,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.8,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.3,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 11.7,
+            "phrase": "kerley"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.8,
+            "phrase": "b"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.1,
+            "phrase": "lines"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.2,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 14.3,
+            "phrase": "prominent pulmonary vasculature."
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 16.1,
+            "phrase": "suspect"
+        },
+        {
+            "begin_time": 19.1,
+            "end_time": 19.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 19.6,
+            "end_time": 19.8,
+            "phrase": "edema."
+        }
+    ]
+}

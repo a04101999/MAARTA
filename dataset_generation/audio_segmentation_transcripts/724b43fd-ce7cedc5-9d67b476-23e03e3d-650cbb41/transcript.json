@@ -1,0 +1,75 @@
+{
+    "full_text": " there is dense opacity obscuring the right heart border suggesting right middle lobe pneumonia.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.0,
+            "end_time": 3.4,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 3.7,
+            "end_time": 3.9,
+            "phrase": "dense"
+        },
+        {
+            "begin_time": 3.9,
+            "end_time": 4.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.8,
+            "phrase": "obscuring"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 5.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.9,
+            "end_time": 6.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.3,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.4,
+            "phrase": "border"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.9,
+            "phrase": "suggesting"
+        },
+        {
+            "begin_time": 7.9,
+            "end_time": 8.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 8.1,
+            "end_time": 8.3,
+            "phrase": "middle"
+        },
+        {
+            "begin_time": 8.3,
+            "end_time": 8.5,
+            "phrase": "lobe"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.7,
+            "phrase": "pneumonia."
+        }
+    ]
+}

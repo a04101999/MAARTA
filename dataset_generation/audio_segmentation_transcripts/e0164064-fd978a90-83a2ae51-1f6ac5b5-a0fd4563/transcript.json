@@ -1,0 +1,80 @@
+{
+    "full_text": " cardiomegaly. left basilar effusion with atelectasis or consolidation. there's probably a small right effusion as well.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.2,
+            "end_time": 2.1,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.6,
+            "phrase": "left basilar"
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.7,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 6.7,
+            "end_time": 7.2,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 8.6,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 9.4,
+            "phrase": "consolidation."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 10.9,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.4,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.9,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.1,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.4,
+            "phrase": "as"
+        },
+        {
+            "begin_time": 12.4,
+            "end_time": 12.6,
+            "phrase": "well."
+        }
+    ]
+}

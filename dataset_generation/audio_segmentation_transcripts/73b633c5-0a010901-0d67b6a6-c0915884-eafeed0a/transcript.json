@@ -1,0 +1,200 @@
+{
+    "full_text": " normal heart. aortic calcifications. nodular density projecting over the right lower lung. could represent nipple shadow or pulmonary nodule. there is a vague rounded opacity over the left lower lung measuring probably about two centimeters. 4 centimeters. for which infection and neoplasm should be considered.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.7,
+            "end_time": 4.3,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 4.3,
+            "end_time": 4.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.8,
+            "end_time": 5.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.4,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 7.7,
+            "end_time": 8.4,
+            "phrase": "nodular"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 9.1,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.4,
+            "phrase": "projecting"
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.5,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.8,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.1,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 10.1,
+            "end_time": 10.3,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 15.0,
+            "phrase": "could represent nipple shadow or pulmonary nodule."
+        },
+        {
+            "begin_time": 18.2,
+            "end_time": 18.6,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.8,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 20.1,
+            "phrase": "a"
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.4,
+            "phrase": "vague"
+        },
+        {
+            "begin_time": 20.4,
+            "end_time": 20.8,
+            "phrase": "rounded"
+        },
+        {
+            "begin_time": 20.8,
+            "end_time": 21.4,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 21.4,
+            "end_time": 22.0,
+            "phrase": "over"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.5,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.7,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 22.7,
+            "end_time": 23.0,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 23.0,
+            "end_time": 23.8,
+            "phrase": "measuring"
+        },
+        {
+            "begin_time": 23.8,
+            "end_time": 24.8,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 24.8,
+            "end_time": 25.0,
+            "phrase": "about"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.2,
+            "phrase": "two"
+        },
+        {
+            "begin_time": 25.2,
+            "end_time": 25.4,
+            "phrase": "centimeters."
+        },
+        {
+            "begin_time": 28.1,
+            "end_time": 28.5,
+            "phrase": "4"
+        },
+        {
+            "begin_time": 28.5,
+            "end_time": 29.0,
+            "phrase": "centimeters."
+        },
+        {
+            "begin_time": 34.4,
+            "end_time": 34.8,
+            "phrase": "for"
+        },
+        {
+            "begin_time": 34.8,
+            "end_time": 35.1,
+            "phrase": "which"
+        },
+        {
+            "begin_time": 35.1,
+            "end_time": 36.2,
+            "phrase": "infection"
+        },
+        {
+            "begin_time": 37.8,
+            "end_time": 38.9,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 38.9,
+            "end_time": 39.6,
+            "phrase": "neoplasm"
+        },
+        {
+            "begin_time": 39.6,
+            "end_time": 39.8,
+            "phrase": "should"
+        },
+        {
+            "begin_time": 39.8,
+            "end_time": 39.9,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 39.9,
+            "end_time": 40.3,
+            "phrase": "considered."
+        }
+    ]
+}

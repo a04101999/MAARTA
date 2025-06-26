@@ -1,0 +1,60 @@
+{
+    "full_text": " cardiomegaly. left lung is clear. large right effusion with atelectasis or consolidation.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.5,
+            "end_time": 2.4,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.7,
+            "end_time": 5.2,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.3,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 5.4,
+            "end_time": 5.9,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 6.9,
+            "end_time": 7.4,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 7.6,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 7.6,
+            "end_time": 7.8,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 8.2,
+            "end_time": 8.6,
+            "phrase": "atelectasis or"
+        },
+        {
+            "begin_time": 8.6,
+            "end_time": 10.0,
+            "phrase": "consolidation."
+        }
+    ]
+}

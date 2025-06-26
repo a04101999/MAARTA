@@ -1,0 +1,110 @@
+{
+    "full_text": " normal heart. aortic calcifications. band of density in the right upper lung is probably atelectasis or scarring. no pleural effusion or pneumothorax.",
+    "time_stamped_text": [
+        {
+            "begin_time": 5.9,
+            "end_time": 6.4,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 6.8,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 6.8,
+            "end_time": 7.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 7.8,
+            "end_time": 8.2,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.7,
+            "phrase": "band of"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 11.7,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.7,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 11.8,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 12.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.2,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 12.5,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 12.5,
+            "end_time": 12.7,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 12.7,
+            "end_time": 13.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 13.1,
+            "end_time": 13.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 13.5,
+            "end_time": 13.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 13.8,
+            "end_time": 14.0,
+            "phrase": "scarring."
+        },
+        {
+            "begin_time": 20.6,
+            "end_time": 20.9,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.2,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 21.2,
+            "end_time": 21.3,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 21.3,
+            "end_time": 21.7,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.0,
+            "phrase": "pneumothorax."
+        }
+    ]
+}

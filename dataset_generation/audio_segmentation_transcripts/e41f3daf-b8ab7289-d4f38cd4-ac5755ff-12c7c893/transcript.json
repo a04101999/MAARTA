@@ -1,0 +1,145 @@
+{
+    "full_text": " sternotomy wires. prominent heart. prominent pulmonary vessels. possible trace effusions suspected. early pulmonary edema. there may be some old rib fractures on the right. bilateral ac joint osteoarthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 0.9,
+            "end_time": 1.7000000000000002,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 1.7000000000000002,
+            "end_time": 2.1,
+            "phrase": "wires."
+        },
+        {
+            "begin_time": 2.1,
+            "end_time": 2.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 2.5,
+            "end_time": 3.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 3.1,
+            "end_time": 3.5,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 3.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.4,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.8,
+            "phrase": "possible"
+        },
+        {
+            "begin_time": 9.8,
+            "end_time": 10.0,
+            "phrase": "trace"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.8,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 10.8,
+            "end_time": 12.0,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "early"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.8,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.2,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.5,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.6,
+            "phrase": "may"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 15.6,
+            "phrase": "be"
+        },
+        {
+            "begin_time": 15.6,
+            "end_time": 16.1,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 17.3,
+            "end_time": 17.8,
+            "phrase": "old"
+        },
+        {
+            "begin_time": 17.8,
+            "end_time": 17.9,
+            "phrase": "rib"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.3,
+            "phrase": "fractures"
+        },
+        {
+            "begin_time": 18.3,
+            "end_time": 18.5,
+            "phrase": "on"
+        },
+        {
+            "begin_time": 18.5,
+            "end_time": 18.6,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 18.6,
+            "end_time": 18.8,
+            "phrase": "right."
+        },
+        {
+            "begin_time": 21.0,
+            "end_time": 21.7,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.0,
+            "phrase": "ac"
+        },
+        {
+            "begin_time": 22.0,
+            "end_time": 22.3,
+            "phrase": "joint"
+        },
+        {
+            "begin_time": 22.3,
+            "end_time": 22.6,
+            "phrase": "osteoarthritis."
+        }
+    ]
+}

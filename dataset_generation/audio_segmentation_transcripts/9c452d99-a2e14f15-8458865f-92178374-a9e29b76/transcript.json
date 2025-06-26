@@ -1,0 +1,70 @@
+{
+    "full_text": " left-sided cardiac pacer with leads projecting over the right atrium and ventricle. sternotomy wires and cardiac clips. prominent heart. aortic calcifications. patchy bilateral lower lobe opacity, probably atelectasis. prominent pulmonary vessels.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 6.0,
+            "phrase": "left-sided cardiac pacer with leads projecting over the right atrium and ventricle."
+        },
+        {
+            "begin_time": 8.0,
+            "end_time": 8.5,
+            "phrase": "sternotomy"
+        },
+        {
+            "begin_time": 8.5,
+            "end_time": 8.8,
+            "phrase": "wires"
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.1,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 9.1,
+            "end_time": 9.5,
+            "phrase": "cardiac"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 10.2,
+            "phrase": "clips."
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 10.9,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 11.4,
+            "end_time": 11.6,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.9,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 14.0,
+            "end_time": 16.6,
+            "phrase": "patchy bilateral"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 18.9,
+            "phrase": "lower lobe opacity,"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 22.0,
+            "phrase": "probably atelectasis."
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 27.5,
+            "phrase": "prominent pulmonary vessels."
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "full_text": " triangular opacity in the right mid lung. this could represent infection. the left lateral lung and costrophrenic angle are not entirely included. visualized left lung is clear. no right pleural effusion. normal cardiomediastinal silhouette. bones and soft tissues appear normal.",
+    "time_stamped_text": [
+        {
+            "begin_time": 4.0,
+            "end_time": 4.5,
+            "phrase": "triangular"
+        },
+        {
+            "begin_time": 4.5,
+            "end_time": 4.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 4.9,
+            "end_time": 5.1,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 5.1,
+            "end_time": 5.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 5.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 5.7,
+            "phrase": "mid"
+        },
+        {
+            "begin_time": 5.7,
+            "end_time": 7.0,
+            "phrase": "lung."
+        },
+        {
+            "begin_time": 7.0,
+            "end_time": 7.2,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.4,
+            "phrase": "could"
+        },
+        {
+            "begin_time": 7.4,
+            "end_time": 8.3,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.2,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 13.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 13.7,
+            "end_time": 14.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 14.6,
+            "end_time": 14.8,
+            "phrase": "lateral"
+        },
+        {
+            "begin_time": 14.8,
+            "end_time": 15.4,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 15.4,
+            "end_time": 16.0,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.0,
+            "phrase": "costrophrenic"
+        },
+        {
+            "begin_time": 16.0,
+            "end_time": 16.7,
+            "phrase": "angle"
+        },
+        {
+            "begin_time": 16.7,
+            "end_time": 16.8,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.0,
+            "phrase": "not"
+        },
+        {
+            "begin_time": 17.0,
+            "end_time": 17.2,
+            "phrase": "entirely"
+        },
+        {
+            "begin_time": 17.2,
+            "end_time": 17.8,
+            "phrase": "included."
+        },
+        {
+            "begin_time": 21.7,
+            "end_time": 22.2,
+            "phrase": "visualized"
+        },
+        {
+            "begin_time": 22.2,
+            "end_time": 22.4,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 22.4,
+            "end_time": 22.6,
+            "phrase": "lung"
+        },
+        {
+            "begin_time": 22.6,
+            "end_time": 23.2,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 23.2,
+            "end_time": 24.6,
+            "phrase": "clear."
+        },
+        {
+            "begin_time": 24.6,
+            "end_time": 24.8,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 24.8,
+            "end_time": 25.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 25.0,
+            "end_time": 25.3,
+            "phrase": "pleural"
+        },
+        {
+            "begin_time": 25.3,
+            "end_time": 26.5,
+            "phrase": "effusion."
+        },
+        {
+            "begin_time": 26.6,
+            "end_time": 26.8,
+            "phrase": "normal"
+        },
+        {
+            "begin_time": 26.8,
+            "end_time": 27.5,
+            "phrase": "cardiomediastinal"
+        },
+        {
+            "begin_time": 27.5,
+            "end_time": 28.1,
+            "phrase": "silhouette."
+        },
+        {
+            "begin_time": 29.7,
+            "end_time": 30.1,
+            "phrase": "bones"
+        },
+        {
+            "begin_time": 30.1,
+            "end_time": 30.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 30.3,
+            "end_time": 30.6,
+            "phrase": "soft"
+        },
+        {
+            "begin_time": 30.6,
+            "end_time": 32.0,
+            "phrase": "tissues"
+        },
+        {
+            "begin_time": 32.1,
+            "end_time": 32.2,
+            "phrase": "appear"
+        },
+        {
+            "begin_time": 32.2,
+            "end_time": 32.6,
+            "phrase": "normal."
+        }
+    ]
+}

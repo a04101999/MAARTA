@@ -1,0 +1,95 @@
+{
+    "full_text": " prominent heart. aortic calcifications. small bilateral effusions are suspected. there's some patchy opacity at the right base. probably atelectasis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.0,
+            "phrase": "prominent heart."
+        },
+        {
+            "begin_time": 2.0,
+            "end_time": 2.6,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 2.6,
+            "end_time": 3.0,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.6,
+            "end_time": 6.2,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 6.2,
+            "end_time": 6.3,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.1,
+            "phrase": "effusions"
+        },
+        {
+            "begin_time": 7.1,
+            "end_time": 7.2,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 7.9,
+            "phrase": "suspected."
+        },
+        {
+            "begin_time": 9.3,
+            "end_time": 9.9,
+            "phrase": "there's"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.0,
+            "phrase": "some"
+        },
+        {
+            "begin_time": 10.0,
+            "end_time": 10.6,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 10.6,
+            "end_time": 11.1,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 11.1,
+            "end_time": 11.2,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 11.2,
+            "end_time": 11.3,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.3,
+            "end_time": 11.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 11.5,
+            "end_time": 11.9,
+            "phrase": "base."
+        },
+        {
+            "begin_time": 11.9,
+            "end_time": 12.6,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 13.3,
+            "phrase": "atelectasis."
+        }
+    ]
+}

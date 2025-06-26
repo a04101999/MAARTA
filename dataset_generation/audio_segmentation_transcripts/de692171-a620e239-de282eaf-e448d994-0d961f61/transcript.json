@@ -1,0 +1,115 @@
+{
+    "full_text": " prominent heart and pulmonary vessels. mild congestion is suspected. no frank edema. the right costophrenic angle is not included and there is no large right effusion.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 3.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.2,
+            "phrase": "heart"
+        },
+        {
+            "begin_time": 3.2,
+            "end_time": 3.4,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 3.4,
+            "end_time": 3.6,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 3.6,
+            "end_time": 4.2,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 5.5,
+            "end_time": 6.0,
+            "phrase": "mild"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.4,
+            "phrase": "congestion"
+        },
+        {
+            "begin_time": 6.4,
+            "end_time": 7.1,
+            "phrase": "is suspected."
+        },
+        {
+            "begin_time": 10.3,
+            "end_time": 10.7,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 10.9,
+            "phrase": "frank"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.3,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 11.7,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 11.7,
+            "end_time": 12.1,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 12.1,
+            "end_time": 12.3,
+            "phrase": "costophrenic"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.9,
+            "phrase": "angle is not included"
+        },
+        {
+            "begin_time": 14.7,
+            "end_time": 15.5,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.2,
+            "phrase": "there"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 19.4,
+            "end_time": 19.5,
+            "phrase": "no"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 19.8,
+            "phrase": "large"
+        },
+        {
+            "begin_time": 19.8,
+            "end_time": 20.0,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 20.0,
+            "end_time": 20.2,
+            "phrase": "effusion."
+        }
+    ]
+}

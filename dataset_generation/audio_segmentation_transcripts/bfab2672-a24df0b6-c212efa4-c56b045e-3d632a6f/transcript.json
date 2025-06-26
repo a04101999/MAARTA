@@ -1,0 +1,50 @@
+{
+    "full_text": " low lung volumes slightly accentuate the heart. normal mediastinum. lungs are clear.",
+    "time_stamped_text": [
+        {
+            "begin_time": 2.0,
+            "end_time": 3.0,
+            "phrase": "low lung volumes"
+        },
+        {
+            "begin_time": 3.0,
+            "end_time": 3.5,
+            "phrase": "slightly"
+        },
+        {
+            "begin_time": 3.5,
+            "end_time": 4.1,
+            "phrase": "accentuate"
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 4.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 4.2,
+            "end_time": 4.6,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 4.6,
+            "end_time": 6.1,
+            "phrase": "normal mediastinum."
+        },
+        {
+            "begin_time": 9.4,
+            "end_time": 9.9,
+            "phrase": "lungs"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 9.9,
+            "phrase": "are"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.2,
+            "phrase": "clear."
+        }
+    ]
+}

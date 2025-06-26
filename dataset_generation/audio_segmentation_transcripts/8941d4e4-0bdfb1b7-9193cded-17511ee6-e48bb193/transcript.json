@@ -1,0 +1,110 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. prominent pulmonary vasculature. increased density at the bases. small effusion is suspected. this appears to represent pulmonary edema. thoracic spinal degeneration",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.4,
+            "end_time": 2.3,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 3.3,
+            "end_time": 3.8,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 4.1,
+            "end_time": 6.0,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.0,
+            "end_time": 6.1,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.8,
+            "phrase": "vasculature."
+        },
+        {
+            "begin_time": 8.8,
+            "end_time": 9.5,
+            "phrase": "increased"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.6,
+            "phrase": "density"
+        },
+        {
+            "begin_time": 9.6,
+            "end_time": 9.9,
+            "phrase": "at"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 9.9,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.9,
+            "end_time": 10.3,
+            "phrase": "bases."
+        },
+        {
+            "begin_time": 10.7,
+            "end_time": 12.0,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.2,
+            "phrase": "effusion"
+        },
+        {
+            "begin_time": 12.2,
+            "end_time": 13.3,
+            "phrase": "is suspected."
+        },
+        {
+            "begin_time": 16.1,
+            "end_time": 16.5,
+            "phrase": "this appears to"
+        },
+        {
+            "begin_time": 16.5,
+            "end_time": 16.8,
+            "phrase": "represent"
+        },
+        {
+            "begin_time": 16.8,
+            "end_time": 17.4,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 17.4,
+            "end_time": 17.6,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 20.1,
+            "end_time": 20.5,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 20.5,
+            "end_time": 20.9,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 20.9,
+            "end_time": 21.0,
+            "phrase": "degeneration"
+        }
+    ]
+}

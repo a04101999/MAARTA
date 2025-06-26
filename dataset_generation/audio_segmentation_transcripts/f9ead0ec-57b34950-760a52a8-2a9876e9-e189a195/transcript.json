@@ -1,0 +1,140 @@
+{
+    "full_text": " cardiomegaly. aortic calcifications. prominent pulmonary vessels. patchy opacity in the right upper and lower and left lower lungs. probably edema or atelectasis or infection. small bilateral effusions.",
+    "time_stamped_text": [
+        {
+            "begin_time": 1.8,
+            "end_time": 2.7,
+            "phrase": "cardiomegaly."
+        },
+        {
+            "begin_time": 4.4,
+            "end_time": 5.0,
+            "phrase": "aortic"
+        },
+        {
+            "begin_time": 5.0,
+            "end_time": 5.3,
+            "phrase": "calcifications."
+        },
+        {
+            "begin_time": 5.3,
+            "end_time": 6.3,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 6.3,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 7.2,
+            "phrase": "vessels."
+        },
+        {
+            "begin_time": 7.2,
+            "end_time": 8.4,
+            "phrase": "patchy"
+        },
+        {
+            "begin_time": 8.4,
+            "end_time": 8.9,
+            "phrase": "opacity"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 8.9,
+            "phrase": "in"
+        },
+        {
+            "begin_time": 8.9,
+            "end_time": 9.2,
+            "phrase": "the"
+        },
+        {
+            "begin_time": 9.2,
+            "end_time": 9.5,
+            "phrase": "right"
+        },
+        {
+            "begin_time": 9.5,
+            "end_time": 9.7,
+            "phrase": "upper"
+        },
+        {
+            "begin_time": 9.7,
+            "end_time": 11.6,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 11.6,
+            "end_time": 12.0,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 12.0,
+            "end_time": 12.3,
+            "phrase": "and"
+        },
+        {
+            "begin_time": 12.3,
+            "end_time": 12.6,
+            "phrase": "left"
+        },
+        {
+            "begin_time": 12.6,
+            "end_time": 12.8,
+            "phrase": "lower"
+        },
+        {
+            "begin_time": 12.8,
+            "end_time": 13.3,
+            "phrase": "lungs."
+        },
+        {
+            "begin_time": 14.3,
+            "end_time": 15.1,
+            "phrase": "probably"
+        },
+        {
+            "begin_time": 15.1,
+            "end_time": 15.5,
+            "phrase": "edema"
+        },
+        {
+            "begin_time": 15.5,
+            "end_time": 15.8,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 15.8,
+            "end_time": 17.5,
+            "phrase": "atelectasis"
+        },
+        {
+            "begin_time": 17.5,
+            "end_time": 17.9,
+            "phrase": "or"
+        },
+        {
+            "begin_time": 17.9,
+            "end_time": 18.7,
+            "phrase": "infection."
+        },
+        {
+            "begin_time": 18.7,
+            "end_time": 19.3,
+            "phrase": "small"
+        },
+        {
+            "begin_time": 19.3,
+            "end_time": 19.5,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.4,
+            "phrase": "effusions."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "full_text": " prominent heart. thoracic spinal degeneration. generalized haziness of the lungs with probable bilateral effusions, left greater than right. small amount of fluid in the right minor fissure. this is consistent with pulmonary edema. bilateral ac joint arthritis.",
+    "time_stamped_text": [
+        {
+            "begin_time": 3.2,
+            "end_time": 3.8,
+            "phrase": "prominent"
+        },
+        {
+            "begin_time": 3.8,
+            "end_time": 4.1,
+            "phrase": "heart."
+        },
+        {
+            "begin_time": 5.2,
+            "end_time": 5.8,
+            "phrase": "thoracic"
+        },
+        {
+            "begin_time": 5.8,
+            "end_time": 6.1,
+            "phrase": "spinal"
+        },
+        {
+            "begin_time": 6.1,
+            "end_time": 6.3,
+            "phrase": "degeneration."
+        },
+        {
+            "begin_time": 6.3,
+            "end_time": 10.4,
+            "phrase": "generalized haziness of the lungs with"
+        },
+        {
+            "begin_time": 10.4,
+            "end_time": 10.9,
+            "phrase": "probable"
+        },
+        {
+            "begin_time": 10.9,
+            "end_time": 11.8,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 11.8,
+            "end_time": 16.0,
+            "phrase": "effusions, left greater than right. small amount of fluid in the right minor fissure."
+        },
+        {
+            "begin_time": 16.6,
+            "end_time": 17.1,
+            "phrase": "this"
+        },
+        {
+            "begin_time": 17.1,
+            "end_time": 18.4,
+            "phrase": "is"
+        },
+        {
+            "begin_time": 18.4,
+            "end_time": 18.8,
+            "phrase": "consistent"
+        },
+        {
+            "begin_time": 18.8,
+            "end_time": 19.2,
+            "phrase": "with"
+        },
+        {
+            "begin_time": 19.2,
+            "end_time": 19.5,
+            "phrase": "pulmonary"
+        },
+        {
+            "begin_time": 19.5,
+            "end_time": 20.0,
+            "phrase": "edema."
+        },
+        {
+            "begin_time": 21.8,
+            "end_time": 22.5,
+            "phrase": "bilateral"
+        },
+        {
+            "begin_time": 22.5,
+            "end_time": 22.9,
+            "phrase": "ac"
+        },
+        {
+            "begin_time": 22.9,
+            "end_time": 24.3,
+            "phrase": "joint"
+        },
+        {
+            "begin_time": 24.3,
+            "end_time": 25.6,
+            "phrase": "arthritis."
+        }
+    ]
+}
