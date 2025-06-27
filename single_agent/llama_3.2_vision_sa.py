@@ -18,7 +18,7 @@ def extract_json(text):
 
     if match:
         json_str = match.group()
-        if json_str.strip():  # Check if the JSON string is not empty
+        if json_str.strip():  
             try:
                 json_data = json.loads(json_str)
                 return json_data
