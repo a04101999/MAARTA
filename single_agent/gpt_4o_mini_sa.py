@@ -1,67 +1,15 @@
 import time
 import json
 import argparse
-import re
-from openai import OpenAI
-import os
 import random
+from model_request.req import openai_request, extract_json, validate_prediction
+from dotenv import load_dotenv
+import os
 
-# Place your OpenAI API key here
-api_key = ""
-
-
-def extract_json(text):
-    json_pattern = re.compile(r'{.*?}', re.DOTALL)
-
-    match = json_pattern.search(text)
-
-    if match:
-        json_str = match.group()
-        if json_str.strip():  # Check if the JSON string is not empty
-            try:
-                json_data = json.loads(json_str)
-                return json_data
-            except json.JSONDecodeError as e:
-                return None
-
-    return None
-
-
-def validate_prediction(prediction: dict):
-    class_labels = set({'Missed abnormality due to missing fixation', 'Missed abnormality due to reduced fixation',
-                       'Missed abnormality due to incomplete knowledge', 'No missing abnormality'})
-
-    valid_values = {0, 1}  # Set of valid values
-
-    for label in class_labels:
-        if label not in prediction:
-            return False
-
-        try:
-            value = int(prediction[label])
-        except (ValueError, TypeError):
-            return False
-
-        if value not in valid_values:
-            return False
-
-    return True
-
-
-def model_request(system_content: str, prompt: str):
-    client = OpenAI(api_key=api_key)
-
-    completion = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": system_content},
-            {"role": "user", "content": prompt}
-        ],
-        temperature=0.2,
-        max_tokens=500
-    )
-
-    return completion.choices[0].message.content
+load_dotenv()
+api_key = os.getenv("OPENAI_API_KEY")
+assert api_key is not None and len(
+    api_key) > 0, "Please set the OPENAI_API_KEY environment variable."
 
 
 def create_zero_shot_prompt(experienced_data, inexperienced_data, experienced_time_stamps, inexperienced_time_stamps):
@@ -101,31 +49,20 @@ def create_zero_shot_prompt(experienced_data, inexperienced_data, experienced_ti
     return prompt
 
 
-def run_zshot_inference(data: dict, zshot_saved_predictions_to_JSON):
+def run_inference(data: dict, saved_predictions_to_JSON: dict):
     system_role_prompt = "You are a helpful teaching assistant to provide feedback to the inexperienced radiologist."
-    prediction_results = []
-    skipped_dicom_predictions = set()
-
-    inference_times = []
     number_processed = 0
 
+    class_labels = set({'Missed abnormality due to missing fixation', 'Missed abnormality due to reduced fixation',
+                       'Missed abnormality due to incomplete knowledge', 'No missing abnormality'})
+
     for K in data.items():
-        if K[0] in zshot_saved_predictions_to_JSON:
+        if K[0] in saved_predictions_to_JSON:
             continue
 
         pred_start_time = time.time()
         da = data[K[0]]['correct_data']
 
-        result = [
-            {
-                'X_ORIGINAL': da['X_ORIGINAL'][i],
-                'Y_ORIGINAL': da['Y_ORIGINAL'][i],
-                'FPOGD': da['FPOGD'][i],
-                'Time (in secs)': da['Time (in secs)'][i]
-            }
-            for i in range(len(da['X_ORIGINAL']))
-        ]
-        exp_fix = result.copy()
         s = ''
         exp_tran = da['transcript']
         for i in exp_tran:
@@ -168,11 +105,11 @@ def run_zshot_inference(data: dict, zshot_saved_predictions_to_JSON):
         prompt = create_zero_shot_prompt(
             experienced_data, inexperienced_data, exp_tran, inexp_tran)
 
-        response = model_request(system_role_prompt, prompt)
+        response = openai_request(system_role_prompt, prompt, api_key,
+                                  model="gpt-4o-mini", temperature=0.2, max_tokens=500)
 
         if response is None:
             # print("Error in response.")
-            skipped_dicom_predictions.add(K[0])
             continue
 
         # print(response)
@@ -181,22 +118,16 @@ def run_zshot_inference(data: dict, zshot_saved_predictions_to_JSON):
 
         if error_assessment is None:
             # print("Error in extracting JSON from response.")
-            skipped_dicom_predictions.add(K[0])
             continue
-        else:
-            if not validate_prediction(error_assessment):
-                # print("Invalid prediciton reponse JSON missing label.")
-                skipped_dicom_predictions.add(K[0])
-            else:
-                # print(K[0], error_assessment)
-                zshot_saved_predictions_to_JSON[K[0]] = error_assessment
-                prediction_results.append(error_assessment)
-                pred_end_time = time.time()
-                inference_times.append(pred_end_time - pred_start_time)
-                number_processed += 1
-                print("Number Processed:", number_processed)
 
-    return prediction_results, skipped_dicom_predictions, inference_times
+        if validate_prediction(error_assessment, class_labels):
+            pred_end_time = time.time()
+            saved_predictions_to_JSON[K[0]] = error_assessment
+            saved_predictions_to_JSON[K[0]
+                                      ]['inference_time'] = pred_end_time - pred_start_time
+            print(K[0], "processed in", pred_end_time -
+                  pred_start_time, "seconds.")
+            number_processed += 1
 
 
 def main():
@@ -216,9 +147,6 @@ def main():
     with open(args.data, 'r') as file:
         data = json.load(file)
 
-    assert len(datalab) == len(
-        data), "Metadata and data lengths do not match"
-
     random_sampled_data = {key: data[key]
                            for key in random.sample(list(data.keys()), len(data))}
     assert len(random_sampled_data) == len(data)
@@ -235,42 +163,48 @@ def main():
 
     print("Batch Size", batch_size, "| Last Batch Size", len(batches[-1]))
     print("Total Number of Samples", sum(len(batch) for batch in batches))
+    print("===============================================\n")
 
     assert sum(len(batch) for batch in batches) == dataset_size
 
-    # Run the zero-shot inference and save the results
-    zshot_saved_predictions_to_JSON = {}
-    results_output_file = args.results if args.results else "gpt4o_mini_zshot_results.json"
+    saved_predictions_to_JSON = {}
+    results_output_file = args.results if args.results else "gpt4o_mini_single_agent_results.json"
 
     if args.results:
+        print("Loading existing results from", args.results)
         with open(args.results, 'r') as file:
-            zshot_saved_predictions_to_JSON = json.load(file)
+            saved_predictions_to_JSON = json.load(file)
 
-    sample_runtimes = []
+        print("Loaded", len(saved_predictions_to_JSON),
+              "existing predictions.")
+        print("===============================================\n")
+
     current_batch = 1
 
     for b in batches:
         print("Inference on batch", current_batch)
-        zshot_results, zshot_skipped_dicom_ids, inference_times = run_zshot_inference(
-            b, zshot_saved_predictions_to_JSON)
-        sample_runtimes.extend(inference_times)
+        run_inference(
+            b, saved_predictions_to_JSON)
 
-        print("Results", len(zshot_results),
-              "| Skipped", len(zshot_skipped_dicom_ids))
-        print("--------------------------------------------")
+        print("Completed batch", current_batch)
+        with open(results_output_file, 'w') as file:
+            json.dump(saved_predictions_to_JSON, file, indent=4)
         current_batch += 1
 
+        print("===============================================\n")
+
     with open(results_output_file, 'w') as file:
-        json.dump(zshot_saved_predictions_to_JSON, file, indent=4)
+        json.dump(saved_predictions_to_JSON, file, indent=4)
 
     # Perform a final check to see if all data has been processed
     missed_samples = {}
 
     for key in random_sampled_data.keys():
-        if key not in zshot_saved_predictions_to_JSON.keys():
+        if key not in saved_predictions_to_JSON.keys():
             missed_samples[key] = random_sampled_data[key]
 
     print("Missed samples:", len(missed_samples))
+    print("===============================================\n")
 
     missed_batches = []
 
@@ -280,19 +214,22 @@ def main():
 
     epochs = 0
 
-    while len(zshot_saved_predictions_to_JSON) < len(random_sampled_data) and epochs < 5:
-        for b in missed_batches:
-            zshot_results, zshot_skipped_dicom_ids, inference_times = run_zshot_inference(
-                b, zshot_saved_predictions_to_JSON)
-            sample_runtimes.extend(inference_times)
+    while len(saved_predictions_to_JSON) < len(random_sampled_data) and epochs < 5:
+        for i, b in enumerate(missed_batches):
+            run_inference(
+                b, saved_predictions_to_JSON)
+
+            print(f"Completed batch {i + 1}")
+            with open(results_output_file, 'w') as file:
+                json.dump(saved_predictions_to_JSON, file, indent=4)
+            print("===============================================\n")
 
         epochs += 1
 
     with open(results_output_file, 'w') as file:
-        json.dump(zshot_saved_predictions_to_JSON, file, indent=4)
+        json.dump(saved_predictions_to_JSON, file, indent=4)
 
-    print("DONE | Average Inference runtime", (round(
-        sum(sample_runtimes) / len(sample_runtimes), 3)), "seconds per sample")
+    print("DONE")
 
 
 if __name__ == "__main__":

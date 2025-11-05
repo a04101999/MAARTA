@@ -1,1 +1,5 @@
 .venv
+original_fixation_transcript_data.json
+original_fixation_transcript_metadata.json
+__pycache__/
+.env

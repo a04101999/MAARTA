@@ -1,5 +1,7 @@
 # MAARTA
+
 [Under Prep]
+
 ## Table of Contents
 
 - [Dataset](#dataset)
@@ -17,6 +19,7 @@ It contains two files:
 2. Labels for the the cases
 
 **Note** - We have uploaded a Supplementary_MAARTA.pdf file in this repository, which includes detailed statistics of the simulated error dataset and class-specific performance comparisons of MAARTA against baseline methods.
+
 ## Dataset Generation
 
 This dataset was derived from the [EGD-CXR](https://physionet.org/content/egd-cxr/1.0.0/) dataset. The EGD-CXR dataset was created using an eye-tracking system to monitor a radiologist's gaze while interpreting and reading 1,083 publicly available chest X-ray (CXR) images. We provide a Python file within the `dataset_generation` directory with the code used to generate the simulated error dataset. To reproduce the synthesized error dataset, you will need to download the original EGD-CXR dataset from PhysioNet and extract the audio_segmentation_transcripts and fixation folders as displayed within the `dataset_generation` directory. Then run the `egd_cxr_processing.py` file with the following command:
@@ -42,6 +45,25 @@ Mistral 7B-Instruct-v0.3, and GPT-4o. For this experiment the Mistral and Llama 
 3. These API keys can be obtained by signing up for an account on the respective platforms and following their instructions for generating API keys.
 4. The API keys will need to be inserted into the code in the respective files located near the top of the file.
 5. These scripts are designed to be run from the command line and requires Python 3.8 or higher.
+
+## Set Up .env File
+
+To run the code, you will need to create a `.env` file in the root directory of the repository. This file should contain your API keys for OpenAI and TogetherAI. The format of the `.env` file should be as follows and is provided as an example in `.env.example`:
+
+```
+OPENAI_API_KEY=your_openai_api_key
+TOGETHERAI_API_KEY=your_togetherai_api_key
+```
+
+## Install Required Packages
+
+To install the required Python packages used in this experiment run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Command Line Usage
 
 ```bash
 Usage:
