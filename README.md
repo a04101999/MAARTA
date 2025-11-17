@@ -43,8 +43,9 @@ Mistral 7B-Instruct-v0.3, and GPT-4o. For this experiment the Mistral and Llama 
 1. These python files are located in the `./single_agent`, `./single_agent_thought_graph` directories of this repository.
 2. To run these programs you will need a together.ai API key and OpenAI API key to perform requests to these models.
 3. These API keys can be obtained by signing up for an account on the respective platforms and following their instructions for generating API keys.
-4. The API keys will need to be inserted into the code in the respective files located near the top of the file.
-5. These scripts are designed to be run from the command line and requires Python 3.8 or higher.
+4. The API keys will need to be inserted into your .env file following the `.env.example` file.
+5. Download the datasets used in this experiment located here [Dataset](#dataset) and place the path to these files within the `.env` file.
+6. These scripts are designed to be run from the command line and requires Python 3.8 or higher.
 
 ## Set Up .env File
 
@@ -53,6 +54,8 @@ To run the code, you will need to create a `.env` file in the root directory of 
 ```
 OPENAI_API_KEY=your_openai_api_key
 TOGETHERAI_API_KEY=your_togetherai_api_key
+METADATA_FILE= path to metadata file
+DATA_FILE= path to data file
 ```
 
 ## Install Required Packages
@@ -70,7 +73,5 @@ Usage:
   python3 ./file - [flags]
 
 Flags:
-  --data (required)                File path to our synthesized error dataset file with missing or masked fixations
-  --metadata (required)            File path to our synthesized error dataset metadata file containing labels for corresponding cases
-  --results (optional)             File path to preexisting results output file generated to continue appending results from the LLM/LMM models
+  --results (optional)             File path to a preexisting results output file generated to continue a previous experiment
 ```

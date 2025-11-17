@@ -94,20 +94,24 @@ def run_thought_graph_inference(data, saved_thought_graph_results_toJSON: dict):
 
 
 def main():
+    metadata_file = os.getenv("METADATA_FILE")
+    assert api_key is not None and len(
+        api_key) > 0, "Please set the METADATA_FILE environment variable."
+
+    data_file = os.getenv("DATA_FILE")
+    assert api_key is not None and len(
+        api_key) > 0, "Please set the DATA_FILE environment variable."
+
     parser = argparse.ArgumentParser(
         description="Your script description here.")
-    parser.add_argument('--metadata', type=str,
-                        help='Path to dataset transcript metadata file', required=True)
-    parser.add_argument('--data', type=str,
-                        help='Path to transcript data file', required=True)
     parser.add_argument('--results', type=str,
                         help='Path to preexisting results file', required=False)
     args = parser.parse_args()
 
-    with open(args.metadata, 'r') as file:
+    with open(f'../{metadata_file}', 'r') as file:
         datalab = json.load(file)
 
-    with open(args.data, 'r') as file:
+    with open(f'../{data_file}', 'r') as file:
         data = json.load(file)
 
     random_sampled_data = {key: data[key]

@@ -472,10 +472,10 @@ def main():
 
         curr_subgroup_indx += 1
 
-    with open('original_fixation_transcript_data.json', 'w') as json_file:
+    with open('original_fixation_transcript_simulated_error_data.json', 'w') as json_file:
         json_file.write(json.dumps(fixation_transcript_data, indent=4))
 
-    with open('original_fixation_transcript_metadata.json', 'w') as json_file:
+    with open('original_fixation_transcript_label_missed.json', 'w') as json_file:
         json_file.write(json.dumps(
             fixation_transcript_metadata, indent=4))
 

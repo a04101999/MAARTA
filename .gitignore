@@ -1,5 +1,7 @@
 .venv
-original_fixation_transcript_data.json
-original_fixation_transcript_metadata.json
+missed_findings_results.json
 __pycache__/
 .env
+/res
+original_fixation_transcript_label_missed.json
+original_fixation_transcript_simulated_error_data.json
