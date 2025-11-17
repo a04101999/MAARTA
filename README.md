@@ -44,7 +44,7 @@ Mistral 7B-Instruct-v0.3, and GPT-4o. For this experiment the Mistral and Llama 
 2. To run these programs you will need a together.ai API key and OpenAI API key to perform requests to these models.
 3. These API keys can be obtained by signing up for an account on the respective platforms and following their instructions for generating API keys.
 4. The API keys will need to be inserted into your .env file following the `.env.example` file.
-5. Download the datasets used in this experiment located here [Dataset](#dataset) and place the path to these files within the `.env` file.
+5. Download the datasets used in this experiment located here [Dataset](#dataset) and place names of these files within the `.env` file. (Alternatively you can place the api key and file names within the code located near the top of the files.)
 6. These scripts are designed to be run from the command line and requires Python 3.8 or higher.
 
 ## Set Up .env File
