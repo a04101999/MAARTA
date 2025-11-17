@@ -54,8 +54,8 @@ To run the code, you will need to create a `.env` file in the root directory of 
 ```
 OPENAI_API_KEY=your_openai_api_key
 TOGETHERAI_API_KEY=your_togetherai_api_key
-METADATA_FILE= path to metadata file
-DATA_FILE= path to data file
+METADATA_FILE= metadata filename
+DATA_FILE= data filename
 ```
 
 ## Install Required Packages
