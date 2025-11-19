@@ -23,13 +23,13 @@ openai.api_key = api_key
 # ---------------------------
 # Data loading
 # ---------------------------
-metadata_file = os.getenv("METADATA_FILE")
+metadata_file = os.getenv("METADATA_FILENAME")
 assert api_key is not None and len(
-    api_key) > 0, "Please set the METADATA_FILE environment variable."
+    api_key) > 0, "Please set the METADATA_FILENAME environment variable."
 
-data_file = os.getenv("DATA_FILE")
+data_file = os.getenv("DATA_FILENAME")
 assert api_key is not None and len(
-    api_key) > 0, "Please set the DATA_FILE environment variable."
+    api_key) > 0, "Please set the DATA_FILENAME environment variable."
 
 with open(metadata_file, 'r') as file:
     datalab = json.load(file)

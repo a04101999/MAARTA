@@ -16,13 +16,13 @@ api_key = os.getenv("OPENAI_API_KEY")
 assert api_key is not None and len(
     api_key) > 0, "Please set the OPENAI_API_KEY environment variable."
 
-metadata_file = os.getenv("METADATA_FILE")
+metadata_file = os.getenv("METADATA_FILENAME")
 assert api_key is not None and len(
-    api_key) > 0, "Please set the METADATA_FILE environment variable."
+    api_key) > 0, "Please set the METADATA_FILENAME environment variable."
 
-data_file = os.getenv("DATA_FILE")
+data_file = os.getenv("DATA_FILENAME")
 assert api_key is not None and len(
-    api_key) > 0, "Please set the DATA_FILE environment variable."
+    api_key) > 0, "Please set the DATA_FILENAME environment variable."
 
 metadata_file_path = f'../{metadata_file}'
 data_file_path = f'../{data_file}'

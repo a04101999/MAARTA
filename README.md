@@ -55,8 +55,8 @@ Mistral 7B-Instruct-v0.3, and GPT-4o. For this experiment the Mistral and Llama 
 ```
 OPENAI_API_KEY=your_openai_api_key
 TOGETHERAI_API_KEY=your_togetherai_api_key
-METADATA_FILE= metadata filename
-DATA_FILE= data filename
+METADATA_FILENAME= metadata filename
+DATA_FILENAME= data filename
 ```
 
 ## Install Required Packages
