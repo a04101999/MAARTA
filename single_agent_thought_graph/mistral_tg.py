@@ -8,10 +8,35 @@ import os
 from model_request.req import togetherai_request, extract_json, validate_prediction
 from thought_graph.graph_creation import create_scene_graph_by_sentence, compare_scene_graphs_with_llm
 
+# ---------------------------
+# Data loading (Manually adjust if not using a .env file)
+# ---------------------------
+
 load_dotenv()
 api_key = os.getenv("TOGETHERAI_API_KEY")
 assert api_key is not None and len(
     api_key) > 0, "Please set the TOGETHERAI_API_KEY environment variable."
+
+metadata_file = os.getenv("METADATA_FILE")
+assert api_key is not None and len(
+    api_key) > 0, "Please set the METADATA_FILE environment variable."
+
+data_file = os.getenv("DATA_FILE")
+assert api_key is not None and len(
+    api_key) > 0, "Please set the DATA_FILE environment variable."
+
+metadata_file_path = f'../{metadata_file}'
+data_file_path = f'../{data_file}'
+
+with open(metadata_file_path, 'r') as file:
+    datalab = json.load(file)
+
+with open(data_file_path, 'r') as file:
+    data = json.load(file)
+
+# ---------------------------
+# Thought Graph Inference Functions
+# ---------------------------
 
 
 def run_thought_graph_inference(data, saved_thought_graph_results_toJSON: dict):
@@ -96,25 +121,11 @@ def run_thought_graph_inference(data, saved_thought_graph_results_toJSON: dict):
 
 
 def main():
-    metadata_file = os.getenv("METADATA_FILE")
-    assert api_key is not None and len(
-        api_key) > 0, "Please set the METADATA_FILE environment variable."
-
-    data_file = os.getenv("DATA_FILE")
-    assert api_key is not None and len(
-        api_key) > 0, "Please set the DATA_FILE environment variable."
-
     parser = argparse.ArgumentParser(
         description="Your script description here.")
     parser.add_argument('--results', type=str,
                         help='Path to preexisting results file', required=False)
     args = parser.parse_args()
-
-    with open(f'../{metadata_file}', 'r') as file:
-        datalab = json.load(file)
-
-    with open(f'../{data_file}', 'r') as file:
-        data = json.load(file)
 
     random_sampled_data = {key: data[key]
                            for key in random.sample(list(data.keys()), len(data))}

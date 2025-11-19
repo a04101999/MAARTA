@@ -31,6 +31,12 @@ data_file = os.getenv("DATA_FILE")
 assert api_key is not None and len(
     api_key) > 0, "Please set the DATA_FILE environment variable."
 
+with open(metadata_file, 'r') as file:
+    datalab = json.load(file)
+
+with open(data_file, 'r') as file:
+    data = json.load(file)
+
 parser = argparse.ArgumentParser(
     description="Add a prior result JSON file to continue an existing experiment.")
 parser.add_argument('--results', type=str,
@@ -38,12 +44,6 @@ parser.add_argument('--results', type=str,
 args = parser.parse_args()
 
 result_output_file = args.results if args.results else "missed_findings_results.json"
-
-with open(metadata_file, 'r') as file:
-    datalab = json.load(file)
-
-with open(data_file, 'r') as file:
-    data = json.load(file)
 
 
 # Shuffle data
