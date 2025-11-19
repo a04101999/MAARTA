@@ -7,6 +7,7 @@ import os
 from model_request.req import openai_request, extract_json, validate_prediction
 from thought_graph.graph_creation import create_scene_graph_by_sentence, compare_scene_graphs_with_llm
 
+
 # ---------------------------
 # Data loading (Manually adjust if not using a .env file)
 # ---------------------------
@@ -17,12 +18,12 @@ assert api_key is not None and len(
     api_key) > 0, "Please set the OPENAI_API_KEY environment variable."
 
 metadata_file = os.getenv("METADATA_FILENAME")
-assert api_key is not None and len(
-    api_key) > 0, "Please set the METADATA_FILENAME environment variable."
+assert metadata_file is not None and len(
+    metadata_file) > 0, "Please set the METADATA_FILENAME environment variable."
 
 data_file = os.getenv("DATA_FILENAME")
-assert api_key is not None and len(
-    api_key) > 0, "Please set the DATA_FILENAME environment variable."
+assert data_file is not None and len(
+    data_file) > 0, "Please set the DATA_FILENAME environment variable."
 
 metadata_file_path = f'../{metadata_file}'
 data_file_path = f'../{data_file}'
